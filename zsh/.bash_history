@@ -85,3 +85,14 @@ z
 exit
 crontab -e
 exit
+q
+exit
+netstat
+ping googl.com
+ping -t  googl.com
+ping -t  google.com
+ping -n google.com
+zsh
+$EDITOR
+$editor
+zsh

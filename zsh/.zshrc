@@ -2,7 +2,9 @@
 ZSH=/usr/share/oh-my-zsh/
 
 # Path to powerlevel10k theme
+
 source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
+
 # Path to lf
 source ~/.config/lf/lf.zsh
 
@@ -63,27 +65,41 @@ function in {
 alias  c='clear' # clear terminal
 alias  l='eza -lh  --icons=auto' # long list
 alias ls='eza -1   --icons=auto' # short list
-alias ll='eza -lha --icons=auto --sort=name --group-directories-first' # long list all
+alias ll='eza --icons --color=always --sort=name --group-directories-first' # long list all
 alias ld='eza -lhD --icons=auto' # long list dirs
-alias un='$aurhelper -Rns' # uninstall package
-alias up='$aurhelper -Syu' # update system/package/aur
+alias yeet='$aurhelper -Rns' # uninstall package
+alias yup='$aurhelper -Syu' # update system/package/aur
 alias pl='$aurhelper -Qs' # list installed package
 alias pa='$aurhelper -Ss' # list availabe package
-alias pc='$aurhelper -Sc' # remove unused cache
+alias yuck='$aurhelper -Sc' # remove unused cache
 alias po='$aurhelper -Qtdq | $aurhelper -Rns -' # remove unused packages, also try > $aurhelper -Qqd | $aurhelper -Rsu --print -
 alias vc='code --ozone-platform-hint=wayland --disable-gpu' # gui code editor
 alias loginn='python /home/kitsunekode/logout.py'
 alias pip='/usr/bin/pip'
-alias chrome='google-chrome-stable --enable-feature=UseOzonePlatform --ozone-platform=wayland'
+alias nfox='prime-run firefox' # run firefox with nvidia gpu
+alias nfoxd='prime-run firefox-developer-edition' # run firefox with nvidia gpu
+alias aw='prime-run ani-cli' # run ani-cli with nvidia gpu
+alias chrome='google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation,VaapiVideoDecodeLinuxGL --ozone-platform=wayland'
 alias compass='mongodb-compass --disable-gpu' gui mongodb-compass
-alias obs='flatpak run com.obsproject.Studio'
+alias obs='prime-run flatpak run com.obsproject.Studio'
+alias zoom='prime-run flatpak run us.zoom.Zoom'
 alias wisdom-tree='python /home/kitsunekode/.local/lib/python3.12/site-packages/wisdom_tree/main.py'
 alias t=tmux
+alias hist='history'
 function hg() {
     history | grep "$1";
 }
 alias rl='omz reload'
 alias q='exit'
+alias vi=vim
+alias ga='git add'
+alias gs='git status'
+alias gp='git push'
+alias gc='git commit -m'
+alias gitc='git clone'
+alias gitp='git pull'
+alias py='python'
+alias spotify='spotify-launcher'
 
 # Handy change dir shortcuts
 alias ..='cd ..'
@@ -92,6 +108,7 @@ alias .3='cd ../../..'
 alias .4='cd ../../../..'
 alias .5='cd ../../../../..'
 alias .,='cd $OLDPWD'
+alias cb='cd $OLDPWD'
 
 # Always mkdir a path (this doesn't inhibit functionality to make a single dir)
 alias mkdir='mkdir -p'
@@ -127,5 +144,8 @@ fi
 
 alias fzp="fzf --preview='bat --color=always {}' --bind shift-up:preview-page-up,shift-down:preview-page-down"
 
+export VISUAL=vim
+export EDITOR=vim
 
-
+PATH="/home/kitsunekode/.local/share/solana/install/active_release/bin:$PATH"
+alias pacpac='sudo pacman -Syu'

@@ -1,18 +1,47 @@
 : 1712494855:0;tomato
+: 1712495028:0;ls
+: 1712495031:0;ls -a
+: 1712495052:0;sudo nano .bashrc
+: 1712495071:0;sudo nano .zshrc
+: 1712495678:0;sudo nano .bashrc
+: 1712495827:0;bash
 : 1712495843:0;sudo nano .bashrc
+: 1712495986:0;sudo nano .zshrc
+: 1712496560:0;sudo nano .bash_history
+: 1712496720:0;sudo nano .bash_profile
 : 1712496747:0;whereis .bashrc
 : 1712496751:0;where .bashrc
 : 1712496769:0;where .zshrc
 : 1712496775:0;wheresi .zshrc
 : 1712496781:0;whereis .zshrc
+: 1712497011:0;neofetch
+: 1712497028:0;sddm
+: 1712497065:0;sudo nano ~/.config/hypr/hyprland.conf
 : 1712497165:0;.zprofile
 : 1712497239:0;cd Hyprdots/Configs
+: 1712497239:0;ls
+: 1712497242:0;ls -a
+: 1712497252:0;cd .config
+: 1712497256:0;ls -a
+: 1712497271:0;firefox
+: 1712497347:0;fire
+: 1712497350:0;firefox
+: 1712497372:0;neofetch
+: 1712497441:0;sudo nano ~/.config/hypr/hyprland.conf
 : 1712497526:0;pacman -S spotify
+: 1712497534:0;sudo pacman -S spotify
+: 1712497598:0;cd Do
+: 1712497612:0;cd ~/Downloads
 : 1712497632:0;mv nvidia.conf ~/.config/hypr
+: 1712497664:0;sudo nano ~/.config/hypr/hyprland.conf
+: 1712497912:0;yay -S spotify-launcher
+: 1712497960:0;spotify
+: 1712497966:0;spotify-launcher
 : 1712498250:0;yay -S google-chrome
 : 1712498521:0;yay -S brave
 : 1712498539:0;sudo yay -R brave
 : 1712498571:0;yay -R brave
+: 1712498579:0;brave
 : 1712498587:0;com.brave.Browser
 : 1712498712:0;sudo pacman -Rns brave-bin
 : 1712498785:0;pacman -Rns com.brave.Browser
@@ -23,9 +52,29 @@
 : 1712498971:0;whereis brave
 : 1712498975:0;whereis com.brave.Browser
 : 1712499158:0;flapak list
+: 1712499164:0;flatpak list
+: 1712499457:0;yay -S spicetify-cli
+: 1712499542:0;sudo chmod a+wr /opt/spotify\
+sudo chmod a+wr /opt/spotify/Apps -R
+: 1712499575:0;sudo chmod a+wr /opt/spotify && sudo chmod a+wr /opt/spotify/Apps -R
+: 1712499807:0;yay -Rns spotify-launcher
+: 1712499814:0;spotify-launcher
+: 1712499825:0;yay -S spotify
+: 1712500029:0;sudo chmod a+wr /opt/spotify && sudo chmod a+wr /opt/spotify/Apps -R
 : 1712500055:0;yay -S spicetify-cli && sudo chmod a+wr /opt/spotify && sudo chmod a+wr /opt/spotify/Apps -R
+: 1712500104:0;~/.config/hypr/scripts/wallbashspotify.sh
+: 1712500160:0;~/.config/hyprdots/scripts/wallbashspotify.sh
 : 1712500208:0;~/Hyprdots/Scripts/wallbash.sh
 : 1712500228:0;~/.config/hyprdots/scripts/wallbashspotify.sh
+: 1712500254:0;spotify
+: 1712500281:0;yay -Rns spotify
+: 1712500286:0;yay -Rns spotify-launcher
+: 1712500292:0;yay -S spotify-launcher
+: 1712500302:0;spotify
+: 1712500308:0;spotify-launcher
+: 1712500380:0;ls
+: 1712500430:0;yay -Rns spotify-launcher
+: 1712500547:0;flatpak list
 : 1712500631:0;flatpak --delete-data com.brave.browser
 : 1712500651:0;flatpak uninstall --delete-data com.brave.Browser
 : 1712500688:0;flatpak uninstall --delete-data org.blender.Blender
@@ -33,9 +82,11 @@
 : 1712500915:0;flatpak uninstall --delete-data org.inkscape.Inkscape
 : 1712501041:0;flatpak uninstall --delete-data com.obsproject.Studio
 : 1712501079:0;flatpak uninstall --delete-data io.gitlab.theevilskeleton.Upscaler
+: 1712501197:0;curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
 : 1712501446:0;yay -Rns vlc
 : 1712501458:0;pacman -Rns vlc
 : 1712501462:0;sudo pacman -Rns vlc
+: 1712501555:0;yay -S spotify-launcher
 : 1712502004:0;spotify-launcher 
 : 1712502032:0;.config
 : 1712502091:0;yay -R spotify-launcher
@@ -95,6 +146,7 @@ spicetify backup apply
 : 1712572378:0;ls
 : 1712572386:0;whereis python
 : 1712572434:0;sudo nano ~/.config/hypr/hyprland.conf
+: 1712572606:0;dolphin .
 : 1712573457:0;/etc/zsh
 : 1712573458:0;ls
 : 1712573478:0;sudo nano zprofile
@@ -142,6 +194,7 @@ spicetify backup apply
 : 1712670802:0;loginn
 : 1712670807:0;sudo nano .zshrc
 : 1712670835:0;loginn
+: 1712670842:0;dolphin
 : 1712670877:0;sudo nano .zshrc
 : 1712670944:0;python
 : 1712670955:0;loginn
@@ -272,7 +325,9 @@ spicetify backup apply
 : 1712761238:0;conf.default
 : 1712761239:0;ls
 : 1712761313:0;dolpin .
+: 1712761326:0;dolphin .
 : 1712761364:0;ls
+: 1712761378:0;nano 10-hinting-slight.conf
 : 1712761459:0;nano 10-yes-antialias.conf
 : 1712761514:0;nano 51-local.conf
 : 1712761533:0;nano 51-user.conf
@@ -386,6 +441,7 @@ spicetify backup apply
 : 1712776228:0;git remote add arch git@github.com:KitsuneKode/temp.git
 : 1712776241:0;git remote add archlinux git@github.com:KitsuneKode/temp.git
 : 1712776252:0;git push -u arch archlinux
+: 1712776263:0;dolphin .
 : 1712776275:0;git init
 : 1712776296:0;git branch -m arch
 : 1712776302:0;git add justtodogit.txt
@@ -435,6 +491,7 @@ spicetify backup apply
 : 1712777274:0;ls
 : 1712777285:0;sudo rm -r yay-git
 : 1712777291:0;ls
+: 1712777310:0;dolphin .
 : 1712777349:0;git pull
 : 1712777426:0;reboot
 : 1712932649:0;vc
@@ -453,6 +510,8 @@ spicetify backup apply
 : 1712934373:0;ls
 : 1712934427:0;nano Readme
 : 1712934432:0;nano README
+: 1712934464:0;nano 20-unhint-small-vera.conf
+: 1712934586:0;nano 10-hinting-slight.conf
 : 1712934717:0;~
 : 1712934719:0;ls -a
 : 1712934753:0;.config
@@ -483,6 +542,7 @@ spicetify backup apply
 : 1712939388:0;/etc/fonts/conf.d/
 : 1712939390:0;ls
 : 1712939395:0;nano README
+: 1712939415:0;nano 10-hinting-slight.conf
 : 1712939432:0;nao 10-yes-antialias.conf
 : 1712939438:0;nano 10-yes-antialias.conf
 : 1712939462:0;nano 51-user.conf
@@ -493,6 +553,7 @@ spicetify backup apply
 : 1712939779:0;npm install -g npm@10.5.2
 : 1712939831:0;npm install -g npm
 : 1712939908:0;npm update npm
+: 1712939935:0;which node
 : 1712939944:0;node --version
 : 1712939950:0;npm --version
 : 1712940087:0;nvm
@@ -530,6 +591,7 @@ spicetify backup apply
 : 1712949850:0;cd 7-1PropDrilling
 : 1712949857:0;npm install
 : 1712949897:0;reboot
+: 1713019766:0;meofetch
 : 1713019774:0;neofetch
 : 1713019778:0;ls
 : 1713019798:0;ls -a
@@ -590,6 +652,7 @@ spicetify backup apply
 : 1713018787:0;flatpak uninstall com.mongodb.Compass
 : 1713018889:0;cd Projects/daily-code
 : 1713018894:0;docker run
+: 1713019148:0;dolphin
 : 1713019454:0;sudo pacman -Syu docker
 : 1713019486:0;sudo pacman -S gparted
 : 1713019517:0;gparted
@@ -662,6 +725,7 @@ spicetify backup apply
 : 1713028547:0;cd mongodb-compass
 : 1713028548:0;ls
 : 1713028595:0;nano MongoDB\ Compass
+: 1713028627:0;dolphin .
 : 1713028890:0;ls -a
 : 1713028898:0;.mongodb
 : 1713028900:0;ls
@@ -669,6 +733,8 @@ spicetify backup apply
 : 1713028916:0;ls -a
 : 1713028944:0;~/.local/share/applications
 : 1713028945:0;ls
+: 1713028982:0;which compass
+: 1713029002:0;which mongodb-compass
 : 1713029081:0;yay -Rns mongodb-compass
 : 1713029203:0;sudo pacman -S compass-community
 : 1713029913:0;sudo pacman -S xsettingsd
@@ -791,6 +857,7 @@ npx prisma db seed
 : 1713038323:0;zoom --help
 : 1713038346:0;zoom --diasble-gpu
 : 1713038352:0;ls
+: 1713038376:0;dolphin .
 : 1713038586:0;yay -Sy zoom@5.17.1.1940
 : 1713038674:0;yay -S zoom@5.17.1.1840
 : 1713038681:0;yay -S zoom5.17.1.1840
@@ -828,6 +895,7 @@ npx prisma db seed
 : 1713102403:0;neofetch
 : 1713102531:0;cd Downloads
 : 1713102533:0;ls
+: 1713102551:0;dolphin .
 : 1713102592:0;ls
 : 1713102721:0;sudo pacman -U zoom_x86_64.pkg.tar.xz
 : 1713102761:0;zoom
@@ -1037,6 +1105,7 @@ sudo chmod a+wr /usr/share/spotify/Apps -R
 : 1713190943:0;ls
 : 1713190952:0;nano xpui.spa
 : 1713190987:0;where is spotify
+: 1713190995:0;which spotify
 : 1713191007:0;spicetify config-dir
 : 1713191077:0;spicetify update
 : 1713191087:0;spicetify apply
@@ -1127,6 +1196,7 @@ sudo chmod a+wr /usr/share/spotify/Apps -R
 : 1713197492:0;sudo nano /etc/default/grub
 : 1713197535:0;vc
 : 1713197545:0;code
+: 1713197550:0;which code
 : 1713197617:0;sudo pacman -Syu
 : 1713197659:0;vc
 : 1713197689:0;.cache
@@ -1229,6 +1299,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1713206690:0;spotify
 : 1713206709:0;spicetify config-dir
 : 1713206725:0;nano config-xpui.ini
+: 1713206754:0;which spotify
 : 1713206772:0;spicetify apply
 : 1713206888:0;yay -Rns spotify
 : 1713206902:0;yay -S spotify-launcher
@@ -1260,8 +1331,10 @@ spicetify apply
 : 1713280713:0;neofetch
 : 1713280754:0;loginn
 : 1713261001:0;vc
+: 1713261319:0;dolphin 
 : 1713261363:0;git pull
 : 1713261384:0;git status
+: 1713261399:0;dolphin .
 : 1713261727:0;cd week-5
 : 1713261738:0;npm create vite@latest
 : 1713261783:0;cd  BusinessCard
@@ -1365,6 +1438,7 @@ spicetify apply
 : 1713447953:0;chrome
 : 1713448298:0;flatpak run com.obsproject.Studio
 : 1713448640:0;chrome
+: 1713449273:0;dolphin
 : 1713450100:0;reboot
 : 1713452254:0;chrome
 : 1713452488:0;reboot
@@ -1412,6 +1486,18 @@ makepkg -si
 : 1713458628:0;ip 
 : 1713458633:0;ip link
 : 1713458646:0;create_ap 
+: 1713458790:0;create_ap wlan0 enp4s0f3u1 GojoNoShita HellNah!
+: 1713458805:0;sudo create_ap -n wlan0 enp4s0f3u1 GojoNoShita HellNah!
+: 1713458852:0;create_ap -n enp4s0f3u1 GojoNoShita HellNah!
+: 1713458859:0;sudo create_ap -n enp4s0f3u1 GojoNoShita HellNah!
+: 1713458869:0;sudo create_ap wlan0 enp4s0f3u1 GojoNoShita HellNah!
+: 1713458881:0;sudo create_ap wlan0 eth0 GojoNoShita HellNah!
+: 1713458912:0;sudo create_ap -n wlan0 GojoNoShita HellNah!
+: 1713458937:0;sudo create_ap -n wlan0 GojoNoShita HellNah12!
+: 1713459153:0;sudo create_ap wlan0 eth0 GojoNoShita youSaidIt!
+: 1713459198:0;sudo create_ap wlo1 wlo1 GojoNoShita youSaidIt!
+: 1713459287:0;sudo create_ap -o wlo1 GojoNoShita youSaidIt!
+: 1713459295:0;sudo create_ap -n wlo1 GojoNoShita youSaidIt!
 : 1713459721:0;neofetch
 : 1713459756:0;flatpak install us.zoom.Zoom
 : 1713459873:0;loginn
@@ -1448,6 +1534,7 @@ makepkg -si
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-a1d2cb4ed6ce.js"></script>\
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-e55780ce0aba.js"></script>\
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_IconButton_js-node_modules_primer_react_lib--b964b4-6ad237e6932f.js"></script>\
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-682c2c-e45e451173ec.js"></script>\
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/keyboard-shortcuts-dialog-b4a646a773af.js"></script>\
 \
 <react-partial partial-name="keyboard-shortcuts-dialog" data-ssr="false" data-catalyst="" class="loaded">\
@@ -1479,6 +1566,7 @@ makepkg -si
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_TooltipV2_Tooltip_js-a1d2cb4ed6ce.js"></script>
 : 1713461027:0;<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_ActionList_index_js-e55780ce0aba.js"></script>
 : 1713461027:0;<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_Button_IconButton_js-node_modules_primer_react_lib--b964b4-6ad237e6932f.js"></script>
+: 1713461027:0;<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_safe-storage_safe-storage_ts-ui_-682c2c-e45e451173ec.js"></script>
 : 1713461028:0;<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/keyboard-shortcuts-dialog-b4a646a773af.js"></script>
 : 1713461028:0;<react-partial partial-name="keyboard-shortcuts-dialog" data-ssr="false" data-catalyst="" class="loaded">
 : 1713461028:0;</react-partial>
@@ -1492,11 +1580,17 @@ makepkg -si
 : 1713461091:0;./wallbashspotify.sh
 : 1713461149:0;nano wallbashspotify.sh
 : 1713461163:0;./wallbashspotify.sh
+: 1713461291:0;dolphin .
+: 1713461363:0;sudo create_ap -n wlo1 GojoNoShita youSaidIt!
 : 1713461490:0;spicetify config
 : 1713461519:0;spicetify restore apply  
 : 1713463058:0;hyprdots
+: 1713463062:0;dolphin .
+: 1713463637:0;spotify --ozone-platform-hint=wayland
+: 1713463661:0;spotify-launcher --ozone-platform-hint=wayland
 : 1713463670:0;spotify
 : 1713463688:0;spotify-launcher 
+: 1713463704:0;spotify-launcher --ozone-platform-hint=wayland
 : 1713464089:0;sudo nano ~/.config/hypr/hyprland.conf
 : 1713464139:0;sudo nano ~/.config/hypr/userprefs.conf
 : 1713464171:0;sudo nano ~/.config/hypr/animations.conf
@@ -1537,6 +1631,7 @@ makepkg -si
 : 1713591053:0;npm run dev
 : 1713591100:0;chrome
 : 1713595893:0;npm run dev
+: 1713601831:0;spotify-launcher --ozone-platform-hint=wayland
 : 1713601835:0;spotify-launcher 
 : 1713609264:0;loginn
 : 1713609948:0;.local/share/bin
@@ -1706,7 +1801,9 @@ MimeType=x-scheme-handler/logseq;
 : 1713619782:0;nano wallbash.sh flatpak us.zoom.Zoom
 : 1713619806:0;wallbash.sh flatpak us.zoom.Zoom
 : 1713619836:0;neofetch
+: 1713619868:0;spotify --ozone-platform-hint=wayland
 : 1713619889:0;spicetify apply
+: 1713619895:0;spotify --ozone-platform-hint=wayland
 : 1713619914:0;~/.local/share/bin
 : 1713619920:0;wallbashspotify.sh
 : 1713619942:0;chmod +x wallbashspotify.sh
@@ -1755,6 +1852,7 @@ npx tsc --init
 : 1713632347:0;mkdir Manga
 : 1713632379:0;opencomic
 : 1713632414:0;vc
+: 1713632441:0;opencomic --ozone-platform-hint=wayland
 : 1713632542:0;mangodl Solo-leveling
 : 1713632548:0;mangodl -Q Solo-leveling
 : 1713632556:0;mangodl 
@@ -1791,6 +1889,7 @@ npx tsc --init
 : 1713635108:0;yay -S opencomic-bin
 : 1713635146:0;opencomic
 : 1713635184:0;opencomic --disable-gpu
+: 1713635226:0;opencomic --ozone-platform-hint=wayland --disable-gpu
 : 1713635391:0;Downloads
 : 1713635392:0;ls
 : 1713635396:0;flapak OpenComic-1.2.0-x86_64.flatpak
@@ -1799,6 +1898,7 @@ npx tsc --init
 : 1713635473:0;yay -Rns opencomc-bin
 : 1713635481:0;yay -Rns opencomic-bin
 : 1713635487:0;opencomic
+: 1713635543:0;dolphin .
 : 1713635685:0;flatpak list |grep opencomic
 : 1713635700:0;flatpak run org.opencomic.app
 : 1713635804:0;trash
@@ -1820,6 +1920,7 @@ npx tsc --init
 : 1713637027:0;ls
 : 1713637034:0;Webtoon_Character_Na_Kang_Lim
 : 1713637035:0;ls
+: 1713637040:0;dolphin .
 : 1713637455:0;flapak run OpenComic
 : 1713637459:0;flatpak run OpenComic
 : 1713638678:0;mangal -F cbz
@@ -1838,13 +1939,16 @@ npx tsc --init
 : 1713766133:0;loginn
 : 1713766139:0;ani-cli
 : 1713766224:0;chrome
+: 1713767734:0;dolphin .
 : 1713769078:0;neofetch
 : 1713769185:0;ani-cli
 : 1713771284:0;mangal -F cbz 
+: 1713771647:0;spotify --ozone-platform-hint=wayland
 : 1713771677:0;spotify
 : 1713771695:0;spicetify
 : 1713771722:0;spicetify apply spotify
 : 1713771735:0;spicetify apply; spotify
+: 1713771776:0;spotify --ozone-platform-hint=wayland; spicetify apply
 : 1713771810:0;spicetify apply
 : 1713771985:0;spicetify backup apply enable-devtools
 : 1713772003:0;spicetify restore backup
@@ -1852,6 +1956,7 @@ npx tsc --init
 : 1713772047:0;spicetify backup apply
 : 1713772080:0;spicetify update
 : 1713772088:0;spicetify auto
+: 1713772115:0;spotify --ozone-platform-hint=wayland
 : 1713772124:0;spicetify auto
 : 1713772247:0;vc
 : 1713774372:0;ani-cli
@@ -1947,6 +2052,7 @@ npx tsc --init
 : 1714123009:0;chrome
 : 1714123014:0;vc
 : 1714123197:0;nano .zshrc
+: 1714123322:0;google-chrome-stable --enable-feature=UseOzonePlatform --ozone-platform_hint=wayland
 : 1714123566:0;sudo nano ~/.config/hypr/hyprland.conf
 : 1714123587:0;sudo nano ~/.config/hypr/windowrules.conf
 : 1714123707:0;chrome
@@ -2010,6 +2116,7 @@ npx tsc --init
 : 1714278368:0;sudo nano ~/.config/hypr/windowrules.conf
 : 1714278967:0;electron28 
 : 1714278988:0;electron28  chrome
+: 1714279042:0;which firefox
 : 1714279058:0;electron28 /usr/bin/firefox
 : 1714279161:0;ani-cli
 : 1714294120:0;loginn
@@ -2085,6 +2192,15 @@ npx tsc --init
 : 1714452671:0;git add Plagiarism_detection.ipynb
 : 1714452684:0;git commit -m 'Added the updated jupyter notebook'
 : 1714452693:0;git push -u archlinux master
+: 1714452938:0;which code
+: 1714453236:0;dolphin
+: 1714453866:0;which dolphin
+: 1714453879:0;dolphin config
+: 1714453885:0;dolphin -config
+: 1714453890:0;dolphin -c
+: 1714453897:0;dolphin --config
+: 1714453911:0;dolphin --help
+: 1714453927:0;dolphin --daemon
 : 1714455315:0;shutdown now
 : 1714465448:0;neofetch
 : 1714465493:0;nvidia
@@ -2227,6 +2343,7 @@ echo "Clock: $current_clock_speed and $max_clock_speed"
 : 1714472256:0;neofetch
 : 1714472303:0;fastfetch
 : 1714472321:0;/usr/bin/fastfetch
+: 1714472404:0;which fastfetch
 : 1714472431:0;chrome
 : 1714472445:0;python3 ~/.local/share/bin/amdgpu.py
 : 1714472561:0;hyprdots
@@ -2297,6 +2414,7 @@ echo "Clock: $current_clock_speed and $max_clock_speed"
 
 : 1714477615:0;sudo dmesg
 : 1714477625:0;nvidia-smi
+: 1714478058:0;which prime-run
 : 1714478186:0;sudo nvidia-smi
 : 1714478291:0;nvidia-dkms
 : 1714478623:0;sudo pacman -S nvidia
@@ -2413,6 +2531,7 @@ intel_gpu="00:02.0"
 : 1714483639:0;ani-cli
 : 1714483777:0;sudo pacman -S fastfetch
 : 1714483788:0;fastfetch
+: 1714483872:0;meofetch
 : 1714483886:0;sudo pacman -S neofetch
 : 1714483891:0;neofetch
 : 1714483905:0;fastfetch
@@ -2456,6 +2575,7 @@ cd /etc/xdg/menus
 : 1714544022:0;spicetify apply
 : 1714544244:0;spotify
 : 1714544373:0;spicetify config-dir
+: 1714544417:0;which spotify
 : 1714544439:0;spotify-launcher 
 : 1714544472:0;sudo chmod a+wr /opt/spotify\
 sudo chmod a+wr /opt/spotify/Apps -R
@@ -2463,6 +2583,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714544544:0;spicetify apply
 : 1714544576:0;$HOME/.local/share/spotify-launcher/install/usr/share/spotify/
 : 1714544581:0;ls
+: 1714544597:0;dolphin .
 : 1714544777:0;/opt/spotify
 : 1714544778:0;ls
 : 1714544842:0;spotify-launcher 
@@ -2494,15 +2615,23 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714554802:0;loginn
 : 1714560518:0;ani-cli
 : 1714566165:0;gestures
+: 1714566183:0;which gesture
 : 1714566187:0;spicetify auto
 : 1714576102:0;loginn
 : 1714576171:0;ani-cli
 : 1714587735:0;nvidia-smi
 : 1714591118:0;sudo nano ~/.config/hypr/windowrules.conf
+: 1714591286:0;postman --ozone-platform-hint=wayland
+: 1714591352:0;postman --ozone-platform-hint=xwayland
+: 1714591356:0;postman --ozone-platform-hint=wayland
 : 1714591366:0;sudo nano ~/.config/hypr/windowrules.conf
 : 1714591713:0;mongodb-compass
 : 1714591724:0;compass
+: 1714591747:0;compass --ozone-platform-hint=wayland
+: 1714591783:0;postman-bin --ozone-platform-hint=wayland
+: 1714591800:0;postman --ozone-platform-hint=wayland
 : 1714592107:0;neofetch
+: 1714592129:0;postman --ozone-platform-hint=wayland
 : 1714592155:0;nano .zshrc
 : 1714592228:0;pl
 : 1714592238:0;ll
@@ -2513,6 +2642,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714592306:0;pa
 : 1714593233:0;sudo nano ~/.config/hypr/windowrules.conf
 : 1714593422:0;libreoffice
+: 1714593475:0;libreoffice --ozone-platform-hint=wayland
 : 1714593641:0;pomodora
 : 1714593650:0;gupom
 : 1714593819:0;sudo pacman -S archlinux-pydoro
@@ -2583,6 +2713,8 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714640335:0;postman kill
 : 1714640684:0;sudo nano ~/.config/hypr/keybindings.conf
 : 1714640772:0;sudo nano ~/.config/hypr/userprefs.conf
+: 1714640957:0;postman --ozone-platform-hint=wayland
+: 1714640989:0;which postman
 : 1714640993:0;/usr/bin
 : 1714641000:0;nano postman
 : 1714641023:0;cd
@@ -2603,6 +2735,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714641104:0;Postman_Config
 : 1714641106:0;ls
 : 1714641144:0;sudo nano ~/.config/hypr/windowrules.conf
+: 1714641247:0;postman --ozone-platform-hint=wayland
 : 1714641459:0;ls
 : 1714641463:0;0
 : 1714641465:0;ls
@@ -2661,6 +2794,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714642855:0;nnao window
 : 1714642861:0;nano window
 : 1714642899:0;postman
+: 1714642910:0;postman --ozone-platform-hint=wayland
 : 1714642927:0;nano postman.desktop
 : 1714642930:0;ls
 : 1714642937:0;nano postman
@@ -2668,7 +2802,9 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714642956:0;/usr/share/applications
 : 1714642959:0;nano Postman
 : 1714642967:0;nano postman.desktop
+: 1714643021:0;postman --ozone-platform-hint=wayland
 : 1714643052:0;nano window
+: 1714643108:0;postman --ozone-platform-hint=wayland
 : 1714643147:0;hyprctl clients
 : 1714643172:0;nano postman.desktop
 : 1714643183:0;sudo nano ~/.config/hypr/windowrules.conf
@@ -2678,6 +2814,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714643288:0;rm -r Postman
 : 1714643299:0;sudo pacman -S postman-bin
 : 1714643319:0;yay -S postman-bin
+: 1714643343:0;postman --ozone-platform-hint=wayland
 : 1714643357:0;postman
 : 1714643373:0;ls
 : 1714643377:0;Postman/
@@ -2801,6 +2938,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714681643:0;~/.config/libreoffice/4/user/
 : 1714681644:0;ls
 : 1714681650:0;nano registrymodifications.xcu
+: 1714681788:0;libreoffice --ozone-platform-hint=wayland
 : 1714681968:0;clear;fastfetch
 : 1714681989:0;neofetch
 : 1714682000:0;clear;fastfetch
@@ -3000,6 +3138,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714823512:0;chmod +x ./install && ./install
 : 1714823652:0;./install
 : 1714823666:0;watcher --start
+: 1714823884:0;which watcher
 : 1714823898:0;/usr/local/bin/watcher
 : 1714823911:0;/usr/local/bin/watcher --ds
 : 1714823923:0;/usr/local/bin/watcher -ds
@@ -3017,6 +3156,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714831537:0;watcher -ds
 : 1714831558:0;pacman -Rns activitywatch-bin-debug
 : 1714831564:0;sudo pacman -Rns activitywatch-bin-debug
+: 1714831673:0;which watcher
 : 1714831678:0;usr/
 : 1714831682:0;/usr
 : 1714831683:0;ls
@@ -3033,6 +3173,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714831753:0;watcher
 : 1714831784:0;watcher -ds 2024-05-04
 : 1714831829:0;watcher
+: 1714831835:0;which watcher
 : 1714831852:0;/usr/local/bin/
 : 1714831853:0;;s
 : 1714831857:0;ls
@@ -3049,6 +3190,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714832070:0;rm watcher
 : 1714832079:0;sduo rm watcher
 : 1714832104:0;sudo rm watcher
+: 1714832112:0;which watcher
 : 1714832119:0;..
 : 1714832133:0;sudo rm -r Watcher
 : 1714832140:0;watcher
@@ -3068,6 +3210,7 @@ sudo chmod a+wr /opt/spotify/Apps -R
 : 1714842282:0;sudo pacman -Rns activitywatch-bin-debug
 : 1714842286:0;sudo pacman -Rns activitywatch-bin
 : 1714842289:0;sudo pacman -Rns activitywatch
+: 1714842306:0;which wihotspot
 : 1714842345:0;wihotspot --help
 : 1714842351:0;wihotspot -
 : 1714842363:0;wihotspot --help
@@ -3146,6 +3289,7 @@ npm install ws @types/ws
 : 1714963870:0;/extra/
 : 1714963890:0;/usr/bin
 : 1714963908:0;docker/
+: 1714963916:0;which docker
 : 1714963924:0;podman-cocker
 : 1714963931:0;podman-docker
 : 1714964094:0;sudo npm install -g yarn
@@ -3235,6 +3379,7 @@ npm install ws @types/ws
 : 1715080503:0;~/Pictures/Screenshots
 : 1715080515:0;mpv --screenshot-dire=$HOME/Pictures/Screenshots
 : 1715080524:0;mpv --screenshot-dir=$HOME/Pictures/Screenshots
+: 1715080626:0;which mpv
 : 1715080633:0;/usr/bin
 : 1715080642:0;nano mpv
 : 1715080676:0;/etc/mpv/
@@ -3277,6 +3422,8 @@ npm install ws @types/ws
 : 1715083710:0;ls
 : 1715083821:0;cd
 : 1715083823:0;ls
+: 1715083911:0;which neovim
+: 1715083916:0;which nvim
 : 1715083995:0;vi
 : 1715084008:0;nv
 : 1715084149:0;/etc/xdg/nvim
@@ -3329,9 +3476,11 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 : 1715089444:0;nvim
 : 1715089505:0;wallbash.sh nvim
 : 1715089533:0;nano wallbash.sh
+: 1715089544:0;which wallbash.sh
 : 1715089552:0;.local/share/bin
 : 1715089553:0;ls
 : 1715089567:0;./wallbash.sh
+: 1715089589:0;which nvim
 : 1715089599:0;./wallbash.sh /usr/bin/nvim
 : 1715089803:0;nvim
 : 1715090005:0;...
@@ -3362,7 +3511,10 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 : 1715090391:0;ls
 : 1715090395:0;cd CopilotChat
 : 1715090396:0;ls
+: 1715090409:0;dolphin .
+: 1715090462:0;dolphin .config/nvim/lua 
 : 1715090557:0;nvim
+: 1715090818:0;dolphin .
 : 1715090845:0;nano CopilotChat.lua
 : 1715090867:0;nvim
 : 1715090992:0;nano CopilotChat.lua
@@ -3458,6 +3610,7 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 : 1715173755:0;git commit -am 'Added the dot files'
 : 1715173786:0;git remote add archlinux git@github.com:KitsuneKode/dotfiles-hyprdots.git
 : 1715173791:0;git push -u archlinux master
+: 1715174028:0;git rm -r --cached .zsh_history
 : 1715174047:0;git commit -am 'fixed'
 : 1715174052:0;git push
 : 1715174452:0;vi .gitignore
@@ -3471,6 +3624,7 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 : 1715174673:0;git init
 : 1715174684:0;git status
 : 1715174707:0;git add .
+: 1715174786:0;git remote add archprivate git@github.com:KitsuneKode/zsh_history.git
 : 1715174823:0;git commit -am 'added zsh files'
 : 1715174842:0;git push -u archprivate master
 : 1715175020:0;cd
@@ -3777,6 +3931,8 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 : 1715240422:0;grep -iE 'vdpau | dri driver' xorg_log_file\
 
 : 1715240464:0;nvidia-smi
+: 1715240524:0;zsh_history
+: 1715240529:0;history
 : 1715240594:0;nvidia-dkms
 : 1715240620:0;.local/share/bin
 : 1715240621:0;ls
@@ -3884,6 +4040,7 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 : 1715245237:0;sudo pacman -S networkmanager nm-connection-editor
 : 1715245259:0;sudo pacman -S networkmanager network-manager-applet
 : 1715245289:0;nmcli dev wifi list
+: 1715245336:0;which wpa_supplicant
 : 1715245353:0;/usr/bin/wpa_supplicant
 : 1715245359:0;/usr/bin/
 : 1715245361:0;ls
@@ -4032,6 +4189,7 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 : 1715250024:0;sudo iw dev wlan0 connect "Tenda_C32368"
 : 1715250058:0;systemctl start NetworkManager
 : 1715250067:0;systemctl start wpa_supplicant
+: 1715250090:0;history
 : 1715250108:0;nvidia-smi
 : 1715250167:0;networkctl list
 : 1715250184:0;networkctl reload
@@ -4166,6 +4324,7 @@ sudo chmod +x /usr/local/bin/jerry
 : 1715279616:0;jerry
 : 1715279721:0;jerry -e
 : 1715279808:0;jerry your name
+: 1715279855:0;which wallbash.sh 
 : 1715279864:0;.local/share/bin
 : 1715279865:0;ls
 : 1715279971:0;~/.config/rofi/styles/
@@ -4201,6 +4360,7 @@ sudo chmod +x /usr/local/bin/jerry
 : 1715282500:0;jerry your name
 : 1715282643:0;jerry -e
 : 1715282692:0;nano jerry
+: 1715282698:0;which jerry
 : 1715282714:0;nano /usr/local/bin/jerry
 : 1715282739:0;code /usr/local/bin/jerry
 : 1715282815:0;yay -Rns ueberzug
@@ -4284,6 +4444,7 @@ sudo chmod +x /usr/local/bin/jerry
 : 1715331058:0;.local/share/lf
 : 1715331059:0;ls
 : 1715331102:0;/etc/lf
+: 1715331116:0;which lf
 : 1715331197:0;/etc
 : 1715331198:0;ls
 : 1715331252:0;mkdir -p ~/.config/lf\
@@ -4300,6 +4461,8 @@ curl https://raw.githubusercontent.com/gokcehan/lf/master/etc/lfrc.example -o ~/
 : 1715331424:0;ls
 : 1715331428:0;lfrc
 : 1715331518:0;lf
+: 1715331597:0;lf hidden(true)
+: 1715331604:0;lf -u hidden(true)
 : 1715331702:0;nano /usr/bin/lf
 : 1715331948:0;ls
 : 1715331955:0;nano lfrc
@@ -4314,21 +4477,30 @@ curl https://raw.githubusercontent.com/gokcehan/lf/master/etc/lfrc.example -o ~/
 : 1715332361:0;lf -config
 : 1715332369:0;lf -config 
 : 1715332411:0;lf
+: 1715332435:0;lf -hidden
+: 1715332440:0;lf -hidden true
+: 1715332449:0;lf hidden
 : 1715332512:0;.local/share/lf
 : 1715332514:0;ls
+: 1715332595:0;lf : hidden
 : 1715332649:0;ls --command 
+: 1715332652:0;ls --command hidden
 : 1715332687:0;nano  lfrc
 : 1715332708:0;~/.config/lf/
 : 1715332709:0;ls
 : 1715332714:0;code lfrc
 : 1715332825:0;lf
 : 1715332960:0;lf -a
+: 1715333005:0;lf hidden --false
 : 1715333120:0;fzf
 : 1715333289:0;yay -Syu ueberzugpp
 : 1715333423:0;lf
+: 1715333441:0;which lf 
 : 1715333447:0;lf --help
 : 1715333478:0;lf -config ~/.config/lf
+: 1715333550:0;lf --command "set hidden"
 : 1715333564:0;lf 
+: 1715333584:0;lf --command "set hidden" "false"
 : 1715333651:0;lf
 : 1715333728:0;lf --command "reload"
 : 1715333805:0;.config/lf
@@ -4349,6 +4521,7 @@ curl https://raw.githubusercontent.com/gokcehan/lf/master/etc/lfrc.example -o ~/
 : 1715334872:0;./lfub
 : 1715335013:0;ueberzugpp layer 
 : 1715335026:0;ueberzugpp layer -h
+: 1715335125:0;which ueberzugpp
 : 1715335140:0;ueberzugpp -config
 : 1715335156:0;ueberzugpp -help
 : 1715335168:0;ueberzugpp cmd
@@ -4382,6 +4555,7 @@ curl https://raw.githubusercontent.com/gokcehan/lf/master/etc/lfrc.example -o ~/
 : 1715336837:0;lf
 : 1715336909:0;ani-cli
 : 1715336965:0;sudo pacman -Rns fzf
+: 1715336985:0;which fzf
 : 1715336991:0;fzf -h
 : 1715337003:0;fzf --zsh
 : 1715337073:0;fisher
@@ -4439,6 +4613,7 @@ curl https://raw.githubusercontent.com/gokcehan/lf/master/etc/lfrc.example -o ~/
 : 1715340712:0;lf
 : 1715341183:0;./fzf-preview.sh
 : 1715341204:0;jerry -i your name
+: 1715341244:0;which jerry
 : 1715341262:0;nano /usr/local/bin/jerry
 : 1715342726:0;neofetch
 : 1715342738:0;clear;fastfetch
@@ -4449,10 +4624,13 @@ curl https://raw.githubusercontent.com/gokcehan/lf/master/etc/lfrc.example -o ~/
 : 1715343108:0;jerry -e
 : 1715343250:0;jerry 
 : 1715343293:0;jerry salad
+: 1715343367:0;nvim $(which jerry)
 : 1715344684:0;lf
 : 1715344734:0;nvim lfrc
 : 1715344793:0;exit
 : 1715345376:0;sudo ani-cli -U
+: 1715346990:0;nvim $(which jerry)
+: 1715347143:0;code $(which jerry)
 : 1715347202:0;jerry salad
 : 1715347233:0;jerry -e
 : 1715347279:0;jerry salad
@@ -4491,6 +4669,7 @@ curl https://raw.githubusercontent.com/gokcehan/lf/master/etc/lfrc.example -o ~/
 : 1715348736:0;ueberzugpp
 : 1715348759:0;ueberzugpp layer --no-stdin --silent --use-escape-codes  \
 
+: 1715348829:0;nvim $(which jerry)
 : 1715414056:0;loginn
 : 1715420109:0;fzf --help
 : 1715420165:0;fzf Pictures
@@ -4760,6 +4939,7 @@ curl https://raw.githubusercontent.com/gokcehan/lf/master/etc/lfrc.example -o ~/
 
 : 1715453063:0;jerry -i salad
 : 1715453082:0;vim jerry
+: 1715453113:0;vim $(which jerry)
 : 1715453222:0;fzf -i -q
 : 1715453257:0;jerry -e
 : 1715453373:0;fzf -enable_wayland
@@ -4772,6 +4952,7 @@ curl https://raw.githubusercontent.com/gokcehan/lf/master/etc/lfrc.example -o ~/
 : 1715453500:0;$XDG_CONFIG_HOME/ueberzugpp/config.json
 : 1715453511:0;$XDG_CONFIG_HOME/ueberzugpp/
 : 1715453619:0;.,
+: 1715453744:0;code $(which jerry)
 : 1715453809:0;sudo -Rns jerry
 : 1715453819:0;sudo pacman -Rns jerry
 : 1715453964:0;cd
@@ -4896,7 +5077,9 @@ sudo chmod +x /usr/local/bin/jerry
 : 1715459975:0;fzfub
 : 1715460032:0;jerry -i salad
 : 1715460190:0;vim jerry
+: 1715460212:0;vim $(which jerry)
 : 1715460328:0;jerry -i salad
+: 1715460361:0;vim $(which jerry)
 : 1715460685:0;ani-cli
 : 1715460919:0;neofetch
 : 1715460929:0;clear;fastfetch
@@ -5043,6 +5226,7 @@ sudo systemctl start docker.service
 : 1715517628:0;sudo pacman -S libxcrypt-compat\
 
 : 1715517655:0;sudo pacman -S docker-compose
+: 1715517673:0;which docker-compose
 : 1715517696:0;sudo pacman -S docker-compose
 : 1715517795:0;docker-compose up
 : 1715517801:0;docker-compose --version
@@ -5056,9 +5240,19 @@ sudo systemctl start docker.service
 : 1715518145:0;cd Projects/coms
 : 1715518150:0;cd Projects/cms
 : 1715518153:0;docker-compose up
+: 1715518231:0;which docker-compose
 : 1715518244:0;sudo pacman -Rns docker-compose
+: 1715518251:0;which docker-compose
+: 1715518312:0;sudo rm ($which docker)
+: 1715518325:0;sudo rm ($which docker-compose)
+: 1715518343:0;which docker-compose
+: 1715518394:0;cd $which docker
+: 1715518412:0;rm $(which docker-compose)
+: 1715518418:0;sudo rm $(which docker-compose)
+: 1715518420:0;which docker-compose
 : 1715518431:0;sudo pacman -S docker-compose
 : 1715518437:0;docker-compose up
+: 1715518485:0;nano .hidden
 : 1715518646:0;docker --version
 : 1715518789:0;npm run dev
 : 1715518805:0;docker-compose up
@@ -5116,9 +5310,12 @@ sudo systemctl start docker.service
 : 1715532951:0;wallbash telegram
 : 1715532959:0;wallbash
 : 1715532968:0;wallbash.sh 
+: 1715532989:0;wallbash.sh $(which telegram)
+: 1715533002:0;wallbash.sh $(which telegram-desktop)
 : 1715534085:0;sudo pacman -Rns telegram-desktop
 : 1715534589:0;yay -Rns kotatogram-desktop
 : 1715534629:0;yay -Rcns kotatogram-desktop
+: 1715534703:0;which kotatogram-desktop
 : 1715534777:0;yay -sc
 : 1715534798:0;yay -Sc
 : 1715535132:0;docker-compose up
@@ -5163,6 +5360,7 @@ vim -u NONE -c "helptags commentary/doc" -c q
 : 1715539670:0;rm -rm cms
 : 1715539675:0;rm -r cms
 : 1715539690:0;sudo rm -r cms
+: 1715539701:0;dolphin ,
 : 1715539733:0;git clone git@github.com:code100x/cms.git
 : 1715539810:0;cms
 : 1715539814:0;docker-compose up
@@ -5339,12 +5537,28 @@ vim -u NONE -c "helptags commentary/doc" -c q
 : 1715593314:0;neofetch --gif
 : 1715593322:0;neofetch --help
 : 1715593346:0;neofetch
+: 1715593893:0;neofetch --kitty pochita.gif
 : 1715593904:0;neofetch
+: 1715593915:0;neofetch --kitty pochita.gif
+: 1715594143:0;neofetch --chafa pochita.gif
+: 1715594151:0;chafa pochita.gif
+: 1715594167:0;neofetch --chafa pochita.gif
 : 1715594181:0;neofetch --help
+: 1715594217:0;neofetch --chafa pochita.gif
 : 1715594228:0;..
 : 1715594233:0;cd pngs
+: 1715594240:0;neofetch --chafa pochita.png
+: 1715594286:0;neofetch --w3m pochita.png
+: 1715594313:0;../gifs;neofetch --w3m pochita.gif
+: 1715594321:0;neofetch --w3m pochita.png
 : 1715594329:0;neofetch 
+: 1715594333:0;neofetch --chafa pochita.png
+: 1715594341:0;neofetch --chafa pochita.gif
+: 1715594349:0;neofetch --kittu pochita.gif
+: 1715594355:0;neofetch --kitty pochita.gif
+: 1715594378:0;fastfetch --chafa pochita.gif
 : 1715594391:0;fastfetch --chafa pokemon.gif
+: 1715594402:0;neofetch --chafa pochita.gif
 : 1715594913:0;cd Projects/cms
 : 1715594920:0;ls
 : 1715594963:0;docker compose -f postgres.yml up -d
@@ -5577,6 +5791,7 @@ vim -u NONE -c "helptags commentary/doc" -c q
 : 1715877634:0;java --version
 : 1715877666:0;sudo pacman -sS java | grep jdk
 : 1715877703:0;sudo pacman -Syu jdk-openjdk
+: 1715877796:0;which java
 : 1715877800:0;java --version
 : 1715877839:0;archlinux-java status
 : 1715878040:0;lf
@@ -5606,6 +5821,8 @@ vim -u NONE -c "helptags commentary/doc" -c q
 : 1715879138:0;git commit -am 'fixed Readme'
 : 1715879142:0;git push
 : 1715879357:0;cd "/home/kitsunekode/temp/" && javac temp.java && java temp
+: 1715879886:0;which jdk
+: 1715879903:0;which javac
 : 1715880058:0;cd "/home/kitsunekode/temp/" && javac temp.java && java temp
 : 1715881018:0;/usr/lib/jvm/
 : 1715881019:0;ls
@@ -5849,9 +6066,17 @@ echo -e "\033[? 25 t"
 : 1716375909:0;neofetch
 : 1716375916:0;clear;fastfetch
 : 1716399076:0;ani-cli
-: 1722518163:0;
-: 1722518163:0;
-: 1722518163:0;
+: 1716409483:0;chrome --enable-features=TouchpadOverscrollHistoryNavigation --enable-features=VaapiVideoDecodeLinuxGL
+: 1716409589:0;google-chrome-stable --enable-feature=UseOzonePlatform --ozone-platform=wayland --enable-feature=TouchpadOverscrollHistoryNavigation\
+
+: 1716409737:0;google-chrome-stable --enable-features=TouchpadOverscrollHistoryNavigation\
+
+: 1716409784:0;google-chrome-stable --enable-feature=UseOzonePlatform --ozone-platform=wayland TouchpadOverscrollHistoryNavigation\
+
+: 1716410075:0;google-chrome-stable --enable-feature=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland 
+: 1716410101:0;google-chrome-stable --enable-feature=UseOzonePlatform TouchpadOverscrollHistoryNavigation --ozone-platform=wayland 
+: 1716410121:0;google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland 
+: 1716410318:0;chrome --enable-features=TouchpadOverscrollHistoryNavigation,VaapiVideoDecodeLinuxGL
 : 1716410364:0;vim .zshrc
 : 1716410460:0;rl
 : 1716410488:0;chrome
@@ -5930,6 +6155,7 @@ echo -e "\033[? 25 t"
 : 1716621892:0;clear;fastfetch
 : 1716621945:0;nanofastfetch
 : 1716621949:0;nano fastfetch
+: 1716621962:0;which fastfetch
 : 1716621978:0;vim /usr/bin/fastfetch
 : 1716622056:0;lf
 : 1716622133:0;vim config.jsonc
@@ -5980,6 +6206,8 @@ echo -e "\033[? 25 t"
 : 1716657339:0;reboot
 : 1716666408:0;neofetch
 : 1716666418:0;clear;fastfetch
+: 1716666689:0;killall dolphin
+: 1716666695:0;dolphin .
 : 1716666915:0;vim ~/.config/hypr/userprefs.conf
 : 1716668891:0;lf
 : 1716669024:0;ls
@@ -5992,6 +6220,8 @@ echo -e "\033[? 25 t"
 : 1716669190:0;builtin cd -- /home/kitsunekode/.vscode/extensions/asvetliakov.vscode-neovim-1.13.1/vim
 : 1716669199:0;..
 : 1716669200:0;ls
+: 1716669593:0;which nvi
+: 1716669595:0;which nvim
 : 1716669649:0;.vim
 : 1716669653:0;./vim
 : 1716669655:0;ls
@@ -6111,6 +6341,7 @@ echo -e "\033[? 25 t"
 : 1718101384:0;/boot
 : 1718101387:0;ls
 : 1718101439:0;cd
+: 1718101465:0;vim .zsh_history
 : 1718101559:0;/src
 : 1718101562:0;/
 : 1718101571:0;src	
@@ -6221,6 +6452,7 @@ sudo cp dra-cla /usr/local/bin/dra-cla
 : 1718297053:0;killall flipclock
 : 1718297810:0;.config/
 : 1718297812:0;lf
+: 1718297877:0;which flipclock
 : 1718297898:0;ld
 : 1718297900:0;ls
 : 1718297926:0;cd yay
@@ -6619,6 +6851,7 @@ sudo cp dra-cla /usr/local/bin/dra-cla
 : 1719680205:0;clear;fastfetch
 : 1719681970:0;ani-cli
 : 1719681983:0;ani-cli]
+: 1719681988:0;viral hit
 : 1719681992:0;ani-cli]
 : 1719681995:0;ani-cli
 : 1719758498:0;neofetch
@@ -6736,6 +6969,7 @@ sudo cp dra-cla /usr/local/bin/dra-cla
 : 1720348179:0;prime-run chrome
 : 1720348217:0;prime-run google-chrome-stable
 : 1720348306:0;chrome
+: 1720348698:0;google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland 
 : 1720348806:0;vim .zshrc
 : 1720348834:0;chrome
 : 1720349100:0;google-chrome-stable
@@ -6760,6 +6994,7 @@ sudo cp dra-cla /usr/local/bin/dra-cla
 : 1720350577:0;systemctl status optimus-manager.service
 : 1720350590:0;reboot
 : 1720350746:0;prime-run firefox
+: 1720350827:0;prime-run google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland 
 : 1720351329:0;prime-run firefox
 : 1720351507:0;chrome --enable-features=VaapiVideoDecoder,VaapiVideoEncoder. 
 : 1720351570:0;google-chrome-stable
@@ -6770,6 +7005,7 @@ sudo cp dra-cla /usr/local/bin/dra-cla
 : 1720352145:0;vim .config/hypr/windowrules.conf
 : 1720352312:0;vim .config/hypr/userprefs.conf
 : 1720352377:0;nvtop
+: 1720352839:0;prime-run google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland 
 : 1720352917:0;downgrade google-chrome
 : 1720352920:0;sudo downgrade google-chrome
 : 1720352932:0;sudo downgrade chrome
@@ -6781,9 +7017,11 @@ sudo cp dra-cla /usr/local/bin/dra-cla
 : 1720360528:0;neofetch
 : 1720360593:0;clear;fastfetch
 : 1720360601:0;nvtop
+: 1720360634:0;prime-run google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland 
 : 1720360655:0;prime-run firefox
 : 1720360670:0;nvtop
 : 1720381939:0;prime-run ani-cli
+: 1720382105:0;prime-run google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland --enable-gpu
 : 1720382162:0;prime-run google-chrome-stable
 : 1720385292:0;prime-run ani-cli
 : 1720424638:0;prime-run firefox
@@ -6898,11 +7136,14 @@ sudo cp dra-cla /usr/local/bin/dra-cla
 : 1721150492:0;neofetch
 : 1721150496:0;clear;fastfetch
 : 1721150507:0;prime-run firefox
+: 1721150884:0;prime-run google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland --enable-gpu
 : 1721207636:0;ani-cli
 : 1721267844:0;neofetch
 : 1721268672:0;ani-cli
 : 1721325885:0;neofetch
 : 1721325925:0;clear;fastfetch
+: 1721326528:0;prime-run google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland --enable-gpu
+: 1721326665:0;prime-run google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland 
 : 1721326685:0;prime-run google-chrome-stable 
 : 1721326709:0;prime-run firefox
 : 1721327156:0;vim .config/hypr/userprefs.conf
@@ -6913,6 +7154,7 @@ sudo cp dra-cla /usr/local/bin/dra-cla
 : 1721328193:0;neofetch
 : 1721328195:0;clear;fastfetch
 : 1721328203:0;prime-run google-chrome-stable 
+: 1721328238:0;prime-run google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland --enable-gpu
 : 1721328286:0;prime-run firefox
 : 1721329130:0;ani-cli
 : 1721374841:0;q
@@ -6922,6 +7164,7 @@ sudo cp dra-cla /usr/local/bin/dra-cla
 : 1721379483:0;spicetify update
 : 1721379490:0;spicetify auto
 : 1721379909:0;prime-run chrome
+: 1721379916:0;prime-run google-chrome-stable --enable-features=UseOzonePlatform,TouchpadOverscrollHistoryNavigation --ozone-platform=wayland --enable-gpu
 : 1721380058:0;prime-run spicetify
 : 1721380065:0;prime-run spotify
 : 1721380095:0;prime-run spicetify auto
@@ -7106,6 +7349,7 @@ clear;fastfetch
 : 1722288078:0;sudo curl -sL github.com/justchokingaround/lobster/raw/main/lobster.sh -o /usr/local/bin/lobster &&\
 sudo chmod +x /usr/local/bin/lobster
 : 1722288097:0;lobster -l spanish blade runner
+: 1722288146:0;sudo rm $(which lobster)
 : 1722290882:0;loginn
 : 1722334220:0;neofetch
 : 1722334223:0;clear;fastfetch
@@ -7141,6 +7385,7 @@ sudo chmod +x /usr/local/bin/lobster
 : 1722421928:0;sudo pacman -Syu packet-tracer
 : 1722422124:0;sudo pacman -Syu packettracer
 : 1722422140:0;sudo pacman -Syu PacketTracer
+: 1722428193:0;meofetch
 : 1722428198:0;neofetch
 : 1722428201:0;clear;fastfetch
 : 1722431173:0;git status
@@ -7156,3479 +7401,7 @@ sudo chmod +x /usr/local/bin/lobster
 : 1722442990:0;prime-run ani-cli
 : 1722507240:0;neofetch
 : 1722507243:0;clear;fastfetch
+: 1722515927:0;meofetch
 : 1722515951:0;loginn
-: 1722516422:0;lf
-: 1722517054:0;vi lfrc
-: 1722517358:0;lf
-: 1722517389:0;r
-: 1722517389:0;lf
-: 1722517396:0;r
-: 1722517396:0;lf
-: 1722517506:0;vim lfrc
-: 1722517696:0;lf
-: 1722517923:0;$Editor
-: 1722517932:0;$EDITOR
-: 1722517937:0;$$EDITOR
-: 1722518024:0;$printenv
-: 1722518039:0;vim .zshrc
-: 1722518063:0;nvim .zshrc
-: 1722518163:0;rl
-: 1722518167:0;lf
-: 1722518252:0;$f
-: 1722518254:0;$fx
-: 1722518282:0;$oldpwd
-: 1722518294:0;bash
-: 1722518326:0;echo $Editor
-: 1722518332:0;echo $EDITOR
-: 1722518675:0;rl
-: 1722518677:0;echo $EDITOR
-: 1722518718:0;echo $VISUAL
-: 1722518753:0;zsh -c -- "$OPENER $f"
-: 1722518784:0;$echo 
-: 1722519109:0;rl
-: 1722519119:0;echo $VISUAL
-: 1722519122:0;echo $EDITOR
-: 1722519125:0;lf
-: 1722519212:0;neofetch
-: 1722519234:0;clear;fastfetch
-: 1722519310:0;nvim .config/hypr/userprefs.conf
-: 1722522804:0;yay -Sc
-: 1722522826:0;sudo pacman -Sc
-: 1722526705:0;spicetify auto
-: 1722534008:0;loginn
-: 1722543685:0;sudo prime-run ani-cli
-: 1722543711:0;loginn
-: 1722543713:0;sudo prime-run ani-cli
-: 1722543757:0;prime-run ani-cli
-: 1722546508:0;q
-: 1722575332:0;neofetch
-: 1722575337:0;clear;fastfetch
-: 1722575351:0;loginn
-: 1722590161:0;neofetch
-: 1722590163:0;clear;fastfetch
-: 1722590182:0;loginn
-: 1722601555:0;nvim 
-: 1722601579:0;code
-: 1722602764:0;sudo pacman -Syu
-: 1722603058:0;yay -Sc
-: 1722603068:0;q
-: 1722610359:0;loginn
-: 1722611550:0;node index.js
-: 1722611557:0;cd Week-0
-: 1722611560:0;node index.js
-: 1722613434:0;git clone git@github.com:KitsuneKode/tiplink.git
-: 1722613813:0;node index.js
-: 1722613831:0;node assignment2.js
-: 1722614218:0;vim .config/hypr/userprefs.conf
-: 1722614254:0;hyprctl clients
-: 1722624074:0;prime-run ani-cli
-: 1722625801:0;sudo pacman -Syu rustup
-: 1722625861:0;curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-: 1722625947:0;loginn
-: 1722625956:0;pacman -Syu ani-cli
-: 1722625959:0;sudo pacman -Syu ani-cli
-: 1722625965:0;sudo pacman -Syu 
-: 1722625979:0;curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-: 1722626101:0;cargo
-: 1722626105:0;rl
-: 1722626108:0;cargo
-: 1722626236:0;mkdir rust-projects cd
-: 1722626247:0;cd rust-projects
-: 1722626256:0;cargo init
-: 1722626258:0;ls
-: 1722626277:0;cd
-: 1722626292:0;mv rust-projects 100x-Dev-Course
-: 1722626301:0;cd 100x-Dev-Course/rust-projects
-: 1722626325:0;code .
-: 1722626655:0;cargo run
-: 1722626684:0;cd 100x-Dev-Course/
-: 1722626699:0;mkdir rust-projects
-: 1722626704:0;ls
-: 1722626728:0;..
-: 1722626759:0;rename rust-projects rust-project-1
-: 1722626774:0;rename --h
-: 1722626784:0;rename rust-projects 
-: 1722626794:0;rename rust-projects rust-project_1
-: 1722626848:0;rename -r rust-projects rust-project_1
-: 1722626856:0;rename --r rust-projects rust-project_1
-: 1722627095:0;mv rust-projects 100x-Dev-Course/rust-projects/rust-project1
-: 1722627118:0;mv rust-projects ~/100x-Dev-Course/rust-projects/rust-project1
-: 1722627124:0;mv rust-projects ~/100x-Dev-Course/rust-projects/
-: 1722627136:0;mv rust-projects ~/100x-Dev-Course/rust-project1
-: 1722627140:0;ls
-: 1722627146:0;mkdir rust-projects
-: 1722627159:0;mv rust-project1 ~/100x-Dev-Course/rust-project1
-: 1722627167:0;mv rust-project1 ~/100x-Dev-Course/rust-projects
-: 1722627172:0;cd rust-projects
-: 1722627178:0;cd rust-project1
-: 1722627180:0;ls
-: 1722627360:0;cargo run
-: 1722628010:0;ls
-: 1722628020:0;cargo run
-: 1722629415:0;loginn
-: 1722663234:0;prime-run ani-cli
-: 1722667511:0;vim .config/hypr/userprefs.conf
-: 1722667578:0;vim .config/hypr/windowrules.conf
-: 1722668171:0;neofetch
-: 1722668200:0;clear;fastfetch
-: 1722669570:0;loginn
-: 1722670207:0;yarn clean cache
-: 1722670231:0;yarn cache clean
-: 1722670253:0;npm cache clean
-: 1722670333:0;npm clean cache
-: 1722670399:0;npm cache verify
-: 1722670443:0;npm cache clean -f
-: 1722670514:0;yay -Sc
-: 1722671676:0;neofetch
-: 1722671678:0;clear;fastfetch
-: 1722671683:0;htop
-: 1722715332:0;neofetch
-: 1722715335:0;clear;fastfetch
-: 1722695572:0;reboot
-: 1722695660:0;neofetch
-: 1722695662:0;clear;fastfetch
-: 1722695934:0;pacman -Syu
-: 1722695936:0;sudo pacman -Syu
-: 1722695953:0;sudo pacman -Rns cava-git
-: 1722695957:0;sudo pacman -Syu
-: 1722695970:0;sudo pacman -Syu cava
-: 1722695991:0;sudo pacman -Syu cava-gir
-: 1722695993:0;sudo pacman -Syu cava-git
-: 1722696003:0;sudo pacman -Rns cava-git
-: 1722696008:0;sudo pacman -Syu cava-git
-: 1722696038:0;yay -Syu cava
-: 1722696165:0;cava
-: 1722696183:0;yay -Syu cava
-: 1722696225:0;fzp
-: 1722696251:0;yay -Sc
-: 1722696262:0;yay -Syu cava
-: 1722696304:0;yay -Syu cava-git
-: 1722696379:0;yay -Sc
-: 1722696421:0;cava
-: 1722696470:0;loginn
-: 1722698680:0;cd rust-project1
-: 1722698683:0;cargo run
-: 1722698747:0;cava
-: 1722698758:0;cargo run
-: 1722699966:0;hyprctl clients
-: 1722699986:0;vim .config/hypr/windowrules.conf
-: 1722700013:0;vim .config/hypr/userprefs.conf
-: 1722700035:0;hyprctl clients
-: 1722700399:0;cd week-1
-: 1722700408:0;cd Week-1/\\
-
-: 1722700415:0;ls\
-
-: 1722701670:0;neofetch
-: 1722701673:0;clear;fastfetch
-: 1722701820:0;echo $BROWSER
-: 1722701854:0;xdg-settings get default-web-browser
-: 1722701890:0;xdg-settings set default-web-browser firefox
-: 1722701962:0;vim .zshrc
-: 1722702101:0;xdg-settings set default-web-browser firefox.desktop
-: 1722704411:0;prime-run ani-cli
-: 1722705903:0;sudo pacman -Syu pulseaudio
-: 1722707266:0;prime-run ani-cli
-: 1722707537:0;loginn
-: 1722710698:0;prime-run ani-cli
-: 1722713861:0;q
-: 1722714490:0;loginn
-: 1722744722:0;ping google.com
-: 1722744740:0;loginn
-: 1722745773:0;mangal -F cbz 
-: 1722748665:0;yay -Syu mangal
-: 1722749000:0;mangal -F cbz 
-: 1722762787:0;loginn
-: 1722764405:0;cd "/home/kitsunekode/temp/" && g++ temp.cpp -o temp && "/home/kitsunekode/temp/"temp
-: 1722771134:0;loginn
-: 1722781147:0;xdg-settings set default-web-browser google-chrome.desktop
-: 1722783019:0;lf
-: 1722783050:0;cd Week-1/
-: 1722783052:0;ld
-: 1722783053:0;ls
-: 1722783063:0;mkdir vscodeClone
-: 1722783099:0;mv index.html style.css ./vscodeClone
-: 1722783100:0;ls
-: 1722783111:0;cd vscodeClone
-: 1722783112:0;ls
-: 1722783114:0;.
-: 1722783115:0;..
-: 1722784461:0;prime-run ani-cli
-: 1722789842:0;code .
-: 1722789861:0;xdg-settings set default-web-browser firefox.desktop
-: 1722790443:0;loginn
-: 1722794418:0;xdg-settings set default-web-browser firefox.desktop
-: 1722794421:0;clear;fastfetch
-: 1722796776:0;loginn
-: 1722797110:0;prime-run ani-cli
-: 1722797767:0;q
-: 1722800105:0;loginn
-: 1722834747:0;neofetch
-: 1722834750:0;clear;fastfetch
-: 1722847889:0;neofetch
-: 1722847891:0;clear;fastfetch
-: 1722848406:0;cargo run
-: 1722848801:0;pacman -Rns cava
-: 1722848804:0;sudo pacman -Rns cava
-: 1722848813:0;sudo pacman -Rns cava-git
-: 1722848832:0;sudo pacman -Syu
-: 1722848841:0;sudo pacman -Syu pulseaudio
-: 1722848897:0;yay -Rns cava--git
-: 1722848905:0;yay -Rns cava-git
-: 1722848910:0;yay -Sc
-: 1722848934:0;pulse-audio
-: 1722848939:0;pulseaudio
-: 1722848966:0;downgrade -h
-: 1722848999:0;vim /etc/pacman.conf
-: 1722849148:0;/var/cache/pacman/pkg/
-: 1722849149:0;ls
-: 1722849190:0;pulseaudio-17.0-3-x86_64.pkg.tar.zst 
-: 1722849199:0;..
-: 1722849200:0;ls
-: 1722849207:0;pacman -Sc
-: 1722849209:0;sudo pacman -Sc
-: 1722849222:0;sudo pacman -Syu
-: 1722849412:0;loginn
-: 1722849429:0;sudo pacman -Syu
-: 1722877737:0;loginn
-: 1722877754:0;neofetch
-: 1722877760:0;clear;fastfetch
-: 1722857988:0;reboot
-: 1722860694:0;neofetch
-: 1722860965:0;clear;fastfetch
-: 1722862446:0;neofetch
-: 1722862449:0;clear;fastfetch
-: 1722866486:0;neofetch
-: 1722866489:0;clear;fastfetch
-: 1722871075:0;pacman -Sc
-: 1722871078:0;prime-run ani-cli
-: 1722872742:0;cls
-: 1722872746:0;rl
-: 1722872753:0;gh repo clone codebytere/codebytere.github.io
-: 1722872761:0;git repo clone codebytere/codebytere.github.io
-: 1722872798:0;git clone https://github.com/codebytere/codebytere.github.io.git
-: 1722872810:0;ls
-: 1722873034:0;https://github.com/evilprince2009/evilprince2009.github.io.git
-: 1722873052:0;git clone https://github.com/evilprince2009/evilprince2009.github.io.git
-: 1722873110:0;mkdir portfolioTerminal; mv -r  codebytere.github.io evilprince2009.github.io portfolioTerminal/
-: 1722873117:0;mkdir portfolioTerminal; mv --r  codebytere.github.io evilprince2009.github.io portfolioTerminal/
-: 1722873157:0;mkdir portfolioTerminal; mv  codebytere.github.io evilprince2009.github.io portfolioTerminal/
-: 1722873159:0;ls
-: 1722873162:0;cd portfolioTerminal
-: 1722873163:0;ls
-: 1722873305:0;git@github.com:KitsuneKode/KitsuneKode.github.io.git
-: 1722873317:0;git clone git@github.com:KitsuneKode/KitsuneKode.github.io.git
-: 1722873361:0;prime-run ani-cli
-: 1722879491:0;cargo run
-: 1722881693:0;Hyde upgrade
-: 1722882128:0;fastfetch
-: 1722882134:0;lf
-: 1722882159:0;rm -r images
-: 1722882165:0;rm -r pngs
-: 1722882173:0;rm -r config.jsonc
-: 1722882180:0;fastfetch
-: 1722882193:0;Hyde update
-: 1722882212:0;Hyde upgrade
-: 1722882260:0;Hyde theme patch
-: 1722882273:0;Hyde 
-: 1722882308:0;Hyde show
-: 1722882372:0;Hyde 
-: 1722882382:0;Hyde sddm
-: 1722882389:0;Hyde sddm theme
-: 1722882395:0;Hyde sddm theme list
-: 1722882405:0;Hyde sddm list
-: 1722882414:0;Hyde sddm install
-: 1722882432:0;Hyde cursor
-: 1722882447:0;Hyde code
-: 1722882456:0;Hyde code theme
-: 1722882464:0;Hyde code
-: 1722882470:0;Hyde code theme
-: 1722882528:0;yay -Rns zsh-theme-powerlevel10k
-: 1722882536:0;yay -Sc
-: 1722882592:0;yay -Syu zsh-theme-powerlevel10k-git
-: 1722882659:0;Hyde code theme
-: 1722882721:0;Hyde theme patch
-: 1722882743:0;yay -Syu zsh-theme-powerlevel10k-git
-: 1722882928:0;git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k\
-echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
-: 1722882944:0;Hyde theme patch
-: 1722883006:0;loginn
-: 1722883070:0;yay -Sc
-: 1722883083:0;yay -Rns zsh-theme-powerlevel10k
-: 1722883086:0;yay -Rns zsh-theme-powerlevel10k-git
-: 1722883088:0;cls
-: 1722883094:0;vim .zshrc
-: 1722883197:0;ls
-: 1722883282:0;yay -S --noconfirm zsh-theme-powerlevel10k-git\
-echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
-: 1722883450:0;.cache/yay/zsh-theme-powerlevel10k
-: 1722883451:0;ls
-: 1722883471:0;..
-: 1722883481:0;rm -r zsh-theme-powerlevel10k
-: 1722883492:0;yay -S --noconfirm zsh-theme-powerlevel10k-git\
-echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
-: 1722883543:0;rm -r zsh-theme-powerlevel10k-git
-: 1722883551:0;yay -S --noconfirm zsh-theme-powerlevel10k-git\
-echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
-: 1722883574:0;vim .zshrc
-: 1722883644:0;Hyde theme
-: 1722883652:0;Hyde theme select
-: 1722883659:0;Hyde theme set
-: 1722883712:0;yay -Syu zsh-theme-powerlevel10k
-: 1722883848:0;yay -S --noconfirm zsh-theme-powerlevel10k-git\
-echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
-: 1722884090:0;yay -Sc
-: 1722884126:0;yay -S --noconfirm zsh-theme-powerlevel10k-git\
-echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
-: 1722884204:0;vim .zshrc
-: 1722884302:0;Hyde theme set
-: 1722884356:0;.config/hyde/themes/
-: 1722884375:0;rm  -r Sci-fi
-: 1722884382:0;Hyde theme patch
-: 1722884419:0;Hyde theme set
-: 1722884448:0;.config/hyde/themes/
-: 1722884449:0;ls
-: 1722884478:0;rm  -r Sci-fi Rain\ Dark Red\ Stone AbyssGreen
-: 1722884545:0;Hyde theme patch
-: 1722884640:0;builtin cd -- /home/kitsunekode/.cache/hyde/themepatcher/Windows-11-kRHYME7/Configs/.config/hyde/themes
-: 1722884643:0;ls
-: 1722884647:0;cd ..
-: 1722884649:0;ls
-: 1722884659:0;lf
-: 1722884725:0;rm  -r Rain-Dark-rishav12s m
-: 1722884811:0;loginn
-: 1722884849:0;Hyde theme patch
-: 1722884855:0;ls
-: 1722884902:0;Hyde theme patch
-: 1722885230:0;reboot
-: 1722885402:0;Hyde theme patch
-: 1722885443:0;neofetch
-: 1722885447:0;cls
-: 1722885451:0;clear;fastfetch
-: 1722885537:0;loginn
-: 1722885594:0;Hyde theme patch
-: 1722885673:0;builtin cd -- /home/kitsunekode/.cache/hyde/themepatcher/Windows-11-kRHYME7/Configs/.config/hyde/themes
-: 1722885679:0;....
-: 1722885697:0;cd themepatcher
-: 1722885698:0;ls
-: 1722885715:0;rm -r Rain-Dark-rishav12s
-: 1722885740:0;main-Itz-Abhishek-Tiwari/screenshots/image_
-: 1722885741:0;ls
-: 1722885748:0;main-Itz-Abhishek-Tiwari/screenshots/
-: 1722885749:0;ls
-: 1722885754:0;fzp
-: 1722885775:0;fzfub
-: 1722885791:0;fzf-preview.sh
-: 1722885794:0;fzf-preview
-: 1722885798:0;fzf
-: 1722885804:0;fzp
-: 1722885831:0;lf
-: 1722885984:0;rm -r main-Itz-Abhishek-Tiwari main-KaranRaval123 main-mahaveergurjar
-: 1722885992:0;ls
-: 1722886003:0;Hyde theme patch
-: 1722886025:0;Hyde theme set
-: 1722886040:0;Hyde theme patch
-: 1722886076:0;builtin cd -- /home/kitsunekode/.cache/hyde/themepatcher/Windows-11-kRHYME7/Configs/.config/hyde/themes
-: 1722886098:0;....
-: 1722886106:0;themepatcher
-: 1722886144:0;Hyde theme patch
-: 1722886316:0;reboot
-: 1722886377:0;Hyde theme set
-: 1722886392:0;builtin cd -- /home/kitsunekode/.cache/hyde/themepatcher/Windows-11-kRHYME7/Configs/.config/hyde/themes
-: 1722886396:0;....
-: 1722886399:0;...
-: 1722886402:0;rm -r main-Itz-Abhishek-Tiwari main-KaranRaval123 main-mahaveergurjar
-: 1722886432:0;lf
-: 1722886473:0;rm -r Rain-Dark-rishav12s
-: 1722886489:0;yay -Sc
-: 1722886511:0;Hyde update
-: 1722886558:0;Hyde theme patch
-: 1722886651:0;Hyde theme set
-: 1722886671:0;Hyde theme patch
-: 1722886752:0;Hyde theme set
-: 1722886778:0;wallbash.sh 
-: 1722886781:0;wallbash.sh code
-: 1722886793:0;wallbash.sh $which code
-: 1722886807:0;wallbashcode.sh
-: 1722886823:0;sudo wallbashcode.sh
-: 1722886833:0;wallbashcode.sh
-: 1722886877:0;Hyde theme patch
-: 1722886900:0;sudo pacman -Syu code-oss
-: 1722886910:0;Hyde theme patch
-: 1722887002:0;sudo pacman -Syu cpde
-: 1722887005:0;sudo pacman -Syu code
-: 1722887034:0;wallbashtoggle.sh
-: 1722887052:0;Hyde theme set
-: 1722887186:0;neofetch
-: 1722887189:0;clear;fastfetch
-: 1722887204:0;lf
-: 1722887246:0;mv config.jsonc ~/.config/fastfetch.copy
-: 1722887284:0;mv ./.config/fastfetch/config.jsonc ~/.config/fastfetch.copy
-: 1722887286:0;ls
-: 1722887289:0;clear;fastfetch
-: 1722887306:0;yay -SC
-: 1722887308:0;ld
-: 1722887309:0;ls
-: 1722887316:0;rm powerlevel10k
-: 1722887321:0;rm -r powerlevel10k
-: 1722887335:0;ls
-: 1722887355:0;pacman -Sc
-: 1722887356:0;sudo pacman -Sc
-: 1722887370:0;clear;fastfetch
-: 1722887411:0;rm -r cd
-: 1722888812:0;cargo run
-: 1722890890:0;cd "/home/kitsunekode/100x-Dev-Course/rust-projects/rust-project1/src/" && rustc main.rs && "/home/kitsunekode/100x-Dev-Course/rust-projects/rust-project1/src/"main
-: 1722891798:0;gluqlo
-: 1722891876:0;libinput-gestures
-: 1722891883:0;sudo libinput-gestures
-: 1722891900:0;sudo libinput-gestures-setup
-: 1722891906:0;libinput-gestures-setup
-: 1722891951:0;libinput-gestures
-: 1722891972:0;systemctl start libinput-gestures
-: 1722892087:0;yay -Rms libinput-gestures
-: 1722892103:0;yay -Rns libinput-gestures
-: 1722892119:0;yay -S libinput-gestures
-: 1722935994:0;neofetch
-: 1722935996:0;clear;fastfetch
-: 1722936022:0;loginn
-: 1722936439:0;vim .config/hypr/userprefs.conf
-: 1722936487:0;vim .config/hypr/keybindings.conf
-: 1722936708:0;vim .config/hypr/userprefs.conf
-: 1722936878:0;vim .config/hypr/keybindings.conf
-: 1722936927:0;vim .config/hypr/userprefs.conf
-: 1722937922:0;clear;fastfetch
-: 1722939975:0;vim .config/hypr/userprefs.conf\\
-
-: 1722939994:0;hyprctl clients
-: 1722940187:0;vim .vimrc
-: 1722940318:0;vim .vim_runtime/my_configs.vim
-: 1722940389:0;.vim_runtime/install_awesome_parameterized.sh
-: 1722940399:0;vim
-: 1722940451:0;.vim_runtime/update_plugins.py
-: 1722940456:0;py .vim_runtime/update_plugins.py
-: 1722940461:0;python .vim_runtime/update_plugins.py
-: 1722940583:0;vim .vim_runtime/my_configs.vim
-: 1722940717:0;.vim_runtime/
-: 1722940719:0;ls
-: 1722940741:0;vim
-: 1722940986:0;vim vimrcs/extended.vim
-: 1722941276:0;ls
-: 1722941284:0;vim
-: 1722941453:0;vim my_configs.vim
-: 1722941515:0;~
-: 1722941517:0;ld
-: 1722941518:0;ls
-: 1722941527:0;vim .vimrc
-: 1722941552:0;.vim_runtime/
-: 1722941553:0;ls
-: 1722941560:0;vim README.md
-: 1722941653:0;vim my_configs.vim
-: 1722941883:0;~
-: 1722941887:0;vim .vimrc
-: 1722941924:0;vim .vim_runtime/my_configs.vim
-: 1722942734:0;echo -e "\033[4 q"\
-echo -e "\033[? 25 t"
-: 1722942782:0;echo -e "\033[5 q"
-: 1722942789:0;echo e "\033[1 q"
-: 1722942845:0;vim .config/nvim/init.lua
-: 1722942910:0;vim .config/nvim/lazyvim.json
-: 1722942922:0;vim .config/nvim/README.md
-: 1722943189:0;neofetch
-: 1722943191:0;clear;fastfetch
-: 1722945297:0;loginn
-: 1722945692:0;cargo run
-: 1722948989:0;..
-: 1722949004:0;cargo new web-server
-: 1722949011:0;cd webserver
-: 1722949017:0;cd web-server
-: 1722949027:0;cargo add actix-web
-: 1722949071:0;..
-: 1722949073:0;ls
-: 1722949076:0;cd web-server
-: 1722949077:0;ls
-: 1722949080:0;cd srx
-: 1722949082:0;cd src
-: 1722949083:0;ls
-: 1722949135:0;spicetify auto
-: 1722949147:0;wallbashspotify.sh
-: 1722949283:0;cargo run 
-: 1722949379:0;wallbashspotify.sh
-: 1722949382:0;cargo run 
-: 1722953292:0;...
-: 1722953307:0;cargo new guess_game
-: 1722953325:0;cd guess_game
-: 1722953383:0;hyprctl clients
-: 1722953401:0;vim .config/hypr/userprefs.conf
-: 1722953409:0;hyprctl clients
-: 1722953529:0;q
-: 1722953637:0;cargo build
-: 1722954133:0;cargo run 
-: 1722954166:0;cargo run
-: 1722955302:0;cargo run 
-: 1722962309:0;prime-run ani-cli
-: 1722962440:0;loginn
-: 1722965104:0;q
-: 1722966869:0;lf
-: 1722966884:0;cargo run 
-: 1722966907:0;lf
-: 1722966919:0;cargo run 
-: 1722968605:0;loginn
-: 1722974229:0;yay  -Sc
-: 1723017989:0;neofetch
-: 1723018010:0;clear;fastfetch
-: 1723018821:0;sudo pacman -Syu
-: 1723023113:0;neofetch
-: 1723023118:0;clear;fastfetch
-: 1723023133:0;loginn
-: 1723024233:0;ping google.com
-: 1723024572:0;loginn
-: 1723031146:0;neofetch
-: 1723031157:0;clear;fastfetch
-: 1723031853:0;hyprctl clients
-: 1723031882:0;vim .config/hypr/userprefs.conf
-: 1723032020:0;hyprctl clients
-: 1723032088:0;vim .config/hypr/userprefs.conf
-: 1723032154:0;vim .config/hypr/windowrules.conf\
-
-: 1723032212:0;hyprctl clients
-: 1723032240:0;vim .config/hypr/windowrules.conf\
-
-: 1723032246:0;vim .config/hypr/userprefs.conf
-: 1723032271:0;hyprctl clients
-: 1723032328:0;vim .config/hypr/userprefs.conf
-: 1723032356:0;hyprctl clients
-: 1723032656:0;vim .config/hypr/userprefs.conf
-: 1723032911:0;hyprctl clients
-: 1723038258:0;cd rust-project1
-: 1723038563:0;cargo run 
-: 1723039060:0;nvim
-: 1723039169:0;loginn
-: 1723039188:0;nvim
-: 1723041350:0;cargo run 
-: 1723047247:0;hyprctl clients
-: 1723047257:0;clear;fastfetch
-: 1723048549:0;...
-: 1723048554:0;cd rust-project
-: 1723048562:0;cd rust-projects
-: 1723048628:0;cargo new mini_grep
-: 1723048634:0;cd mini_grep
-: 1723048900:0;cargo build
-: 1723048996:0;cargo run
-: 1723049373:0;cargo run 
-: 1723049384:0;cargo run hi rhe
-: 1723049500:0;cargo add colored
-: 1723049602:0;cargo run hi sample.txt
-: 1723049883:0;hyprctl clients
-: 1723049916:0;vim .config/hypr/userprefs.conf
-: 1723049967:0;cargo run hi sample.txt
-: 1723051173:0;cargo run
-: 1723051886:0;cargo run hi sample.txt
-: 1723051975:0;sudo cargo run hi sample.txtOA
-: 1723051982:0;cargo run hi sample.txt
-: 1723052044:0;cargo run hi asdasd
-: 1723053380:0;cargo run the poem.txt
-: 1723054284:0;cargo text
-: 1723054287:0;cargo test
-: 1723054932:0;cargo run animal poem.txt
-: 1723054952:0;cargo run the poem.txt
-: 1723055008:0;cargo run th poem.txt
-: 1723055019:0;cargo run then poem.txt
-: 1723055501:0;cargo test
-: 1723056410:0;cargo run then poem.txt
-: 1723056417:0;cargo run the poem.txt
-: 1723056453:0;export CASE_SENSITIVE=false
-: 1723056457:0;cargo run the poem.txt
-: 1723056471:0;cargo run The poem.txt
-: 1723056491:0;unset CASE_SENSITIVE
-: 1723056495:0;cargo run The poem.txt
-: 1723056501:0;cargo run the poem.txt
-: 1723056509:0;cargo run The poem.txt
-: 1723056522:0;cargo run to poem.txt
-: 1723056533:0;export CASE_SENSITIVE=false
-: 1723056535:0;cargo run to poem.txt
-: 1723056641:0;cargo run > output.txt
-: 1723056695:0;cargo run to poem.txt > output.txt
-: 1723056713:0;unset CASE_SENSITIVE
-: 1723056716:0;cargo run to poem.txt > output.txt
-: 1723056976:0;cargo run them poem.txt > output.txt
-: 1723056983:0;cargo run the poem.txt > output.txt
-: 1723057005:0;cargo run to poem.txt > output.txt
-: 1723057234:0;cargo run > output.txt
-: 1723057238:0;cargo run to poem.txt > output.txt
-: 1723057242:0;unset CASE_SENSITIVE
-: 1723057245:0;cargo run to poem.txt > output.txt
-: 1723057267:0;export CASE_SENSITIVE=false
-: 1723057272:0;cargo run to poem.txt > output.txt
-: 1723057401:0;loginn
-: 1723057625:0;sudo pacman -Syu kdenlive
-: 1723057924:0;echo README.md
-: 1723057926:0;ls
-: 1723057939:0;echo >> README.md
-: 1723060232:0;mkdir Screenshots
-: 1723060247:0;cd Screenshots
-: 1723060320:0;git init
-: 1723060328:0;..
-: 1723060342:0;git init
-: 1723060355:0;git add -all
-: 1723060360:0;git add --all
-: 1723060384:0;git commit -am 'adding mini_grep'
-: 1723060413:0;git branch -a
-: 1723060449:0;git branch -M master
-: 1723060454:0;git branch 
-: 1723060503:0;git remote add archprivate git@github.com:KitsuneKode/mini_grep.git
-: 1723060508:0;git push -u archprivate master
-: 1723060745:0;git add README.md
-: 1723060766:0;git commit -m "first rust project"
-: 1723060770:0;git push
-: 1723062098:0;hyprctl clients
-: 1723062260:0;cargo build
-: 1723062266:0;cargo add colored
-: 1723062297:0;wallbashc
-: 1723062301:0;wallbashcode.sh
-: 1723062410:0;themeselect.sh
-: 1723062540:0;hyprctl clients
-: 1723062793:0;wallbashcode.sh
-: 1723063349:0;wallbashdiscord.sh 
-: 1723063357:0;webcord
-: 1723063362:0;discord
-: 1723063391:0;flatpak run io.github.spacingbat3.webcord
-: 1723063582:0;neofetch
-: 1723063586:0;clear;fastfetch
-: 1723063620:0;wallbashspotify.sh
-: 1723063637:0;wallbashdiscord.sh 
-: 1723065239:0;loginn
-: 1723090698:0;sudo n lts
-: 1723090753:0;sudo npm i -g npm
-: 1723091147:0;sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"
-: 1723091215:0;loginn
-: 1723091416:0;ping google.com
-: 1723091424:0;loginn
-: 1723091782:0;sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"
-: 1723092137:0;rl
-: 1723092184:0;export PATH="/home/kitsunekode/.local/share/solana/install/active_release/bin:$PATH"
-: 1723092186:0;rl
-: 1723092195:0;solana --version
-: 1723092223:0;agave-install update
-: 1723092272:0;solana
-: 1723092607:0;sudo bash -c "cat >/etc/sysctl.d/21-solana-validator.conf <<EOF\
-# Increase UDP buffer sizes\
-net.core.rmem_default = 134217728\
-net.core.rmem_max = 134217728\
-net.core.wmem_default = 134217728\
-net.core.wmem_max = 134217728\
-\
-# Increase memory mapped files limit\
-vm.max_map_count = 1000000\
-\
-# Increase number of allowed open file descriptors\
-fs.nr_open = 1000000\
-EOF"
-: 1723092670:0;sudo rm /etc/sysctl.d/21-solana-validator.conf
-: 1723092903:0;solana balance
-: 1723092910:0;solana
-: 1723092928:0;sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"
-: 1723092985:0;solana
-: 1723093027:0;sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"
-: 1723093109:0;export PATH="/home/kitsunekode/.local/share/solana/install/active_release/bin:$PATH"
-: 1723093113:0;solana
-: 1723093119:0;solana balance
-: 1723093671:0;vim Imp/phantompwd.txt
-: 1723093779:0;vim Imp/.hidden
-: 1723094121:0;solana balance
-: 1723094126:0;rl
-: 1723094130:0;export PATH="/home/kitsunekode/.local/share/solana/install/active_release/bin:$PATH"
-: 1723094137:0;solana balance
-: 1723094163:0;solana --version
-: 1723094176:0;vim .zshrc
-: 1723094222:0;vim .bashrc
-: 1723094240:0;vim .bash_profile
-: 1723094292:0;sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"
-: 1723094345:0;solana --version
-: 1723094374:0;sh -c "$(curl -sSfL https://release.solana.com/stable/install)"
-: 1723094381:0;solana --version
-: 1723094385:0;vim .zshrc
-: 1723094446:0;solana --version
-: 1723094461:0;rl
-: 1723094464:0;solana --version
-: 1723113519:0;neofetch
-: 1723113526:0;clear;fastfetch
-: 1723113536:0;yay -Sc
-: 1723113547:0;spicetify auto
-: 1723113559:0;loginn
-: 1723113562:0;spicetify auto
-: 1723113607:0;solana --version
-: 1723113731:0;solana config get
-: 1723113755:0;solana cluster-version
-: 1723115382:0;ls
-: 1723115525:0;solana balance AnucBUVAdTjcN7QoQvVBpkGAriGHGD9UeP3X3fbuw5ED
-: 1723115572:0;solana airdrop 5 AnucBUVAdTjcN7QoQvVBpkGAriGHGD9UeP3X3fbuw5ED
-: 1723115585:0;solana airdrop 2 AnucBUVAdTjcN7QoQvVBpkGAriGHGD9UeP3X3fbuw5ED
-: 1723120449:0;libinput-gestures
-: 1723123096:0;yay -Syu openshot
-: 1723123113:0;sudo pacman -Rns kdenlive
-: 1723123124:0;sudo pacman -Sc
-: 1723124672:0;23010020753056
-: 1723124678:0;solana-test-validator\
-
-: 1723124727:0;solana balance 9RDNLQJGm48Dh7cvfJUZbb7yFBG29XbSY39LZpD2Rrb6\
-
-: 1723124747:0;solana airdrop 2 9RDNLQJGm48Dh7cvfJUZbb7yFBG29XbSY39LZpD2Rrb6\
-
-: 1723140784:0;neofetch
-: 1723140786:0;clear;fastfetch
-: 1723141366:0;yay -Sc
-: 1723142980:0;solana-test-validator\
-
-: 1723143116:0;solana-keygen new
-: 1723143177:0;cat /home/kitsunekode/.config/solana/id.json
-: 1723143537:0;solana-keygen new
-: 1723143541:0;solana-test-validator\
-
-: 1723144069:0;solana airdrop 2
-: 1723144289:0;solana-test-validator\
-
-: 1723144447:0;solana airdrop 2 9RDNLQJGm48Dh7cvfJUZbb7yFBG29XbSY39LZpD2Rrb6
-: 1723144558:0;vim /home/kitsunekode/.config/solana/id.json
-: 1723144593:0;solana airdrop 2 LqqKAf6gU6kvmW8p2R2LE2aK6yFksfFtHSQUeSDVQmb
-: 1723144638:0;solana airdrop 1 
-: 1723145463:0;solana-keygen new --f
-: 1723145471:0;solana-keygen new --force
-: 1723145648:0;cat /home/kitsunekode/.config/solana/id.json
-: 1723145842:0;solana-test-validator\
-
-: 1723145880:0;solana airdrop 1 
-: 1723145897:0;solana balance
-: 1723145992:0;solana --version
-: 1723195417:0;solana-test-validator\
-
-: 1723195484:0;solana config get
-: 1723195571:0;solana config set --url httpsa://localhost:8899
-: 1723195587:0;solana config set --url https://localhost:8899
-: 1723195599:0;solana airdrop 1 
-: 1723195603:0;solana airdrop 1 Co8CiZKr8PbeyAqqZipZq6xUs4a2gj3YdD7A64EnCqZm
-: 1723195613:0;solana config set --url https://localhost:8899
-: 1723195637:0;solana address
-: 1723195656:0;solana airdrop 1 Co8CiZKr8PbeyAqqZipZq6xUs4a2gj3YdD7A64EnCqZm
-: 1723195671:0;solana-test-validator\
-
-: 1723195685:0;solana balance
-: 1723195716:0;solana config set --url https://localhost:8899
-: 1723195764:0;solana balance
-: 1723195907:0;solana-keygen new --outfile ~/100x-Dev-Course/Solana/
-: 1723195920:0;solana-keygen new --outfile ~/100x-Dev-Course/Solana/ --force
-: 1723195944:0;solana-keygen new --outfile ~/100x-Dev-Course/Solana/ 
-: 1723195948:0;solana-keygen new --outfile ~/100x-Dev-Course/Solana/ --force
-: 1723195957:0;sudo solana-keygen new --outfile ~/100x-Dev-Course/Solana/ --force
-: 1723195968:0;solana-keygen new --outfile ~/100x-Dev-Course/Solana/ --force
-: 1723195995:0;kf
-: 1723195997:0;lf
-: 1723196036:0;mkdir Localnet
-: 1723196052:0;solana-keygen new --outfile ~/100x-Dev-Course/Solana/Localnet --force
-: 1723196128:0;solana-keygen new --outfile ~/100x-Dev-Course/Solana/Localnet/keypair.json --force
-: 1723196171:0;cat /home/kitsunekode/100x-Dev-Course/Solana/Localnet/keypair.json
-: 1723196253:0;solana-test-validator\
-
-: 1723196301:0;rl
-: 1723196319:0;solana address -k ~/100x-Dev-Course/Solana/Localnet/keypair.json
-: 1723196332:0;solana address
-: 1723196360:0;solana airdrop 1 FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723196580:0;solana config get
-: 1723196612:0;solana balance
-: 1723196641:0;solana-install update
-: 1723196684:0;solana address
-: 1723196751:0;solama --version
-: 1723196760:0;solana --version
-: 1723196805:0;sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"
-: 1723196823:0;solana --version
-: 1723196841:0;rl
-: 1723196857:0;solana airdrop 0.5
-: 1723196863:0;solana airdrop 0.5 11111111111111111111111111111111
-: 1723196920:0;solana config set --url http://localhost:8899
-: 1723196937:0;solana airdrop 0.5
-: 1723196951:0;solana airdrop 2
-: 1723197040:0;solana airdrop 5 FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723197217:0;solana balance FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723197221:0;solana balance 
-: 1723197375:0;solana FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K 
-: 1723197386:0;solana transaction FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K 
-: 1723198056:0;nvidia-smi -l
-: 1723198068:0;nvidia-smi
-: 1723198239:0;prime-run google-chrome-stable
-: 1723198363:0;killall chrome
-: 1723198373:0;killall google-chrome-stable
-: 1723212152:0;neofetch
-: 1723212157:0;clear;fastfetch
-: 1723212167:0;prime-run google-chrome-stable
-: 1723212272:0;prime-run firefox
-: 1723212407:0;prime-run zoom
-: 1723212413:0;prime-run firefox
-: 1723212424:0;prime-run zoom
-: 1723212428:0;prime-run Zoom
-: 1723212454:0;zoom
-: 1723212458:0;Zoom
-: 1723212464:0;vim .zshrc
-: 1723212524:0;prime-run flatpak run us.zoom.Zoom
-: 1723212790:0;lf
-: 1723212814:0;npx create-solana-dapp
-: 1723213156:0;cd my-journal-dapp
-: 1723213164:0;yarn install
-: 1723213271:0;Hyde update
-: 1723213306:0;Hyde theme
-: 1723213314:0;Hyde theme patch
-: 1723213441:0;npm install
-: 1723216434:0;npm run dec
-: 1723216437:0;npm run dev
-: 1723217529:0;vim .config/hypr/userprefs.conf
-: 1723217555:0;hyprctl clients
-: 1723217702:0;mkddir Week-2
-: 1723217713:0;mkdir Week-2
-: 1723217718:0;cd Week-2
-: 1723220226:0;npm create vite@latest
-: 1723220312:0;npm install
-: 1723221188:0;loginn
-: 1723224088:0;lf
-: 1723224429:0;ls
-: 1723224523:0;la
-: 1723224526:0;ls
-: 1723224535:0;codebytere.github.io
-: 1723224536:0;ls
-: 1723225643:0;npm install -g @coral-xyz/anchor-cli. 
-: 1723225676:0;npm i @coral-xyz/anchor-cli
-: 1723225689:0;lf
-: 1723225787:0;cargo install --git https://github.com/coral-xyz/anchor avm --locked --force\
-
-: 1723225879:0;npm i @coral-xyz/anchor-cli
-: 1723225889:0;;s
-: 1723225892:0;ls
-: 1723225898:0;cd
-: 1723225899:0;ls
-: 1723225918:0;cs
-: 1723225927:0;fzf
-: 1723225949:0;cd .,
-: 1723225952:0;,
-: 1723225957:0;vim .zshrc
-: 1723226013:0;cb
-: 1723226015:0;rl
-: 1723226017:0;cb
-: 1723226022:0;vim .zshrc
-: 1723226048:0;cb'\
-\
-\
-`\
-'
-: 1723226050:0;cb
-: 1723226054:0;rl
-: 1723226055:0;cb
-: 1723226075:0;yay -Sc
-: 1723226091:0;npm cache clean -f
-: 1723226108:0;pacman -Sc
-: 1723226156:0;sudo pacman -Sc\
-
-: 1723226444:0;rl
-: 1723226452:0;neofetch
-: 1723226477:0;rl
-: 1723226611:0;solana-test-validator -reset
-: 1723226615:0;solana-test-validator --reset
-: 1723226793:0;avm install latest\
-avm use latest\
-
-: 1723226833:0;anchor --version
-: 1723226852:0;index.html
-: 1723226873:0;code .
-: 1723227405:0;anchor --version
-: 1723227410:0;avm install latest\
-avm use latest\
-
-: 1723227421:0;loginn
-: 1723227436:0;rl
-: 1723227973:0;avim install 0.30.1
-: 1723227980:0;avm install 0.30.1
-: 1723230511:0;cargo install --git https://github.com/coral-xyz/anchor avm --locked --force\
-
-: 1723230584:0;avm --version
-: 1723230602:0;anchor --version
-: 1723230608:0;rl
-: 1723230621:0;avm use latest
-: 1723230637:0;avm use 
-: 1723230644:0;avm use 0.30.1
-: 1723230701:0;npm install @coral-xyz/anchor-cli. 
-: 1723230722:0;loginn
-: 1723230725:0;npm install @coral-xyz/anchor-cli. 
-: 1723230742:0;npm i @coral-xyz/anchor-cli
-: 1723230754:0;anchor --version
-: 1723230758:0;rl
-: 1723230761:0;anchor --version
-: 1723230828:0;avm install latest
-: 1723230958:0;dpkg â€ƒ³print architecture
-: 1723231196:0;cargo install --git https://github.com/coral-xyz/anchor avm --force\
-
-: 1723231312:0;anchor --version
-: 1723231316:0;avm install latest
-: 1723231416:0;npm i @coral-xyz/anchor-cli
-: 1723231625:0;rustc --version
-: 1723231639:0;rustup update
-: 1723231796:0;sudo pacman -Syu pkg-config build-essential libudev-dev\
-
-: 1723231871:0;avm install latest
-: 1723231956:0;sudo pacman -Syu pkg-config build-essential libudev0\
-
-: 1723231969:0;sudo pacman -Syu libudev-dev\
-
-: 1723231973:0;sudo pacman -Syu libudev0\
-
-: 1723231983:0;rl
-: 1723231987:0;avm install latest
-: 1723232370:0;neofetch
-: 1723232373:0;clear;fastfetch
-: 1723232378:0;avm install latest
-: 1723232424:0;anchor --version
-: 1723232432:0;anchor 
-: 1723232435:0;anchor use
-: 1723232441:0;anchor use latest
-: 1723232455:0;anchor use 0.30.1
-: 1723232460:0;anchor use latest
-: 1723232632:0;npm install -g mocha
-: 1723232663:0;npm install -g @coral-xyz/anchor-cli
-: 1723232681:0;npm i -g @coral-xyz/anchor-cli
-: 1723232685:0;sudo npm i -g @coral-xyz/anchor-cli
-: 1723232721:0;npm install -g mocha
-: 1723232730:0;sudo npm install -g mocha\
-
-: 1723232772:0;anchor --version
-: 1723232785:0;avm use latest
-: 1723232788:0;sudo avm use latest
-: 1723232811:0;avm install latest
-: 1723232909:0;cargo install --git https://github.com/coral-xyz/anchor --tag v0.30.1 anchor-cli
-: 1723232935:0;cargo install --git https://github.com/coral-xyz/anchor --tag v0.30.1 anchor-cli --force
-: 1723233236:0;rl
-: 1723233239:0;anchor --version
-: 1723233779:0;prime-run ani-cli
-: 1723238555:0;loginn
-: 1723296964:0;neofetch
-: 1723296966:0;clear;fastfetch
-: 1723277213:0;reboot
-: 1723277263:0;neofetch
-: 1723277266:0;clear;fastfetch
-: 1723284117:0;loginn
-: 1723284131:0;sudo pacman -Syu
-: 1723284205:0;sudo rm /var/lib/pacman/db.lck
-: 1723284240:0;sudo -E pacman -Syu
-: 1723284258:0;sudo rm -R /var/lib/pacman/sync
-: 1723284275:0;sudo -E pacman -Syu
-: 1723284291:0;pacman -Syu
-: 1723284293:0;sudo pacman -Syu
-: 1723293431:0;neofetch
-: 1723293433:0;clear;fastfetch
-: 1723293434:0;neofetch
-: 1723297262:0;loginn
-: 1723297509:0;100x-Dev-Course/
-: 1723297517:0;Solana/
-: 1723297552:0;mkdir tutorialSolana
-: 1723297574:0;cd tutorialSolana
-: 1723297595:0;ts
-: 1723297599:0;ts-node
-: 1723297682:0;npm install -g typescript
-: 1723297687:0;sudo npm install -g typescript
-: 1723297748:0;tsc
-: 1723297762:0;ls
-: 1723297775:0;npm init -y\
-npx tsc --init
-: 1723297848:0;npm i --save-dev typescript
-: 1723297856:0;code 
-: 1723297863:0;code ,
-: 1723297884:0;code .
-: 1723297983:0;mkdir airdrop;cd airdrop;vi index.ts
-: 1723298653:0;yarn add @solana/web3.js
-: 1723298663:0;ls
-: 1723299873:0;npm build
-: 1723299885:0;npm run build
-: 1723299930:0;node index.js
-: 1723300206:0;solana-test-validator 
-: 1723300237:0;solana balannce FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723300246:0;solana balannce
-: 1723300253:0;solana balance FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723300262:0;solana config set --url http://localhost:8899
-: 1723300268:0;solana-test-validator 
-: 1723300292:0;solana balance FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723300297:0;solana balance 
-: 1723300318:0;node index.js
-: 1723300356:0;solana balance 
-: 1723300385:0;node index.js
-: 1723303927:0;prime-run Zoom
-: 1723303934:0;prime-run flatpak run us.zoom.Zoom
-: 1723304392:0;npm run build
-: 1723304418:0;rm index.
-: 1723304423:0;rm index.js
-: 1723304805:0;..
-: 1723304821:0;mkdir Week-2/assignment
-: 1723304828:0;cd Week-2/assignment
-: 1723305063:0;lf
-: 1723305188:0;code .
-: 1723306484:0;node index.js
-: 1723306880:0;mkdir Week-2/assignment
-: 1723306895:0;rm -r Week-2/assignment
-: 1723306898:0;ls
-: 1723306905:0;rm -r Week-2
-: 1723306923:0;node index.js
-: 1723308382:0;rm -r Week-2
-: 1723308385:0;node index.js
-: 1723310507:0;node setTimeout.js
-: 1723310769:0;node fsPromisifiedl.js
-: 1723310976:0;vi abc.txt
-: 1723311034:0;rm abc.html
-: 1723311053:0;node fsPromisifiedl.js
-: 1723311357:0;node fetch.js
-: 1723311551:0;node index.js
-: 1723311758:0;node fsPromisifiedl.js
-: 1723314011:0;node fetch.js
-: 1723314078:0;node index.js
-: 1723314081:0;node fetch.js
-: 1723314237:0;node index.js
-: 1723314423:0;xdg-settings set default-web-browser firefox.desktop
-: 1723315387:0;loginn
-: 1723315852:0;node setTimeout.js
-: 1723315858:0;node fetch.js
-: 1723315867:0;node fsPromisifiedl.js
-: 1723315958:0;node fetch.js
-: 1723316004:0;node fsPromisifiedl.js
-: 1723316008:0;node setTimeout.js
-: 1723316626:0;cd..
-: 1723316628:0;..
-: 1723316630:0;ls
-: 1723316650:0;vi README.md
-: 1723317228:0;..;vi README.md
-: 1723317318:0;cd Week-2/assignment
-: 1723317463:0;cd..
-: 1723317465:0;cd ..
-: 1723317485:0;ls
-: 1723317485:0;s
-: 1723317486:0;ls
-: 1723318123:0;...
-: 1723318128:0;cd Web-Dev\&Devops
-: 1723318135:0;git init
-: 1723318150:0;git add Week-2 README.md
-: 1723318154:0;git status
-: 1723318222:0;..
-: 1723318226:0;git status
-: 1723318227:0;..
-: 1723318230:0;git status
-: 1723318347:0;git rm -r --cached Week-2/assignment/.gitignore
-: 1723318353:0;git status
-: 1723318393:0;rl
-: 1723318436:0;git init
-: 1723318440:0;git status
-: 1723318481:0;git commit -m "Week-2 assignment"
-: 1723318503:0;git remote add archprivate git@github.com:KitsuneKode/Cohort-3-assignments-solutions.git
-: 1723318509:0;git push -u archprivate master
-: 1723321547:0;lf
-: 1723321598:0;code .
-: 1723321714:0;npm run dev
-: 1723321727:0;npm install
-: 1723321760:0;npm run dev
-: 1723321975:0;git pull
-: 1723322652:0;code .
-: 1723323179:0;npm install bip39
-: 1723323186:0;npm run dev
-: 1723323277:0;code ,
-: 1723323281:0;code .
-: 1723323309:0;..
-: 1723323314:0;code .
-: 1723323357:0;npm run dev
-: 1723323366:0;npm install
-: 1723323500:0;npm run dev
-: 1723323507:0;npm install
-: 1723323510:0;npm run dev
-: 1723323772:0;npm install
-: 1723323782:0;npm install bip39
-: 1723323794:0;npm run dev
-: 1723323895:0;node trial.js
-: 1723323961:0;rl
-: 1723323964:0;node trial.js
-: 1723324074:0;node type.js
-: 1723324328:0;node trial.js
-: 1723324367:0;cd src
-: 1723324370:0;node trial.js
-: 1723324378:0;cd..
-: 1723324388:0;..
-: 1723324392:0;npm run dev
-: 1723327449:0;loginn
-: 1723352852:0;q
-: 1723356740:0;\
-
-: 1723356751:0;vim .config/hypr/userprefs.conf
-: 1723356834:0;hyprctl toggle groups
-: 1723356836:0;hyprctl toggle group
-: 1723356844:0;hyprctl togglegroup
-: 1723356870:0;hyprctl dispatch togglegroup
-: 1723356926:0;hyprctl dispatch changegeoupactive
-: 1723356944:0;hyprctl dispatch changegeoupactive -b
-: 1723356949:0;hyprctl dispatch changegeoupactive -h
-: 1723356981:0;hyprctl dispatch togglegroup
-: 1723356993:0;hyprctl dispatch changegeoupactive --b
-: 1723357001:0;hyprctl changegeoupactive 
-: 1723357004:0;hyprctl changegeoupactive -b
-: 1723357052:0;hyprctl dispatch changegeoupactive
-: 1723357108:0;hyprctl dispatch changegeoupactive b
-: 1723357114:0;hyprctl dispatch changegeoupactive 1
-: 1723357163:0;changegeoupactive 
-: 1723357192:0;hyprctl changegeoupactive 
-: 1723357197:0;hyprctl changegeoupactive, b
-: 1723357207:0;hyprctl changegeoupactive, f
-: 1723357240:0;hyprctl changegeoupactive prev
-: 1723357319:0;hyprctl changegeoupactive b
-: 1723357322:0;hyprctl changegeoupactive f
-: 1723357333:0;hyprctl dispatch changegeoupactive f
-: 1723357354:0;hyprctl dispatch changegeoupactive 2
-: 1723357362:0;rl
-: 1723357366:0;hyprctl dispatch changegeoupactive 2
-: 1723357369:0;hyprctl dispatch changegeoupactive b
-: 1723357377:0;hyprctl dispatch changegeoupactive back
-: 1723357380:0;hyprctl dispatch changegeoupactive prev
-: 1723357623:0;vim .config/hypr/keybindings.conf
-: 1723357893:0;vim .config/hypr/userprefs.conf
-: 1723357975:0;code .config/hypr/userprefs.conf
-: 1723360455:0;git clone https://github.com/JorPan/flashcards.git 
-: 1723360507:0;..
-: 1723360542:0;cd FlashCard; npm create-vite@lastest
-: 1723360549:0;npm create vite@latest
-: 1723360605:0;mv Flashcard ./..
-: 1723360610:0;..
-: 1723360611:0;ls
-: 1723360622:0;rm FlashCard
-: 1723360626:0;rm -r FlashCard
-: 1723360654:0;cd flashcards
-: 1723360663:0;npm install
-: 1723360802:0;code .
-: 1723360832:0;npm start
-: 1723360859:0;npx browserslist@latest --update-db
-: 1723360891:0;code .
-: 1723360905:0;npm start
-: 1723360923:0;ls
-: 1723360930:0;npm run dev
-: 1723360960:0;vim .config/hypr/userprefs.conf
-: 1723361045:0;vim .config/hypr/keybindings.conf
-: 1723361282:0;vim .config/hypr/userprefs.conf
-: 1723361389:0;vim .config/hypr/keybindings.conf
-: 1723361566:0;vim .config/hypr/userprefs.conf
-: 1723361588:0;code .config/hypr/userprefs.conf
-: 1723362301:0;npm start
-: 1723362367:0;rm package-lock.json
-: 1723362371:0;npm install
-: 1723362386:0;npm start
-: 1723362510:0;npm install
-: 1723362681:0;npm install @material-ui/core @testing-library/jest-dom @testing-library/react @testing-library/user-event react react-dom react-icons react-scripts web-vitals --save
-: 1723362706:0;rm -r node_modules
-: 1723362711:0;npm install @material-ui/core @testing-library/jest-dom @testing-library/react @testing-library/user-event react react-dom react-icons react-scripts web-vitals --save
-: 1723362812:0;npm start
-: 1723362833:0;npm install @material-ui/core @testing-library/jest-dom @testing-library/react @testing-library/user-event react react-dom react-icons react-scripts web-vitals --save
-: 1723362865:0;loginn
-: 1723363312:0;npm run dev
-: 1723363330:0;npm install
-: 1723363343:0;npm run dev
-: 1723363857:0;npm audit fix
-: 1723364566:0;npm start
-: 1723364575:0;npm audit fix --force
-: 1723364724:0;npm start
-: 1723365415:0;neofetch
-: 1723365441:0;clear;fastfetch
-: 1723365640:0;prime-run code
-: 1723365820:0;prime-run firefox
-: 1723366075:0;prime-run google-chrome-stable
-: 1723366189:0;prime-run code
-: 1723366317:0;spotify auto
-: 1723366327:0;spicetify auto
-: 1723367636:0;node genMnemonic
-: 1723367674:0;node ./src/Components/MnemonicGen.js
-: 1723367908:0;npm run dev
-: 1723368971:0;npm install bip39
-: 1723369012:0;npm run dev
-: 1723369054:0;npm install buffer
-: 1723369092:0;npm run dev
-: 1723369858:0;node ./src/Components/MnemonicGen.js
-: 1723369975:0;npm install tweetnacl bs58\
-
-: 1723370007:0;npm install tweetnacl ed25519-hd-key\
-
-: 1723370021:0;yarn add @solana/web3.js
-: 1723370094:0;loginn
-: 1723370104:0;node ./src/Components/MnemonicGen.js
-: 1723376888:0;npm run dev
-: 1723378197:0;node ./src/Components/MnemonicGen.js
-: 1723378899:0;npm install ed25519-hd-key"
-: 1723378901:0;npm install ed25519-hd-key
-: 1723379224:0;rm -r ./src/Components
-: 1723379336:0;npm run dev
-: 1723379427:0;npm install @noble/ed25519\
-
-: 1723379582:0;npm run dev
-: 1723380201:0;rm -r node_modules
-: 1723380272:0;npm install
-: 1723380358:0;npm run dev
-: 1723381654:0;npm i bip32
-: 1723383400:0;node trial.js
-: 1723383407:0;node ./src/trial.js
-: 1723383571:0;npm i bip30
-: 1723383577:0;npm i bip39
-: 1723383588:0;node ./src/trial.js
-: 1723383668:0;rm -r node_modules
-: 1723383731:0;npm i
-: 1723383750:0;node ./src/trial.js
-: 1723384715:0;npm run dev
-: 1723385428:0;npm i bip32
-: 1723385679:0;node ./src/trial.js
-: 1723385994:0;npm i bip32
-: 1723386171:0;npm i tiny-secp256k1
-: 1723386185:0;node ./src/trial.js
-: 1723386256:0;npm run dev
-: 1723388712:0;loginn
-: 1723388720:0;prime-run flatpak run us.zoom.Zoom
-: 1723389733:0;neofetch
-: 1723389736:0;clear;fastfetch
-: 1723389747:0;yay -Sc
-: 1723389770:0;clear;fastfetch
-: 1723389797:0;prime-run flatpak run us.zoom.Zoom
-: 1723390471:0;mount /dev/nvme0n1p7
-: 1723390484:0;mount /dev/nvme0n1p7 ./new
-: 1723390491:0;sudo mount /dev/nvme0n1p7 ./new
-: 1723390606:0;prime-run firefox
-: 1723390726:0;/etc/fstab
-: 1723390744:0;sudo /etc/fstab
-: 1723390750:0;sudo vim /etc/fstab
-: 1723391297:0;vi .gitignore
-: 1723391381:0;git clone git@github.com:100xdevs-cohort-3/assignments.git assignment
-: 1723391388:0;cd assignments
-: 1723391396:0;cd assignment/
-: 1723391402:0;ls
-: 1723391417:0;cd week-2
-: 1723391418:0;l
-: 1723391420:0;sls
-: 1723391421:0;ls
-: 1723391717:0;prime-run ani-cli
-: 1723397836:0;sudo prime-run ani-cliOA
-: 1723397843:0;prime-run ani-cli
-: 1723397932:0;kilall mpv
-: 1723397949:0;killall mpv
-: 1723398072:0;mpv
-: 1723398091:0;mppv --play-video
-: 1723398095:0;mpv --play-video
-: 1723398273:0;hyprctl clients
-: 1723398300:0;mpv --play-video\ 
-: 1723398302:0;mpv --play-video
-: 1723398347:0;mpv
-: 1723398360:0;mpv -fs
-: 1723398365:0;mpv --fs
-: 1723398468:0;kill mpv
-: 1723398478:0;killall mpv
-: 1723399670:0;prime-run ani-cli
-: 1723400752:0;lf
-: 1723400777:0;npm create vite@latest
-: 1723400803:0;cd Web3Wallet
-: 1723400810:0;code .
-: 1723400849:0;mkdir src/Wallets
-: 1723401060:0;npm i bip32
-: 1723401072:0;npm i bip39
-: 1723401404:0;solana config
-: 1723401412:0;solana config get
-: 1723402320:0;solana-test-validator 
-: 1723402552:0;npm install tweetnacl ed25519-hd-key @solan/web3.js
-: 1723402576:0;npm install tweetnacl ed25519-hd-key @solana/web3.js
-: 1723403639:0;loginn
-: 1723404143:0;node ./src/Wallets/solana.js
-: 1723404885:0;npm install crypto
-: 1723404919:0;node ./src/Wallets/solana.js
-: 1723405446:0;npm i, npm run dev
-: 1723405457:0;npm i; npm run dev
-: 1723405480:0;npm i crypto
-: 1723405495:0;npm i
-: 1723405502:0;npm run dev
-: 1723405621:0;npm install crypto-browserify\
-
-: 1723405638:0;npm run dev
-: 1723405940:0;node ./src/Wallets/solana.js
-: 1723406260:0;npm install crypto-browserify stream-browserify
-: 1723406340:0;npm run dev
-: 1723406364:0;npm install vite-plugin-node-polyfills\
-
-: 1723406429:0;npm run dev
-: 1723406504:0;npm install vite-plugin-node-polyfills crypto-browserify stream-browserify --save-dev\
-\
-
-: 1723406510:0;npm run dev
-: 1723406544:0;rl
-: 1723406548:0;npm run dev
-: 1723406661:0;npm install crypto-browserify stream-browserify vite-plugin-node-polyfills
-: 1723406702:0;npm i esbuild-plugins/node-globals-polyfil
-: 1723406707:0;npm i esbuild-plugins/node-globals-polyfill
-: 1723406730:0;npm i @esbuild-plugins/node-globals-polyfill
-: 1723406741:0;npm run dev
-: 1723411767:0;loginn
-: 1723413958:0;sudo npm i -g vercel
-: 1723414043:0;r;
-: 1723414043:0;sudo npm i -g vercel
-: 1723414236:0;vercel --version
-: 1723414351:0;vercel
-: 1723415979:0;npm i ethers
-: 1723417373:0;npm run dev
-: 1723419377:0;loginn
-: 1723419730:0;vercel
-: 1723419783:0;vercel 
-: 1723420159:0;rl
-: 1723420163:0;vercel
-: 1723420248:0;vercel --prod
-: 1723420279:0;git init
-: 1723420287:0;git add.
-: 1723420292:0;git add .
-: 1723420294:0;ls
-: 1723420299:0;git status
-: 1723420327:0;rm -r .git
-: 1723420340:0;ls
-: 1723420345:0;git init
-: 1723420507:0;git add *
-: 1723420520:0;git status
-: 1723420651:0;git add .
-: 1723420653:0;ls
-: 1723420662:0;git status
-: 1723420814:0;git rm -r --cached .gitignore
-: 1723420817:0;ls
-: 1723420821:0;git status
-: 1723420885:0;git commit -m "Created Web based Wallet"
-: 1723420913:0;git remote add archprivate git@github.com:KitsuneKode/Crypto-Wallet.git
-: 1723420923:0;git push -u archprivate master
-: 1723421143:0;git add README.md
-: 1723421156:0;git commit -m "Fixwed Readme"
-: 1723421160:0;git push
-: 1723421346:0;npm run dev
-: 1723421408:0;npm install ethers@latest\
-
-: 1723421514:0;node ./src/Wallets/ethers.js
-: 1723422562:0;yarn add ethers
-: 1723422801:0;node ./src/Wallets/ethers.js
-: 1723422834:0;yarn add ethers@latest
-: 1723423615:0;node  node.js
-: 1723423728:0;npm run ./src/ethersjs
-: 1723435203:0;loginn
-: 1723435242:0;node  ./src/Wallets/ether.js
-: 1723435265:0;prime-run ani-cli
-: 1723436372:0;node  ./src/Wallets/ether.js
-: 1723437870:0;yarn add ethers@5.7
-: 1723437952:0;node  ./src/Wallets/ether.js
-: 1723438202:0;npm i
-: 1723438235:0;node  ./src/Wallets/ether.js
-: 1723438517:0;npm run dec=v
-: 1723438522:0;npm run dev
-: 1723438720:0;npm i
-: 1723438751:0;npm run dev
-: 1723439019:0;npm i ethers
-: 1723439104:0;npm i ethers@5.7.2
-: 1723439153:0;npm -r 
-: 1723439259:0;npm i ethers@5.7
-: 1723439399:0;npm uninstall ethers
-: 1723439412:0;npm i ethers
-: 1723439574:0;npm i
-: 1723439618:0;node  ./src/Wallets/ether.js
-: 1723439684:0;npm run dev
-: 1723440364:0;git add .
-: 1723440365:0;ls
-: 1723440376:0;git status
-: 1723440392:0;git rm -r --cached .gitignore
-: 1723440398:0;git status
-: 1723440410:0;git add *
-: 1723440415:0;git status
-: 1723440438:0;git commit -m "Fixed the ether.js"
-: 1723440442:0;git push
-: 1723440838:0;git push -u archprivate master
-: 1723441027:0;git add *
-: 1723441031:0;git status
-: 1723441049:0;git commit -m "Fixed the App.jsx"
-: 1723441052:0;git push
-: 1723441255:0;npm run dev
-: 1723443135:0;loginn
-: 1723443273:0;git add *
-: 1723443277:0;git commit -m "Fixed the App.jsx"
-: 1723443289:0;git push
-: 1723443993:0;git add *
-: 1723444016:0;git commit -m "Added some to the App.css"
-: 1723444023:0;git push
-: 1723444236:0;git status
-: 1723444492:0;git add *
-: 1723444513:0;git commit -m "Fixed readme"
-: 1723444516:0;git push
-: 1723444621:0;node  ./src/Wallets/ether.js
-: 1723444950:0;git status
-: 1723445024:0;lg
-: 1723445026:0;lf
-: 1723445049:0;code index.js
-: 1723445078:0;npm i ethers bip39
-: 1723445112:0;node index.js
-: 1723445386:0;npm i ethers bip39
-: 1723445414:0;node index.js
-: 1723445509:0;npm i ethers bip39 --save
-: 1723445560:0;ls
-: 1723445567:0;cd..
-: 1723445569:0;cd ..
-: 1723445597:0;dolpin .
-: 1723445608:0;dolphin .
-: 1723445621:0;cd temp/
-: 1723445624:0;dolphin .
-: 1723448221:0;loginn
-: 1723449368:0;cd ..
-: 1723449371:0;code .
-: 1723449498:0;git add *
-: 1723449501:0;git commit -m "Fixed readme"
-: 1723449505:0;git push
-: 1723449512:0;git push -u archprivate master
-: 1723466823:0;neofetch
-: 1723466829:0;clear;fastfetch
-: 1723466899:0;loginn
-: 1723466978:0;solana config set --url localhost
-: 1723466997:0;solana config set --url http://localhost:882
-: 1723467000:0;solana config set --url localhost
-: 1723467204:0;git clone git@github.com:100xdevs-cohort-3/assignments.git Cohort3-Assignments
-: 1723469884:0;prime-run ani-cli
-: 1723471602:0;prime-run ani-clinige
-: 1723471605:0;prime-run ani-cli
-: 1723479740:0;lf
-: 1723479772:0;code .
-: 1723480588:0;Hyprland
-: 1723480652:0;killall spotify
-: 1723480731:0;kilall Hyprland
-: 1723480743:0;killall Hyprland
-: 1723480820:0;logout
-: 1723480865:0;clear 
-: 1723480872:0;btop
-: 1723480875:0;htop
-: 1723480899:0;logout
-: 1723481008:0;reboot
-: 1723481232:0;cls
-: 1723481239:0;killall Hyprland
-: 1723481521:0;neofetch
-: 1723481526:0;cls
-: 1723481541:0;clear;fastfetch
-: 1723482432:0;cd show-balance
-: 1723482442:0;npm run build 
-: 1723482475:0;..
-: 1723482504:0;cd dist/show-balance/
-: 1723482509:0;node index.js
-: 1723482534:0;..
-: 1723482537:0;node index.js
-: 1723482572:0;..
-: 1723482650:0;node ./dist/show-balance/index.js
-: 1723482700:0;q
-: 1723482714:0;solana-test-validator 
-: 1723482725:0;node ./dist/show-balance/index.js
-: 1723482742:0;solana balance 
-: 1723482746:0;rl
-: 1723482750:0;node ./dist/show-balance/index.js
-: 1723482840:0;solana-test-validator 
-: 1723482851:0;node ./dist/show-balance/index.js
-: 1723482962:0;solana account FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723482981:0;solana-test-validator 
-: 1723482994:0;rl
-: 1723482997:0;solana account FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723483073:0;solana account Co8CiZKr8PbeyAqqZipZq6xUs4a2gj3YdD7A64EnCqZm
-: 1723483102:0;node ./dist/show-balance/index.js
-: 1723483241:0;solana balance FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723483255:0;solana-test-validator 
-: 1723483261:0;solana balance FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723483392:0;solana-test-validator 
-: 1723483400:0;node ./dist/show-balance/index.js
-: 1723486300:0;loginn
-: 1723490824:0;node ./dist/show-balance/index.js
-: 1723490845:0;tsc
-: 1723547539:0;clear;fastfetch
-: 1723547608:0;yay -Syu
-: 1723547626:0;yay -Sc
-: 1723547641:0;spicetify auto
-: 1723547695:0;clear;fastfetch
-: 1723549104:0;solana --help
-: 1723549313:0;git clone https://github.com/freeCodeCamp/web3-curriculum
-: 1723549370:0;code .
-: 1723549410:0;cd web3-curriculum
-: 1723549413:0;code ,
-: 1723549430:0;code .
-: 1723550430:0;ls
-: 1723550437:0;cd ..
-: 1723550438:0;ls
-: 1723550464:0;mkdir FreecodeCamp
-: 1723550468:0;cd FreecodeCamp
-: 1723550525:0;ls
-: 1723550537:0;code .
-: 1723550557:0;git clone https://github.com/freeCodeCamp/solana-curriculum.git . && exit
-: 1723550579:0;ls
-: 1723550660:0;cd ..
-: 1723550668:0;ls
-: 1723550679:0;rm -r FreecodeCamp
-: 1723550683:0;y
-: 1723550689:0;ls
-: 1723550729:0;git clone https://github.com/freeCodeCamp/solana-curriculum
-: 1723550743:0;cd solana-curriculum
-: 1723550744:0;ls
-: 1723550786:0;cd ..
-: 1723550787:0;ls
-: 1723550814:0;cd solana-curriculum; code .; ..
-: 1723551222:0;xdg-settings set default-web-browser google-chrome.desktop
-: 1723551296:0;code .
-: 1723551386:0;cd tutorialSolana
-: 1723551740:0;clear;fastfetch
-: 1723552011:0;lf
-: 1723552402:0;prime-run firefox
-: 1723552607:0;cd solana-curriculum; code .; ..
-: 1723552623:0;ks
-: 1723552626:0;l
-: 1723552629:0;ls
-: 1723552635:0;cd solana-curriculum; code .; ..
-: 1723552734:0;rm -r solana-curriculum
-: 1723552828:0;git clone https://github.com/freeCodeCamp/solana-curriculum
-: 1723552849:0;dolphin .
-: 1723553176:0;git clone https://github.com/freeCodeCamp/web3-curriculum
-: 1723553186:0;cd solana-curriculum; code .; ..
-: 1723553238:0;cd web3-curriculum; code .; .. 
-: 1723553339:0;find / -type f -mtime -7 -ls 2>/dev/null | less\
-
-: 1723553394:0;sudo du -h --max-depth=1 / | sort -hr | head -n 20\
-
-: 1723553425:0;sudo pacman -Sc\
-
-: 1723553445:0;yay -Sc
-: 1723553712:0;du -s * | sort -nr | head -n10
-: 1723553834:0;jerry
-: 1723553890:0;du . | sort -nr | head -n10\
-\
-
-: 1723553962:0;du -max /dir | sort -n
-: 1723553980:0;du -max | sort -n
-: 1723554576:0;find . -type f -size +100M
-: 1723554734:0;sudo du -aBm / 2>/dev/null | sort -nr | head -n 10
-: 1723554846:0;prime-run firefox
-: 1723554905:0;.local/share/
-: 1723554906:0;ls
-: 1723554915:0;dolphin .
-: 1723555015:0;du -max /dir | sort -30
-: 1723555037:0;sudo du -aBm / 2>/dev/null | sort -nr | head -n 10
-: 1723555117:0;/var/lib/docker
-: 1723555121:0;/var/lib/
-: 1723555138:0;code .
-: 1723555143:0;dolphin .
-: 1723555283:0;code .\ 
-: 1723555285:0;code .
-: 1723555358:0;q
-: 1723555387:0;prime-run firefox
-: 1723555758:0;sudo n lts
-: 1723555794:0;npm install -g ts-node@latest\
-\
-npm install -g typescript@latest
-: 1723555829:0;sudo npm install -g ts-node@latest typescript@latest
-: 1723555883:0;solana-test-validator 
-: 1723555890:0;npm run build 
-: 1723555902:0;node ./dist/show-balance/index.js
-: 1723555912:0;solana balance FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723555921:0;solana-test-validator 
-: 1723555928:0;solana balance FR4DL1qRhE6tu7nTzxEWPp3KJdLvm4aahbZBcoRyyX7K
-: 1723555966:0;node ./dist/show-balance/index.js
-: 1723555970:0;npm run build 
-: 1723555973:0;node ./dist/show-balance/index.js
-: 1723556250:0;npm run build 
-: 1723556253:0;node ./dist/show-balance/index.js
-: 1723556401:0;solana-test-validator 
-: 1723556411:0;npm run build 
-: 1723556415:0;node ./dist/show-balance/index.js
-: 1723558239:0;cat /home/kitsunekode/Imp/cover_letter.docx
-: 1723565506:0;loginn
-: 1723567398:0;q
-: 1723568134:0;prime-run firefox
-: 1723568939:0;q
-: 1723568949:0;qq
-: 1723568949:0;q
-: 1723569178:0;npm uninstall ethers
-: 1723569239:0;npm uninstall docker bip39 
-: 1723569250:0;anchor --version
-: 1723569282:0;npm unistall coral
-: 1723569313:0;npm uninstall @coral-xyz/anchor-cli 
-: 1723569329:0;docker --version
-: 1723569336:0;anchor --version
-: 1723569699:0;npm i @solana/spl-token
-: 1723570218:0;ts-node "/home/kitsunekode/100x-Dev-Course/Solana/tutorialSolana/airdrop/index.ts"
-: 1723583015:0;loginn
-: 1723620088:0;npm create vite@latest
-: 1723620129:0;cd gamehub
-: 1723620132:0;npm i 
-: 1723620214:0;npm i bootstrao
-: 1723620218:0;npm i bootstrap
-: 1723620390:0;prime-run firefox
-: 1723620629:0;..; git clone git@github.com:adisinghstudent/FlappyBirdClaudetest.git meme-bird Flap_That_Meme\
-
-: 1723620645:0;..; git clone git@github.com:adisinghstudent/FlappyBirdClaudetest.git Flap_That_Meme\
-
-: 1723620657:0;cd Flap_That_Meme
-: 1723620660:0;code .
-: 1723621093:0;prime-run firefox
-: 1723621577:0;cd ..
-: 1723621583:0;rm -r Flap_That_Meme
-: 1723621703:0;mkdir Flap_That_Meme
-: 1723621708:0;cd Flap_That_Meme
-: 1723621721:0;vim index.html
-: 1723621790:0;vim main.js
-: 1723621919:0;..
-: 1723621922:0;rm -r Flap_That_Meme
-: 1723621941:0;ls
-: 1723621948:0;cd Projects
-: 1723621952:0;ls
-: 1723621968:0;git clione https://github.com/ImKennyYip/flappy-bird.git Flap_the_Bird
-: 1723621990:0;git clone https://github.com/ImKennyYip/flappy-bird.git Flap_the_Bird
-: 1723622055:0;cd Flap_That_Meme; code .
-: 1723622094:0;ls
-: 1723622109:0;cd Flap_the_Bird; code .
-: 1723625094:0;shutdown now  
-: 1723629492:0;neofetch
-: 1723629497:0;clear;fastfetch
-: 1723630906:0;lf
-: 1723636861:0;neofetch
-: 1723636866:0;clear;fastfetch
-: 1723636937:0;yay -Sc
-: 1723636947:0;yay -Rcs
-: 1723636962:0;vim .zshrc
-: 1723637016:0;rl
-: 1723637058:0;yay -Syu catnap-git
-: 1723637111:0;catnap
-: 1723637228:0;loginn
-: 1723637252:0;killall spotify
-: 1723637544:0;ls
-: 1723637605:0;ls -1
-: 1723637609:0;vim .zshrc
-: 1723637628:0;ld
-: 1723637633:0;ll
-: 1723637635:0;l
-: 1723637644:0;ll
-: 1723637650:0;ld
-: 1723637654:0;ls
-: 1723637699:0;exa --icons --color=always --group-directories-first\
-
-: 1723637753:0;ld
-: 1723637754:0;ls
-: 1723637759:0;lls
-: 1723637807:0;vim .zshrc
-: 1723637848:0;ls
-: 1723637849:0;ll
-: 1723637851:0;lr
-: 1723637852:0;rl
-: 1723637854:0;ll
-: 1723637894:0;rl
-: 1723637895:0;ll
-: 1723637897:0;ls
-: 1723637898:0;ll
-: 1723637899:0;lls
-: 1723637900:0;ll
-: 1723637902:0;ls
-: 1723637903:0;ll
-: 1723638177:0;lf
-: 1723638294:0;which wbarconfgen.sh 
-: 1723638308:0;cd /home/kitsunekode/.local/share/bin/wbarconfgen.sh
-: 1723638319:0;cod e /home/kitsunekode/.local/share/bin/wbarconfgen.sh
-: 1723638324:0;code /home/kitsunekode/.local/share/bin/wbarconfgen.sh
-: 1723638411:0;which globalcontrol.sh
-: 1723638420:0;code /home/kitsunekode/.local/share/bin/globalcontrol.sh
-: 1723638460:0;code /home/kitsunekode/.local/share/bin/wbarstylegen.sh
-: 1723638484:0;${confDir}
-: 1723638490:0;echo ${confDir}
-: 1723638527:0;lf
-: 1723638962:0;vim .zshrc
-: 1723639243:0;vim .vim_runtime/my_configs.vim
-: 1723639955:0;vim --version | grep clipboard\
-
-: 1723640022:0;sudo pacman -S vim
-: 1723640040:0;sudo pacman -S vim-gtjk
-: 1723640225:0;sudo pacman -S gvim
-: 1723640244:0;vim
-: 1723640256:0;rl
-: 1723640287:0;vim .vimrc
-: 1723640296:0;vim --version | grep clipboard\
-
-: 1723640309:0;vim .vim_runtime/my_configs.vim
-: 1723640361:0;vim .vimrc
-: 1723640475:0;vim
-: 1723640498:0;.vim_runtime/
-: 1723640499:0;ls
-: 1723640513:0;py update_plugins.py
-: 1723640526:0;vim .zshrc
-: 1723640577:0;rl;py update_plugins.py
-: 1723640583:0;py update_plugins.py
-: 1723640640:0;catnap
-: 1723640823:0;vim
-: 1723640866:0;ls
-: 1723640881:0;./install_awesome_vimrc.sh
-: 1723640887:0;rl
-: 1723640889:0;vim
-: 1723640893:0;gvim
-: 1723640915:0;sudo pacman -S vim
-: 1723640928:0;vim --version | grep clipboard\
-
-: 1723640984:0;detect-clipboard 
-: 1723641123:0;vim\
-
-: 1723641153:0;vi --version
-: 1723641174:0;vi +clipboard
-: 1723641255:0;vim .vim_runtime/my_configs.vim
-: 1723641421:0;cd temp/
-: 1723641432:0;git clone https://github.com/Spelljinxer/dotfiles.git
-: 1723641771:0;ll
-: 1723641777:0;cd dotfiles
-: 1723641783:0;dolphin .
-: 1723641877:0;catnap
-: 1723641881:0;ls
-: 1723641884:0;rl
-: 1723641885:0;catnap
-: 1723642017:0;vim /home/kitsunekode/.config/catnap/config.toml
-: 1723642046:0;catnap
-: 1723642091:0;vim /home/kitsunekode/.config/catnap/config.toml
-: 1723642103:0;catnap
-: 1723642104:0;rl
-: 1723642107:0;catnap
-: 1723642160:0;vim /home/kitsunekode/.config/catnap/default/config.toml
-: 1723642619:0;catnap
-: 1723642622:0;rl
-: 1723642625:0;catnap
-: 1723642733:0;vim /home/kitsunekode/.config/catnap/default/config.toml
-: 1723642749:0;sudo pacman -S viu
-: 1723642907:0;vim /home/kitsunekode/.config/catnap/config.toml
-: 1723642945:0;mv  /home/kitsunekode/.config/catnap/default/config.toml /home/kitsunekode/.config/catnap/config.toml
-: 1723642953:0;catnap
-: 1723642961:0;vim /home/kitsunekode/.config/catnap/config.toml
-: 1723642973:0;catnap
-: 1723643030:0;vim /home/kitsunekode/.config/catnap/config.toml
-: 1723643048:0;/home/kitsunekode/.config/fastfetch
-: 1723643048:0;ls
-: 1723643091:0;cp  /home/kitsunekode/.config/catnap/default/config.toml /home/kitsunekode/.config/fastfetch/config.toml
-: 1723643098:0;cp  /home/kitsunekode/.config/catnap/default/config.toml /home/kitsunekode/.config/fastfetch/
-: 1723643112:0;cp  /home/kitsunekode/.config/catnap/config.toml /home/kitsunekode/.config/fastfetch/
-: 1723643115:0;fastfetch
-: 1723643122:0;..
-: 1723643127:0;fastfetch.copy
-: 1723643128:0;ls
-: 1723643134:0;vim config.jsonc
-: 1723643226:0;cp ./config.jsonc /home/kitsunekode/.config/fastfetch/
-: 1723643231:0;fastfetch
-: 1723643250:0;neofetch
-: 1723643293:0;catnap
-: 1723643334:0;..
-: 1723643340:0;./fastfetch
-: 1723643341:0;ls
-: 1723643388:0;cp /home/kitsunekode/.config/catnap/bocchi-transparent.png ./pngs
-: 1723643392:0;fastfetch
-: 1723643427:0;cd pngs
-: 1723643457:0;rm aisaka.png arch.png loli.png hyde.png ryuzaki.png 
-: 1723643460:0;fastfetch
-: 1723643468:0;rm pochita.png
-: 1723643471:0;fastfetch
-: 1723643500:0;cd ..
-: 1723643506:0;rm config.toml
-: 1723643527:0;mv config.jsonc ./conig.txt
-: 1723643533:0;fastfetch
-: 1723643560:0;vim /home/kitsunekode/.config/catnap/config.toml
-: 1723643574:0;catnap
-: 1723643587:0;vim conig.txt
-: 1723643639:0;fastfetch
-: 1723643878:0;cd ..
-: 1723643883:0;lf
-: 1723643957:0;mv ./conig.txt ./config.jsonc
-: 1723643960:0;fastfetch
-: 1723643979:0;mv config.jsonc ./conig.txt
-: 1723643982:0;fastfetch
-: 1723643996:0;vim conig.txt
-: 1723644197:0;mv ./conig.txt ./config.jsonc
-: 1723644199:0;fastfetch
-: 1723644425:0;ls
-: 1723644436:0;mv ./conig.txt ./config.jsonc
-: 1723644438:0;ls
-: 1723644441:0;fastfetch
-: 1723644470:0;vim config.jsonc
-: 1723644566:0;fastfetch
-: 1723644595:0;mv ./config.jsonc ./conif.txt
-: 1723644608:0;vim conif.txt
-: 1723644657:0;fastfetch
-: 1723644722:0;mv ./conif.txt ./config.jsonc 
-: 1723644724:0;fastfetch
-: 1723644744:0;:q
-: 1723644755:0;q
-: 1723644761:0;neofetch
-: 1723644764:0;fastfetch
-: 1723644767:0;clear;fastfetch
-: 1723644784:0;catnap
-: 1723644794:0;c; catnap
-: 1723644804:0;vim /home/kitsunekode/.config/catnap/config.toml
-: 1723644893:0;git pull
-: 1723644946:0;c; catnap
-: 1723644953:0;vim /home/kitsunekode/.config/catnap/config.toml
-: 1723644965:0;c; catnap
-: 1723645219:0;yay -S sptlrx-bin
-: 1723645675:0;yay -Sc
-: 1723645694:0;sptlrx
-: 1723646283:0;vim /home/kitsunekode/.config/sptlrx/config.yaml
-: 1723646352:0;sptlrx
-: 1723648013:0;yay -S ncspot
-: 1723648539:0;spotify auto
-: 1723648548:0;spicetify auto
-: 1723648610:0;yay -S sptlrx-bin
-: 1723648642:0;spotify
-: 1723648692:0;sptlrx
-: 1723648729:0;spotify config
-: 1723648733:0;spotify --config
-: 1723648737:0;spotify -h
-: 1723648751:0;which spotify
-: 1723648765:0;.config/spotify
-: 1723648765:0;;s
-: 1723648767:0;ls
-: 1723648773:0;vim prefs
-: 1723648810:0;~/.cache
-: 1723648811:0;ls
-: 1723648816:0;cd spotify
-: 1723648817:0;ls
-: 1723648882:0;sptlrx
-: 1723648972:0;vim /home/kitsunekode/.config/sptlrx/config.yaml
-: 1723649457:0;yeet sptlrx
-: 1723649469:0;yeet 
-: 1723649489:0;~
-: 1723649495:0;vim .zshrc
-: 1723649542:0;yeet sptlrx
-: 1723649546:0;sptlrx
-: 1723649554:0;yay -Rns sptlrx
-: 1723649559:0;vim .zshrc
-: 1723649626:0;po
-: 1723649705:0;yuck
-: 1723649706:0;rl
-: 1723649709:0;yuck
-: 1723649719:0;yeet sptlrx
-: 1723649993:0;ncspot
-: 1723650096:0;rl
-: 1723650128:0;yeet ncspot
-: 1723650135:0;yuck
-: 1723650145:0;pacman -Sc
-: 1723650205:0;rm -r ./temp/dotfiles
-: 1723650214:0;sudo rm -r ./temp/dotfiles
-: 1723650227:0;cd ./temp
-: 1723650228:0;ls
-: 1723650239:0;pacman -Sc
-: 1723650241:0;sudo pacman -Sc
-: 1723650488:0;git clone https://github.com/Nainish-Rai/aesthetic-startpage.git
-: 1723655323:0;loginn
-: 1723656009:0;firefox --version
-: 1723656503:0;kiall firefox
-: 1723656510:0;killall firefox
-: 1723663747:0;neofetch
-: 1723664001:0;clear;fastfetch
-: 1723664030:0;catnap
-: 1723664043:0;c;catnap
-: 1723664251:0;loginn
-: 1723664343:0;yarn cache clean
-: 1723664370:0;npm cache clean -f
-: 1723664541:0;pip cache clean
-: 1723701733:0;loginn
-: 1723702233:0;spicetify auto
-: 1723702240:0;spicetify update
-: 1723702265:0;spotify update
-: 1723702284:0;sudo pacman -S spotify
-: 1723702291:0;sudo pacman -S spotify-bin
-: 1723702421:0;pacman -S Spotify
-: 1723702423:0;sudo pacman -S Spotify
-: 1723702444:0;sudo pacman -S spotify-launcher
-: 1723702489:0;which spotify
-: 1723702495:0;which spotify-bin
-: 1723702534:0;yeet spotify
-: 1723702771:0;spotify update
-: 1723702775:0;spicetify update
-: 1723702787:0;which spotify
-: 1723702792:0;which spotify-launcher
-: 1723703065:0;spicetify update
-: 1723703086:0;.local/share/spotify-launcher
-: 1723703088:0;ls
-: 1723703107:0;./install
-: 1723703108:0;ls
-: 1723703115:0;usr/share
-: 1723703116:0;ls
-: 1723703122:0;spotify
-: 1723703132:0;./spotify
-: 1723703138:0;ls
-: 1723703143:0;Apss
-: 1723703148:0;Apps
-: 1723703150:0;ls
-: 1723703153:0;cd ..
-: 1723703175:0;code .
-: 1723703190:0;./spotify
-: 1723703233:0;spicetify config-dir
-: 1723703280:0;which spotify-launcher
-: 1723703306:0;spicetify update
-: 1723703419:0;rl
-: 1723703422:0;spicetify update
-: 1723703450:0;$HOME/.local/share/spotify-launcher/install/usr/share/spotify/spotify
-: 1723703550:0;spicetify config-dir
-: 1723703620:0;spicetify auto
-: 1723703629:0;spicetify 
-: 1723703636:0;spicetify -h
-: 1723703642:0;spicetify -e
-: 1723703647:0;spicetify
-: 1723703650:0;spicetify update
-: 1723703707:0;.config/spotify
-: 1723703708:0;ls
-: 1723703746:0;spicetify update
-: 1723703826:0;rl
-: 1723703837:0;spotify
-: 1723703842:0;spotify-launcher
-: 1723703850:0;which spotify-launcher
-: 1723703871:0;spicetify update
-: 1723703879:0;spicetify auto
-: 1723703905:0;Apps
-: 1723703907:0;ls
-: 1723703915:0;cd ,,
-: 1723703918:0;..
-: 1723703932:0;cp  ./spotify ./Apps/
-: 1723703949:0;spicetify config
-: 1723704078:0;spicetify
-: 1723704972:0;spicetify config
-: 1723704978:0;spicetify config-dirt
-: 1723704981:0;spicetify config-dir
-: 1723705030:0;spicetify
-: 1723705061:0;spicetify backup apply enable-devtools
-: 1723705099:0;spicetify update
-: 1723705107:0;spicetify auto
-: 1723705117:0;~
-: 1723705120:0;vim .zshrc
-: 1723705524:0;vim .vim_runtime/my_configs.vim
-: 1723705558:0;vim .zshrc
-: 1723705582:0;vim .vimrc
-: 1723705627:0;.vim_runtime/
-: 1723705628:0;ls
-: 1723705643:0;./install_awesome_vimrc.sh
-: 1723705670:0;code README.md
-: 1723705755:0;\
-\
-\
- \
-    git reset --hard\
-    git clean -d --force\
-    git pull --rebase\
-    python update_plugins.py  # use python3 if python is unavailable
-: 1723705817:0;code my_configs.vim
-: 1723705852:0;vim
-: 1723705867:0;vim .vimrc
-: 1723705878:0;vim README.md my_configs.vim
-: 1723705897:0;vim my_configs.vim
-: 1723708331:0;yeet openshot
-: 1723708343:0;yuck
-: 1723708400:0;yay -Syu davinci-resolve
-: 1723708667:0;libinput-gestures-setup
-: 1723708697:0;yeet libinput-gesture
-: 1723708708:0;yeet libinput-gestures
-: 1723708726:0;mons
-: 1723708739:0;mangodl -S Solo leveling
-: 1723708751:0;mangodl
-: 1723708869:0;loginn
-: 1723708902:0;clear;fastfetch
-: 1723708927:0;c;catnap
-: 1723708933:0;neofetch
-: 1723708937:0;clear;fastfetch
-: 1723709067:0;curl -sLf https://spacevim.org/install.sh | bash -s -- --uninstall
-: 1723709074:0;vim
-: 1723709194:0;vim temp/index.js
-: 1723709490:0;xdg-settings set default-web-browser firefox.desktop
-: 1723710471:0;vim temp/index.js
-: 1723710971:0;yay -Syu davinci-resolve
-: 1723711297:0;vim temp/index.js
-: 1723711475:0;vim .vim_runtime/my_configs.vim
-: 1723711687:0;vim
-: 1723711738:0;vim .vim_runtime/my_configs.vim
-: 1723711752:0;cd .vim_runtime/
-: 1723711753:0;ls
-: 1723711788:0;vim .vimrc
-: 1723711807:0;vim ~/.vimrc
-: 1723711828:0;cd
-: 1723711834:0;cd,
-: 1723711838:0;.,
-: 1723711846:0;ll
-: 1723711850:0;cd autoload
-: 1723711851:0;;s
-: 1723711854:0;ls
-: 1723711864:0;vim pathogen.vim
-: 1723711958:0;vim .vim_runtime/my_configs.vim
-: 1723712277:0;vcode .vim_runtime/my_configs.vim
-: 1723712282:0;code .vim_runtime/my_configs.vim
-: 1723712297:0;yay -Syu davinci-resolve
-: 1723712369:0;code .vim_runtime/my_configs.vim
-: 1723712775:0;vim .vim_runtime/my_configs.vim
-: 1723714295:0;.vim_runtime/
-: 1723714296:0;ls
-: 1723714304:0;ll
-: 1723714323:0;cd my_plugins
-: 1723714325:0;ls
-: 1723714328:0;ll
-: 1723714331:0;cd ..
-: 1723714338:0;cd vimrcs
-: 1723714339:0;ls
-: 1723714363:0;vim plugins_config.vim
-: 1723714586:0;ld
-: 1723714588:0;ls
-: 1723714595:0;vim extended.vim
-: 1723714659:0;vim .vim_runtime/my_configs.vim
-: 1723714698:0;lf
-: 1723714791:0;vim extended.vim
-: 1723714813:0;vim .vim_runtime/my_configs.vim
-: 1723715434:0;vim .vim_runtime/autoload/pathogen.vim
-: 1723716762:0;wallbashspotify.sh
-: 1723716772:0;spicetify auto
-: 1723716824:0;vim wallbashspotify.sh
-: 1723716852:0;which spotify-launcher
-: 1723716864:0;which wallbashspotify.sh
-: 1723716878:0;.local/share/bin
-: 1723716879:0;ls
-: 1723716880:0;la
-: 1723716882:0;ll
-: 1723716892:0;quickapps.sh
-: 1723716897:0;./quickapps.sh
-: 1723716914:0;chmod +x quickapps.sh
-: 1723716916:0;./quickapps.sh
-: 1723716923:0;./wallbashspotify.sh
-: 1723716926:0;vim wallbashspotify.sh
-: 1723716989:0;spicetify comfig
-: 1723716997:0;spicetify 
-: 1723717004:0;spicetify  -h config
-: 1723717036:0;spicetify spotify_path
-: 1723717046:0;spicetify 
-: 1723717051:0;spicetify -c
-: 1723717070:0;spicetify config
-: 1723717082:0;.config
-: 1723717082:0;ls
-: 1723717117:0;$1
-: 1723717141:0;spicetify backup apply
-: 1723717153:0;spicetify backup
-: 1723717168:0;spicetify restore backup
-: 1723717241:0;spicetify 
-: 1723717247:0;spicetify config
-: 1723717281:0;spotify-launcher
-: 1723717291:0;spotify
-: 1723717294:0;ls
-: 1723717298:0;vim prefs
-: 1723718457:0;vim .vim_runtime/autoload/pathogen.vim
-: 1723718464:0;vim .vim_runtime/my_configs.vim
-: 1723718724:0;spotify
-: 1723718735:0;spotify-launcher
-: 1723718758:0;vim ~/.zshrc
-: 1723718777:0;rl
-: 1723718782:0;spotify
-: 1723718787:0;spicetify config
-: 1723718793:0;spicetify auto
-: 1723718827:0;spicetify update marketplace
-: 1723718863:0;open $HOME/.local/share/spotify-launcher/install/usr/share/spotify/Apps: no such file or directory
-: 1723718881:0;$HOME/.local/share/spotify-launcher/install/usr/share/spotify/Apps
-: 1723718883:0;ls
-: 1723718887:0;cd ..
-: 1723718888:0;ls
-: 1723718892:0;cp  ./spotify ./Apps/
-: 1723718899:0;cd Apps
-: 1723718900:0;ls
-: 1723718902:0;cd ..
-: 1723718908:0;spicetify update marketplace
-: 1723718934:0;spicetify auto
-: 1723718995:0;spicetify config-dir\ 
-: 1723718997:0;spicetify config-dir
-: 1723719114:0;wallbashspotify.sh
-: 1723719142:0;vim wallbashspotify.sh
-: 1723719183:0;spicetify config
-: 1723719200:0;$HOME/.local/share/spotify-launcher/install/usr/share/spotify
-: 1723719202:0;ls
-: 1723719231:0;./spotify.desktop
-: 1723719245:0;chmod +x ./spotify.desktop
-: 1723719247:0;./spotify.desktop
-: 1723719260:0;./spotify
-: 1723719380:0;ls
-: 1723719394:0;spicetify config
-: 1723719408:0;spicetify config-dir
-: 1723719551:0;wallbashcode.sh
-: 1723719562:0;wallbashtoggle.sh
-: 1723720315:0;yuck
-: 1723720472:0;yeet spotify-launcher
-: 1723720501:0;yay -Syu spotify
-: 1723720516:0;yuck
-: 1723720526:0;yay -Syu spotify
-: 1723720812:0;yuck
-: 1723720830:0;wallbashspotify.sh
-: 1723720837:0;spicetify config-dir
-: 1723720840:0;spicetify config
-: 1723720865:0;spicetify config-dir
-: 1723720909:0;vim wallbashspotify.sh
-: 1723720965:0;sudo chmod a+wr /opt/spotify\
-sudo chmod a+wr /opt/spotify/Apps -R
-: 1723720975:0;rl
-: 1723720976:0;ls
-: 1723720982:0;wallbashspotify.sh
-: 1723721023:0;rl
-: 1723721027:0;spicetify auto
-: 1723721063:0;spicetify restore backup
-: 1723721132:0;spicetify config
-: 1723721144:0;spicetify apply
-: 1723721158:0;spicetify update marketplace
-: 1723721196:0;sudo pacmn -Syu code
-: 1723721200:0;sudo pacmn -Syu code-oss
-: 1723721250:0;pacman -Syu code
-: 1723721252:0;sudo pacman -Syu code
-: 1723721338:0;wallbashcode.sh
-: 1723721344:0;rl
-: 1723721346:0;wallbashcode.sh
-: 1723721432:0;vim /usr/bin/code-oss
-: 1723721522:0;sudo vim /usr/bin/code-oss
-: 1723721648:0;yay -Syu code-bin
-: 1723721717:0;yay -Syu visual-studio-code-bin
-: 1723721740:0;loginn
-: 1723722882:0;code .vim_runtime/my_configs.vim
-: 1723723241:0;sudo pacman -Syu code
-: 1723723289:0;sudo vim /usr/bin/code-oss
-: 1723723339:0;code --enable-gpu
-: 1723723487:0;yuck
-: 1723723708:0;wallbashcode.sh
-: 1723724215:0;yuck
-: 1723724447:0;yay -Syu visual-studio-code-bin
-: 1723725430:0;yuck
-: 1723725440:0;yeet davinci-resolve
-: 1723725448:0;yuck
-: 1723725587:0;lf
-: 1723725719:0;mkdir yourProfile/chrome; vim userChrome.css
-: 1723725752:0;ls
-: 1723725778:0;mv userChrome.css ./yourProfile/chrome
-: 1723725780:0;;s
-: 1723725786:0;cd yourProfile/chrome
-: 1723725787:0;ls
-: 1723726086:0;cd ..
-: 1723726091:0;ls
-: 1723726100:0;vim chrome/userChrome.css
-: 1723726944:0;cd temp/
-: 1723726951:0;git clone gh repo clone RisedNote/Firefox-Newtab
-: 1723726963:0;gc https://github.com/RisedNote/Firefox-Newtab.git
-: 1723726972:0;vim .zshrc
-: 1723726980:0;vim ~/.zshrc
-: 1723727055:0;rl
-: 1723727059:0;gitc https://github.com/RisedNote/Firefox-Newtab.git
-: 1723727253:0;dolphin /usr/lib/firefox
-: 1723727345:0;sudo dolphin /usr/lib/firefox
-: 1723727400:0;cp config-prefs.js /usr/lib/firefox
-: 1723727403:0;sudo cp config-prefs.js /usr/lib/firefox
-: 1723727426:0;sudo cp firefoxScripts/config-prefs.js /usr/lib/firefox/browser/defaults/preferences/
-: 1723727446:0;sudo cp config-prefs.js /usr/lib/firefox/browser/defaults/preferences/
-: 1723727857:0;rm /usr/lib/firefox/config-prefs.js
-: 1723728163:0;q
-: 1723728217:0;which firefox
-: 1723728621:0;wallbash
-: 1723728764:0;which firefox
-: 1723728791:0;cp config-prefs.js /usr/lib/firefox
-: 1723728793:0;sudo cp config-prefs.js /usr/lib/firefox
-: 1723728880:0;rm /usr/lib/firefox/config-prefs.js
-: 1723729091:0;sudo rm /usr/lib/firefox/config-prefs.js
-: 1723729145:0;sudo rm /usr/lib/firefox/browser/defaults/preferences/config-prefs.js
-: 1723730908:0;/usr/lib/firefox
-: 1723730910:0;ls
-: 1723730936:0;~/.mozilla/firefox
-: 1723730937:0;ls
-: 1723731250:0;wallbashcode.sh
-: 1723731263:0;hyde upgrade
-: 1723731268:0;Hyde upgrade
-: 1723731279:0;Hyde update
-: 1723731311:0;Hypde upgrade
-: 1723731317:0;Hyde upgrade
-: 1723731379:0;sudo vim autoconfig.js
-: 1723731570:0;wallbashcode.sh
-: 1723731899:0;sudo vim firefox.cfg
-: 1723732533:0;lf
-: 1723732556:0;code .
-: 1723732987:0;lf
-: 1723733433:0;cd easy
-: 1723733439:0;node anagram.js
-: 1723734013:0;cd easy
-: 1723734019:0;node anagram.js
-: 1723741113:0;loginn
-: 1723741878:0;reboot
-: 1723742515:0;downgrade Hyprland
-: 1723742517:0;sudo downgrade Hyprland
-: 1723742539:0;sudo downgrade hyprland
-: 1723742692:0;yuvk
-: 1723742695:0;yuck
-: 1723742712:0;neofetch
-: 1723742716:0;clear;fastfetch
-: 1723742742:0;c;catnap
-: 1723742786:0;hyprctl clients
-: 1723742833:0;neofetch
-: 1723742944:0;lf
-: 1723743022:0;vim .vim_runtime/my_configs.vim
-: 1723743440:0;sudo code
-: 1723743451:0;sudo code 
-: 1723743465:0;sudo code --no-sandbox 
-: 1723743488:0;sudo code --no sandbox
-: 1723743497:0;sudo code --no-sandbox temp
-: 1723743502:0;sudo code --no-sandbox temp/index.js
-: 1723743517:0;sudo code .
-: 1723743544:0;sudo code --no-sandbox temp/index.js --user-data-dir
-: 1723743565:0;sudo code --no-sandbox --user-data-dir temp/index.js
-: 1723743577:0;sudo code --no-sandbox --user-data-dir temp/
-: 1723743597:0;sudo code ./temp
-: 1723743679:0;cd temp/
-: 1723743679:0;ls
-: 1723743888:0;wallbashcode.sh
-: 1723743920:0;vim ~/.local/share/bin/wallbashcode.sh
-: 1723743928:0;wallbashcode.sh
-: 1723743946:0;pacman -S jq
-: 1723743947:0;sudo pacman -S jq
-: 1723743961:0;downgrade jq
-: 1723743963:0;sudo downgrade jq
-: 1723743976:0;rl
-: 1723743979:0;wallbashcode.sh
-: 1723743984:0;sudo downgrade jq
-: 1723743999:0;rl
-: 1723744002:0;wallbashcode.sh
-: 1723744431:0;sudo wallbashcode.sh
-: 1723744470:0;sudo .local/share/bin/wallbashcode.sh
-: 1723744493:0;wallbashcode.sh
-: 1723744504:0;sudo pacman -S jq
-: 1723744508:0;jq
-: 1723744734:0;yay -Syu
-: 1723745981:0;q
-: 1723746587:0;wallbashcode.sh
-: 1723746678:0;code ./temp/Firefox-Newtab/firefoxScripts/newtab-aboutconfig.uc.js
-: 1723747349:0;sudo pacman -Syu
-: 1723747370:0;sudo pacman -S playerctl
-: 1723747478:0;code --install-extension foo
-: 1723747568:0;code /usr/local/bin/jerry
-: 1723747631:0;code /usr/lib/firefox/firefox.cfg
-: 1723747667:0;sudo code /usr/lib/firefox/firefox.cfg
-: 1723747692:0;sudo code /usr/lib/firefox/firefox.cfg --no-sandbox
-: 1723747758:0;sudo code /usr/lib/firefox/firefox.cfg --no-sandbox --disable-gpu-sandbox
-: 1723747774:0;sudo code /usr/lib/firefox/firefox.cfg --no-sandbox --user-data-dir .vscode
-: 1723747866:0;sudo code /usr/local/bin/jerry --no-sandbox --user-data-dir .vscode
-: 1723747981:0;which code
-: 1723748022:0;sudo chown -R $(whoami) /opt/visual-studio-code\
-
-: 1723749147:0;vim .zshrc\ 
-: 1723749149:0;vim .zshrc
-: 1723749159:0;vim .vim_runtime/my_configs.vim
-: 1723749170:0;vim ~/.vim_runtime/my_configs.vim
-: 1723749323:0;hq
-: 1723750097:0;q
-: 1723750126:0;l
-: 1723750129:0;lf
-: 1723750636:0;npm i bootstrap@5.3.3
-: 1723754078:0;npm run dev
-: 1723755624:0;vim Startpages/aesthetic-startpage/new-themes/minimal/index.html
-: 1723759137:0;loginn
-: 1723759798:0;sudo chown -R $(whoami) /opt/visual-studio-code\
-
-: 1723761017:0;vim Startpages/aesthetic-startpage/new-themes/aesthetic/index.html
-: 1723761160:0;prime-run ani-cli
-: 1723795754:0;neofetch
-: 1723795759:0;clear;fastfetch
-: 1723795770:0;c;catnap
-: 1723795793:0;vim .config/catnap/config.toml
-: 1723795822:0;c;catnap
-: 1723795862:0;loginn
-: 1723796623:0;shutdown now  
-: 1723799956:0;neofetch
-: 1723799975:0;clear;fastfetch
-: 1723799993:0;c;catnap
-: 1723802591:0;lf
-: 1723802633:0;nvim .
-: 1723803622:0;upower
-: 1723803629:0;upower -d
-: 1723803930:0;shutdown now  
-: 1723807542:0;neofetch
-: 1723807558:0;clear;fastfetch
-: 1723807564:0;c;catnap
-: 1723807566:0;clear;fastfetch
-: 1723807668:0;loginn
-: 1723809157:0;vim Startpages/aesthetic-startpage/new-themes/light-dark-blue/index.html
-: 1723809969:0;vim ~/.config/hypr/userprefs.conf
-: 1723810041:0;vim .zshrc
-: 1723810053:0;vim ~/.config/hypr/userprefs.conf
-: 1723812037:0;Projects/cms
-: 1723812042:0;gp 
-: 1723812085:0;vim ~/.zshrc
-: 1723812141:0;rl
-: 1723812143:0;gitp
-: 1723812237:0;docker volume create  postreges-data
-: 1723812244:0;docker compose up
-: 1723812385:0;ts-node "/home/kitsunekode/100x-Dev-Course/Solana/tutorialSolana/airdrop/index.ts"
-: 1723812399:0;which tsc
-: 1723812405:0;tsc
-: 1723812431:0;docker compose up
-: 1723812497:0;ts-node --compiler-options
-: 1723812516:0;yarn install
-: 1723812625:0;loginn
-: 1723812899:0;postgres-data
-: 1723812912:0;cd postgres-data/'
-: 1723812913:0;cd postgres-data/
-: 1723812916:0;sudo cd postgres-data/
-: 1723812934:0;cd -s postgres-data
-: 1723812948:0;changedirectory
-: 1723812961:0;cd postgres-data/
-: 1723813027:0;rm -r postgres-data 
-: 1723813029:0;sudo rm -r postgres-data 
-: 1723813036:0;gitp
-: 1723813068:0;docker create volume postreges-data
-: 1723813109:0;docker volume create postgres-data
-: 1723813116:0;docker compose up
-: 1723813903:0;npm run prisma:migrate
-: 1723813921:0;npm i
-: 1723813939:0;npm run prisma:migrate
-: 1723813970:0;npm run dec
-: 1723813973:0;npm run dev
-: 1723813990:0;npm run db:seed
-: 1723813997:0;npm i prisma
-: 1723814006:0;npm run db:seed
-: 1723814009:0;npm run prisma:migrate
-: 1723814082:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723814093:0;npm i
-: 1723814102:0;npm uninstall
-: 1723814112:0;npm uninstall all
-: 1723814118:0;npm i
-: 1723814133:0;docker ps
-: 1723814140:0;docker compose up
-: 1723814181:0;:Q
-: 1723814185:0;..
-: 1723814191:0;rm -r cms
-: 1723814198:0;sudo rm -r cms
-: 1723814233:0;gitc git@github.com:code100x/cms.git
-: 1723814255:0;cd cms
-: 1723814270:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723814277:0;rl
-: 1723814283:0;ls
-: 1723814302:0;ll
-: 1723814336:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723814345:0;docker ps
-: 1723814383:0;docker rm cms-db
-: 1723814389:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723814402:0;gitp
-: 1723814480:0;cp .env.example .env && touch DATABASE_URL=postgresql://myuser:mypassword@localhost:5432/mydatabase?schema=public
-: 1723814506:0;cp .env.example .env 
-: 1723814511:0;vim .env
-: 1723814540:0;cd..
-: 1723814542:0;cd ..
-: 1723814545:0;rm -r cms
-: 1723814550:0;sudo rm -r cms
-: 1723814556:0;gitc git@github.com:code100x/cms.git
-: 1723814573:0;cd cms
-: 1723814597:0;docker compose up
-: 1723814640:0;docker volume create postgres-data
-: 1723814643:0;docker compose up
-: 1723814648:0;rl
-: 1723814651:0;docker compose up
-: 1723814685:0;docker rm cms-db
-: 1723814719:0;cp .env.example .env 
-: 1723814725:0;npm install
-: 1723814991:0;docker compose up
-: 1723814998:0;cd ..
-: 1723815005:0;sudo rm -r cms
-: 1723815010:0;gitc git@github.com:code100x/cms.git
-: 1723815026:0;cd cms
-: 1723815105:0;cd Projects/cms
-: 1723815144:0;docker volume create postgres-data
-: 1723815151:0;docker compose up
-: 1723815161:0;npm i
-: 1723815266:0;sudo lsof -i :5432\
-
-: 1723815320:0;kill -9 58489
-: 1723815322:0;sudo kill -9 58489
-: 1723815335:0;sudo kill -9 58505
-: 1723815342:0;cd Projects/cms
-: 1723815357:0;docker compose up
-: 1723815372:0;sudo lsof -i :5432\
-
-: 1723815394:0;58489
-: 1723815412:0;sudo service postgresql stop
-: 1723815429:0;systemctl restart postgresql
-: 1723815480:0;docker stop 241620009a92fc5a19efefc5ce8bddcdc5fefc9c98111b67d8f3a08c12cf1342
-: 1723815506:0;docker create volume postreges-data
-: 1723815514:0;docker volume create postgres-data
-: 1723815538:0;docker compose up
-: 1723815556:0;docker stop 25cca4cf01841286dd8379842986a369f50163c2d547f077f58e651c73530456
-: 1723815569:0;docker stop db
-: 1723815572:0;docker compose up
-: 1723815575:0;docker stop db
-: 1723815577:0;sudo docker stop db
-: 1723815590:0;docker ps -q
-: 1723815609:0;docker stop 2776cfcbf639
-: 1723815616:0;docker compose up
-: 1723815640:0;npm i
-: 1723815706:0;docker compose up
-: 1723816173:0;npm run prisma:migrate
-: 1723816186:0;cp .env.example .env 
-: 1723816193:0;npm run prisma:migrate
-: 1723816314:0;kiall webcord
-: 1723816323:0;killall webcord
-: 1723816353:0;docker volume create postgres-data
-: 1723816389:0;npm run prisma:migrate
-: 1723816397:0;docker compose up
-: 1723816443:0;npm install --legacy-peer-deps
-: 1723816570:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723816581:0;docker rm cms-db
-: 1723816585:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723816594:0;vim .env
-: 1723816681:0;npm run prisma:migrate
-: 1723816689:0;npm run db:seed
-: 1723816698:0;npm run dev
-: 1723816788:0;sudo pacman -U ./Downloads/docker-desktop-x86_64.pkg.tar.zst
-: 1723816881:0;yuck
-: 1723816977:0;pacman -Sc
-: 1723816979:0;sudo pacman -Sc
-: 1723816999:0;rm ./Downloads/docker-desktop-x86_64.pkg.tar.zst
-: 1723818076:0;npm run dev
-: 1723818122:0;sudo unlink /home/kitsunekode/Projects/cms/.next/_events.json\
-
-: 1723818126:0;npm run dev
-: 1723818138:0;cd ..
-: 1723818143:0;rm -r cms
-: 1723818149:0;sudo rm -r cms
-: 1723818158:0;gitc 
-: 1723818162:0;gitc git@github.com:code100x/cms.git
-: 1723818598:0;lf
-: 1723818620:0;docker compose up
-: 1723818630:0;docker kill all
-: 1723818635:0;docker kill cms-db
-: 1723818641:0;docker ps -q
-: 1723818645:0;docker compose up
-: 1723818918:0;q
-: 1723818934:0;yarn install
-: 1723818946:0;cd Projects/cms
-: 1723818952:0;cp .env.example .env 
-: 1723818954:0;vim .env
-: 1723818993:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723819000:0;docker rm cms-db
-: 1723819002:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723819009:0;docker kill cms-db
-: 1723819013:0;docker ps -q
-: 1723819032:0;loginn
-: 1723821372:0;lf
-: 1723821397:0;code .
-: 1723823189:0;yarn install
-: 1723823526:0;sudo yarn install
-: 1723824006:0;husky install
-: 1723824148:0;lf
-: 1723824187:0;npm run prisma:migrate
-: 1723824209:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723824223:0;vim .env
-: 1723824240:0;npm run prisma:migrate
-: 1723824248:0;postgres-data
-: 1723824251:0;postgre
-: 1723824324:0;postgres
-: 1723824331:0;cd ..
-: 1723824334:0;rm -r cms
-: 1723824338:0;sudo rm -r cms
-: 1723824347:0;gitc git@github.com:code100x/cms.git
-: 1723824572:0;cd cms
-: 1723824576:0;docker ps -q
-: 1723824583:0;yarn install
-: 1723825349:0;docker compose watch
-: 1723825386:0;cd packages/db\
-chmod +x ./setupDB.sh\
-./setupDB.sh
-: 1723825416:0;rl
-: 1723825425:0;ll
-: 1723825430:0;packages
-: 1723825543:0;docker compose watc
-: 1723825559:0;docker ls
-: 1723825569:0;docker ls 
-: 1723825584:0;docker compose ls
-: 1723825600:0;docker compose kill app
-: 1723825605:0;docker compose kill db
-: 1723825615:0;docker compose watch
-: 1723825629:0;docker compose kill db
-: 1723825638:0;docker compose kill app
-: 1723825653:0;yarn install
-: 1723825684:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723825694:0;docker rm cms-db
-: 1723825701:0;docker compose ls
-: 1723825714:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723825791:0;docker ps -q
-: 1723825796:0;docker ps 
-: 1723825817:0;cp .env.example .env 
-: 1723825819:0;vim .env
-: 1723826078:0;yarn install
-: 1723826088:0;npm run prisma:migrate
-: 1723826102:0;npm run db:seed
-: 1723826112:0;npm run dev
-: 1723826610:0;vim docker-compose.yml
-: 1723826638:0;vim .env
-: 1723826662:0;ll
-: 1723826746:0;vim pnpm-lock.yaml
-: 1723826765:0;yarn install
-: 1723826785:0;rm - package-lock.json
-: 1723826795:0;rm  package-lock.json
-: 1723826805:0;yarn install
-: 1723826834:0;rm yarn.lock
-: 1723826899:0;rm -r node_modules
-: 1723826974:0;yarn install
-: 1723827239:0;yarn cache clean
-: 1723827254:0;ll
-: 1723827268:0;docker ps 
-: 1723827274:0;npm run dev
-: 1723827290:0;npm run prisma:migrate
-: 1723827300:0;npm run db:seed
-: 1723827338:0;docker compose ls
-: 1723827342:0;docker compose up
-: 1723827353:0;docker compose kill app db
-: 1723827363:0;docker compose kill db
-: 1723827366:0;docker compose kill app
-: 1723827390:0;rm -r docker-compose.yml
-: 1723827398:0;docker compose up
-: 1723827410:0;npm run dev
-: 1723827419:0;cd ..
-: 1723827424:0;rm -r cms
-: 1723827429:0;sudo rm -r cms
-: 1723827439:0;gitc git@github.com:code100x/cms.git
-: 1723827462:0;npm run dev
-: 1723827473:0;rm -r docker-compose.yml
-: 1723827483:0;cd cms
-: 1723827495:0;rm docker-compose.yml
-: 1723827508:0;docker compose up
-: 1723827517:0;yarn install
-: 1723827547:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723827568:0;docker compose kill app
-: 1723827581:0;docker ps
-: 1723827593:0;docker stop cms-db
-: 1723827606:0;docker rm cms-db
-: 1723827610:0;docker ps
-: 1723827619:0;docker run -d \\
-    --name cms-db \\
-    -e POSTGRES_USER=myuser \\
-    -e POSTGRES_PASSWORD=mypassword \\
-    -e POSTGRES_DB=mydatabase \\
-    -p 5432:5432 \\
-    postgres
-: 1723827626:0;cp .env.example .env 
-: 1723827642:0;yarn install
-: 1723827695:0;vim .env
-: 1723827753:0;npm i
-: 1723827810:0;ls
-: 1723827835:0;npm run prisma:migrate
-: 1723827843:0;npm run db:seed
-: 1723827850:0;npm run dev
-: 1723831574:0;solana config get
-: 1723831974:0;node  ./src/Wallets/ether.js
-: 1723831981:0;node  ./src/Wallets/trial.js
-: 1723832014:0;rm  ./src/Wallets/trial.js
-: 1723832584:0;loginn
-: 1723834903:0;neofetch
-: 1723834941:0;clear;fastfetch
-: 1723834947:0;c;catnap
-: 1723866421:0;loginn
-: 1723873165:0;npm uninstall crpto
-: 1723873171:0;npm uninstall crypto
-: 1723873218:0;npm uninstall crypto-browsify
-: 1723873406:0;loginn
-: 1723876021:0;npm install -D tailwindcss\
-npx tailwindcss init
-: 1723876047:0;npm install framer-motion\
-
-: 1723876198:0;npm create vite@latest
-: 1723876326:0;node "/home/kitsunekode/temp/trialReactjs/vite.config.js"
-: 1723876458:0;npm install framer-motion\
-
-: 1723876605:0;npm install
-: 1723876613:0;npm run dev
-: 1723876830:0;npm install -D tailwindcss\
-npx tailwindcss init
-: 1723877101:0;npx tailwindcss init
-: 1723877144:0;sudo npx tailwindcss init[200~@tailwind base;
-: 1723877144:0;@tailwind components;
-: 1723877153:0;npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
-: 1723877308:0;npx tailwindcss -i ./src/input.css
-: 1723877323:0;npx tailwindcss -i src/input.css
-: 1723877523:0;npm install -D tailwindcss postcss autoprefixer\
-npx tailwindcss init -p
-: 1723877848:0;npm run dev
-: 1723880363:0;npm i react-icons
-: 1723880386:0;npm run dev
-: 1723883085:0;npx magicui-cli add dot-pattern\
-
-: 1723883110:0;run init
-: 1723883115:0;npm run init
-: 1723883126:0;init
-: 1723883139:0;init --user
-: 1723883583:0;npm run dev
-: 1723889504:0;node "/home/kitsunekode/temp/trialReactjs/src/components/DotBackGround.jsx"
-: 1723889536:0;npm i framer-motion clsx tailwind-merge mini-svg-data-uri\
-
-: 1723891474:0;loginn
-: 1723900953:0;npm install -D tailwindcss postcss autoprefixer\
-npx tailwindcss init -p
-: 1723901082:0;npm run dev
-: 1723908541:0;loginn
-: 1723910472:0;npm run dev
-: 1723914346:0;npm run dev'
-: 1723914349:0;npm run dev'\
-'
-: 1723914356:0;npm run dev\
-'
-: 1723914365:0;npm run dev
-: 1723919777:0;lodinn
-: 1723919789:0;loginn
-: 1723926373:0;npm run dev
-: 1723929632:0;npm i framer-motion clsx tailwind-merge\
-
-: 1723937317:0;dolphin .
-: 1723938448:0;loginn
-: 1723965404:0;node ./src/components/scripts/ether.js
-: 1723966067:0;loginn
-: 1723966139:0;node ./src/components/scripts/ether.js
-: 1723966731:0;npm run dev
-: 1723969258:0;c;catnap
-: 1723969338:0;yuck
-: 1723969347:0;yarn cache clean
-: 1723969356:0;npm clean cache
-: 1723969365:0;npm cache clean -f
-: 1723969523:0;neofetch
-: 1723969529:0;clear;fastfetch
-: 1723969540:0;c;catnap
-: 1723969928:0;loginn
-: 1723970387:0;pacman -Syu kdeconnect
-: 1723970389:0;sudo pacman -Syu kdeconnect
-: 1723971112:0;npm run dev
-: 1723988186:0;loginn
-: 1723992251:0;npm run dev
-: 1723992459:0;ga *
-: 1723992476:0;gc "-Fixed the fuckin UI"
-: 1723992478:0;gp
-: 1723992660:0;gc "-Fixed the Readme"
-: 1723992673:0;ga *
-: 1723992675:0;gc "-Fixed the Readme"
-: 1723992679:0;gp
-: 1723992697:0;git push -u archprivate master
-: 1724002416:0;ga *
-: 1724002437:0;gc "-Fixed the sticky cross in the Modal"
-: 1724002442:0;gp
-: 1724002956:0;npm run dev
-: 1724003080:0;git status
-: 1724003091:0;ga *
-: 1724003124:0;gc "-Fixed tailwind.config.js"
-: 1724003127:0;gp
-: 1724003133:0;vim .zshrc
-: 1724003140:0;gs
-: 1724007068:0;ga *
-: 1724007077:0;gc "-Fixed modal"
-: 1724007079:0;gp
-: 1724007204:0;loginn
-: 1724007698:0;ping google.com
-: 1724009018:0;npm run dev
-: 1724009922:0;ga *
-: 1724009927:0;gc "-Fixed modal"
-: 1724009929:0;gp
-: 1724009966:0;npm run dev
-: 1724012193:0;ga *
-: 1724012214:0;gc "Added image"
-: 1724012220:0;gp
-: 1724012295:0;ga *
-: 1724012298:0;gc "Added image"
-: 1724012301:0;gp
-: 1724012419:0;ga *
-: 1724012426:0;gc "Reverted"
-: 1724012430:0;gp
-: 1724012559:0;ga .
-: 1724012577:0;gc "Fixed logo issue"
-: 1724012580:0;gp
-: 1724012589:0;gs
-: 1724012602:0;ga
-: 1724012605:0;gs
-: 1724012763:0;npm run dev
-: 1724012991:0;ga .
-: 1724012995:0;gc "Fixed logo issue"
-: 1724013000:0;gs
-: 1724013008:0;git status
-: 1724013012:0;ga .
-: 1724013016:0;gc "Fixed logo issue"
-: 1724013277:0;cd src
-: 1724013445:0;npm run dev
-: 1724013572:0;ga .
-: 1724013575:0;gc "Fixed logo issue"
-: 1724013581:0;gs
-: 1724013584:0;gp
-: 1724014833:0;npm run dev
-: 1724014888:0;ga .
-: 1724014891:0;gc "Fixed logo issue"
-: 1724014897:0;gp
-: 1724014906:0;vercel --prod
-: 1724014925:0;cd ..
-: 1724014937:0;git status
-: 1724014947:0;vercel --prod
-: 1724015317:0;npm i -g vercel@latest
-: 1724015579:0;sudo npm i -g vercel@latest
-: 1724015584:0;loginn
-: 1724015658:0;vercel --prod
-: 1724016383:0;ga .
-: 1724016395:0;gc "Fixed logo issue on Vercel"
-: 1724016399:0;gp
-: 1724017211:0;npm run dev
-: 1724018086:0;node ./src/components/scripts/balance.js
-: 1724020141:0;loginn
-: 1724042267:0;sudo loginnOA
-: 1724042275:0;loginn
-: 1724042874:0;curl https://docs-demo.quiknode.pro/ \\
-  -X POST \\
-  -H "Content-Type: application/json" \\
-  --data '{"method":"eth_getBalance","params":["0x8D97689C9818892B700e27F316cc3E41e17fBeb9", "latest"],"id":1,"jsonrpc":"2.0"}'\
-
-: 1724044388:0;node ./src/components/scripts/balance.js
-: 1724045055:0;npm i ethers
-: 1724045121:0;node ./src/components/scripts/ether.js
-: 1724046197:0;xdg-settings set default-web-browser google-chrome.desktop
-: 1724046721:0;node ./src/components/scripts/ether.js
-: 1724048539:0;node ./src/components/scripts/balance.js
-: 1724049234:0;sudo curl https://docs-demo.quiknode.pro/ \\
-  -X POST \\
-  -H "Content-Type: application/json" \\
-  --data '{"method":"eth_getBalance","params":["0xD5aD81047Be13D6040392305b97512F43E0810E8", "latest"],"id":1,"jsonrpc":"2.0"}'\
-
-: 1724049245:0;curl https://docs-demo.quiknode.pro/ \\
-  -X POST \\
-  -H "Content-Type: application/json" \\
-  --data '{"method":"eth_getBalance","params":["0xD5aD81047Be13D6040392305b97512F43E0810E8", "latest"],"id":1,"jsonrpc":"2.0"}'\
-
-: 1724049288:0;curl https://eth-sepolia.g.alchemy.com/v2/7ZqHHHCbJtNgLU6XWFl4mUjLbwkyPenB \\
-  -X POST \\
-  -H "Content-Type: application/json" \\
-  --data '{"method":"eth_getBalance","params":["0xD5aD81047Be13D6040392305b97512F43E0810E8", "latest"],"id":1,"jsonrpc":"2.0"}'\
-
-: 1724049341:0;curl https://docs-demo.quiknode.pro/ \\
-  -X POST \\
-  -H "Content-Type: application/json" \\
-  --data '{"method":"eth_getBalance","params":["0x8D97689C9818892B700e27F316cc3E41e17fBeb9", "latest"],"id":1,"jsonrpc":"2.0"}'\
-
-: 1724049393:0;node ./src/components/scripts/balance.js
-: 1724052388:0;curl https://docs-demo.quiknode.pro/ \\
-  --header 'Content-Type: application/json' \\
-  --data '{\
-      "method": "eth_getAccount",\
-      "params":["0x8D97689C9818892B700e27F316cc3E41e17fBeb9", "latest"],\
-      "id": 1,\
-      "jsonrpc": "2.0"\
-}'
-: 1724052471:0;curl https://docs-demo.quiknode.pro/ \\
-  -X POST \\
-  -H "Content-Type: application/json" \\
-  --data '{"method":"eth_accounts","id":1,"jsonrpc":"2.0"}'
-: 1724059120:0;neofetch
-: 1724059137:0;clear;fastfetch
-: 1724059151:0;c;catnap
-: 1724061580:0;npm i @solana-developer/helpers
-: 1724061600:0;npm i @solana-developers/helpers
-: 1724063253:0;npm uninstall @solana-developers/helpers
-: 1724075571:0;neofetch
-: 1724075602:0;clear;fastfetch
-: 1724075618:0;sudo neofetchOA
-: 1724075624:0;neofetch
-: 1724075636:0;c;catnap
-: 1724075760:0;vim Startpages/aesthetic-startpage/main-themes/white/index.html
-: 1724075790:0;loginn
-: 1724076815:0;npm install bs58
-: 1724076909:0;node ./src/components/scripts/balance.js
-: 1724076926:0;node ./src/components/scripts/sendSol.js
-: 1724084444:0;node ./src/components/scripts/balance.js
-: 1724085037:0;node ./src/components/scripts/sendSol.js
-: 1724085539:0;node ./src/components/scripts/balance.js
-: 1724086712:0;loginn
-: 1724087640:0;node ./src/components/scripts/balance.js
-: 1724087930:0;node ./src/components/scripts/sendEth.js
-: 1724088037:0;node ./src/components/scripts/balance.js
-: 1724088095:0;node ./src/components/scripts/sendEth.js
-: 1724088320:0;npm run dev
-: 1724089585:0;loginn
-: 1724091407:0;npm run dev
-: 1724096581:0;loginn
-: 1724100639:0;prime-run ani-cli
-: 1724142190:0;neofetch
-: 1724142202:0;clear;fastfetch
-: 1724142215:0;c;catnap
-: 1724142364:0;npm run dev
-: 1724149844:0;ping google.com 
-: 1724149854:0;loginn
-: 1724149864:0;neofetch
-: 1724149869:0;clear;fastfetch
-: 1724149876:0;c;catnap
-: 1724156180:0;zoom
-: 1724156243:0;prime-run flatpak run com.obsproject.Studio
-: 1724156363:0;sdpfjokshdfojasdvbnoj dkjfkojskldfj as
-: 1724156378:0;vim .zshrc
-: 1724156425:0;prime-run google-chrome-stable
-: 1724156631:0;prime-run google-chrome-stable --disable-gpu-sandbox
-: 1724156760:0;vainfo
-: 1724156763:0;sudo vainfo
-: 1724156825:0;vdauinfo
-: 1724156854:0;mesa
-: 1724156864:0;$ pacman -Qq | rg -i mesa  \
-mesa\
-mesa-utils\
-$ pacman -Qq | rg -i vdpau\
-libvdpau\
-vdpauinfo
-: 1724157220:0;builtin cd -- /home/kitsunekode/.config
-: 1724157383:0;~
-: 1724157401:0;sudo pacman -Syu vpdauinfo
-: 1724157466:0;vim .zshrc
-: 1724157510:0;chrome
-: 1724157537:0;prime-run chrome
-: 1724157660:0;google-chrome-stable --in-process-gpu
-: 1724157713:0;prime-run spicetify auto
-: 1724157733:0;prime-run spotify
-: 1724157751:0;prime-run spicetify auto
-: 1724157786:0;prime-run spotify
-: 1724157841:0;prime-run spotify --disable-gpu-sandbox
-: 1724157922:0;google-chrome-stable --enable-features=UseOzonePlatform\
---ozone-platform=wayland\
-    --enable-gpu-rasterization\
-\
-    --ignore-gpu-blacklist\
-\
-    --disable-gpu-driver-workarounds\
-\
-
-: 1724157984:0;google-chrome-stable --enable-features=UseOzonePlatform\
---ozone-platform=wayland\
-    --nod-sandbox
-: 1724158071:0;/opt/google/chrome/google-chrome --force-dark-mode --enable-features=WebUIDarkMode --flag-switches-begin --ignore-gpu-blocklist --ozone-platform-hint=auto --disable-smooth-scrolling --enable-features=WebUIDarkMode,OverlayScrollbar --flag-switches-end --ozone-platform=wayland
-: 1724158331:0;nfox
-: 1724158344:0;obs
-: 1724158430:0;zoom
-: 1724158630:0;vim .config/hypr/userprefs.conf
-: 1724158814:0;obs
-: 1724161245:0;npx v0 add bpoyCKfVOxk
-: 1724161792:0;loginn
-: 1724168376:0;npm run dev
-: 1724173000:0;loginn
-: 1724174351:0;cd ..
-: 1724174373:0;mkdir Web2auth
-: 1724174383:0;rm Web2auth
-: 1724174399:0;mv  Web2auth ./Web3auth
-: 1724174406:0;ll
-: 1724174412:0;cd Web3auth
-: 1724174415:0;npx degit Web3Auth/web3auth-pnp-examples/web-modal-sdk/quick-starts/react-modal-quick-start w3a-example
-: 1724174696:0;cd w3a-example
-: 1724174699:0;npm i
-: 1724174723:0;npm run dev
-: 1724174850:0;..
-: 1724174864:0;cd Web3auth
-: 1724174871:0;rm -r w3a-example
-: 1724174874:0;npx degit Web3Auth/web3auth-pnp-examples/web-modal-sdk/react-modal-playground w3a-example
-: 1724174915:0;cd w3a-example
-: 1724174918:0;npm i
-: 1724174939:0;npm run dev
-: 1724174951:0;code .
-: 1724175011:0;q
-: 1724175021:0;npm run build
-: 1724175080:0;rm -r dist
-: 1724175094:0;npm run star
-: 1724175096:0;npm run start
-: 1724179961:0;loginn
-: 1724180051:0;cd ..
-: 1724180058:0;rm -r w3a-example
-: 1724180062:0;npx v0 add y7E04bV0kWN
-: 1724180095:0;npx v0@latest init
-: 1724180178:0;npx create-next-app
-: 1724185150:0;/home/kitsunekode/Pictures/Screenshots/240821_01h26m40s_screenshot.png
-: 1724185160:0;clapper /home/kitsunekode/Pictures/Screenshots/240821_01h26m40s_screenshot.png
-: 1724185177:0;cd /home/kitsunekode/Pictures/Screenshots/240821_01h26m40s_screenshot.png
-: 1724185183:0;cd /home/kitsunekode/Pictures/Screenshots/
-: 1724185184:0;lf
-: 1724187368:0;loginn
-: 1724189797:0;aw
-: 1724189810:0;ac
-: 1724189820:0;pac
-: 1724189871:0;vim .zshrc
-: 1724190029:0;rl
-: 1724190033:0;aw
-: 1724191308:0;vim .config/hypr/userprefs.conf
-: 1724191543:0;yuck
-: 1724191560:0;yarn cache clean
-: 1724191571:0;npm cache clean -f
-: 1724191641:0;flatpak uninstall com.brave.Browser
-: 1724191687:0;flatpak cache
-: 1724191697:0;flatpak --help
-: 1724226046:0;neofetch
-: 1724226058:0;clear;fastfetch
-: 1724226068:0;c;catnap
-: 1724226116:0;loginn
-: 1724254676:0;neofetch
-: 1724254684:0;clear;fastfetch
-: 1724254707:0;c;catnap
-: 1724254890:0;aw
-: 1724260729:0;loginn
-: 1724260730:0;aw
-: 1724262001:0;npm run dec
-: 1724262006:0;npm run dev
-: 1724262395:0;npm i @vercel/speed-insights
-: 1724262614:0;sudo npm i -g pnpm
-: 1724262629:0;gs
-: 1724262641:0;ga 
-: 1724262646:0;ga .
-: 1724262648:0;gs
-: 1724262867:0;gs .
-: 1724262877:0;gs
-: 1724262884:0;ga .
-: 1724262886:0;gs
-: 1724262939:0;gc "Fixed some componensta nd added the send and receive currency script"
-: 1724262943:0;gp
-: 1724263288:0;git diff
-: 1724266276:0;npm create vite@latest
-: 1724266298:0;cd SakuraWallet
-: 1724266302:0;npm i 
-: 1724266403:0;code .
-: 1724266564:0;npm install -D tailwindcss postcss autoprefixer\
-npx tailwindcss init -p
-: 1724266798:0;npm i
-: 1724267279:0;npm i framer-motion
-: 1724267290:0;npm i lucide-react
-: 1724267379:0;npm run dev
-: 1724270396:0;loginn
-: 1724273491:0;npm i rect-router-dom
-: 1724273503:0;npm i react-router-dom
-: 1724274461:0;nfox
-: 1724275325:0;loginn
-: 1724302858:0;neofetch
-: 1724302868:0;clear;fastfetch
-: 1724302874:0;c;catnap
-: 1724304786:0;npm run deb
-: 1724304788:0;npm run dev
-: 1724305043:0;npx shadcn-ui@latest add button\
-
-: 1724314134:0;neofetch
-: 1724314149:0;clear;fastfetch
-: 1724314157:0;c;catnap
-: 1724314877:0;npm i -D @types/node
-: 1724314907:0;npx shadcn-ui@latest init\
-
-: 1724319059:0;npx shadcn-ui@latest add button input dialog select\
-
-: 1724319085:0;loginn
-: 1724319093:0;npx shadcn-ui@latest add button input dialog select\
-
-: 1724319197:0;npm run dev
-: 1724319222:0;npm i
-: 1724319230:0;npm run dev
-: 1724319259:0;npm run build
-: 1724319290:0;npm run dev
-: 1724321976:0;neofetch
-: 1724321980:0;clear;fastfetch
-: 1724321988:0;c;catnap
-: 1724322419:0;npx add alert-dialog\
-
-: 1724322446:0;npx shadcn-ui@latest add alert-dialog\
-
-: 1724322476:0;npm run dev
-: 1724331735:0;loginn
-: 1724332880:0;npm run dev
-: 1724332937:0;ga src/components/scripts/ether.js
-: 1724332938:0;gs
-: 1724332967:0;gc "removed console.log"
-: 1724332971:0;gp
-: 1724338987:0;code .
-: 1724339061:0;npm run dev
-: 1724346504:0;npm install qrcode.react
-: 1724349908:0;loginn
-: 1724352741:0;npx shadcn-ui@latest add badge\
-
-: 1724352785:0;npx shadcn-ui@latest add tabs\
-
-: 1724353011:0;npx shadcn-ui@latest add card\
-
-: 1724363784:0;npx shadcn-ui@latest add toast add label
-: 1724366722:0;loginn
-: 1724406809:0;neofetch
-: 1724406813:0;clear;fastfetch
-: 1724407617:0;npx shadcn-ui@latest add toast 
-: 1724408084:0;npm run dev
-: 1724408469:0;npx shadcn-ui@latest add sonner
-: 1724413881:0;loginn
-: 1724415822:0;npx shadcn-ui@latest remove sonner toast
-: 1724416980:0;npx shadcn-ui@latest add toast
-: 1724417915:0;npx shadcn-ui@latest uninstall toast
-: 1724428111:0;npm i @vercel/analytics
-: 1724428176:0;gs .
-: 1724428214:0;gc "Analytics added"
-: 1724428218:0;gp
-: 1724428235:0;ga .
-: 1724428240:0;gc "Analytics added"
-: 1724428242:0;gp
-: 1724430244:0;loginn
-: 1724430874:0;npm run dev
-: 1724433966:0;npx shadcn-ui@latest add dropdown-menu
-: 1724436727:0;loginn
-: 1724436945:0;npx v0 add AKAsD9UjTMF
-: 1724464478:0;loginn
-: 1724465602:0;aw
-: 1724465632:0;ping google.com 
-: 1724465650:0;aw
-: 1724465676:0;ani-cli
-: 1724465896:0;loginn
-: 1724465900:0;aw
-: 1724465945:0;ani-cli
-: 1724466071:0;sudo ani-cli -U
-: 1724466086:0;ani-cli
-: 1724466113:0;rl
-: 1724466116:0;ani-cli
-: 1724467129:0;aw
-: 1724467154:0;ani-cli  -U
-: 1724467167:0;ani-cli -h
-: 1724467176:0;ani-cli -c
-: 1724467216:0;ani-cli -N
-: 1724467326:0;ani-cli
-: 1724467409:0;ani-cli -e "19" blue lock
-: 1724467431:0;ani-cli --vlc cyberpunk edgerunners -q 1080p -e 4
-: 1724467446:0;yuck
-: 1724467970:0;neofetch
-: 1724467977:0;clear;fastfetch
-: 1724467987:0;c;catnap
-: 1724467991:0;clear;fastfetch
-: 1724468107:0;aw
-: 1724468155:0;ani-cli cyberpunk edgerunners
-: 1724468272:0;ani-cli
-: 1724468359:0;yay -Syu ani-cli
-: 1724468402:0;rl
-: 1724468405:0;ani-cli
-: 1724468751:0;which ani-cli
-: 1724468776:0;vim $which ani-cli
-: 1724468803:0;vim /usr/bin/ani-cli
-: 1724468965:0;ani-cli
-: 1724469077:0;yeet ani-cli
-: 1724469088:0;yuck
-: 1724469096:0;ani-cli
-: 1724469113:0;git clone "https://github.com/pystardust/ani-cli.git"\
-sudo cp ani-cli/ani-cli /usr/local/bin\
-rm -rf ani-cli
-: 1724469134:0;ani-cli
-: 1724469257:0;ani-cli -u
-: 1724469262:0;ani-cli -U
-: 1724469273:0;ani-cli
-: 1724469286:0;ani-cli -h
-: 1724469317:0;ani-cli -d
-: 1724469354:0;sudo pacman -Syu aria2c\
-
-: 1724469521:0;ani-cli -d
-: 1724469616:0;sudo rm "/usr/local/bin/ani-cli"
-: 1724469650:0;yay -S ani-cli
-: 1724469670:0;yay -S anicli
-: 1724469697:0;yay -S ani-cli
-: 1724469729:0;vlc
-: 1724469739:0;ani-cli -d
-: 1724469773:0;sudo ani-cli -U
-: 1724469779:0;sudo ani-cli 
-: 1724470210:0;ani-cli -v
-: 1724470221:0;ani-cli -V
-: 1724470249:0;ani-cli Ooshi
-: 1724470257:0;ani-cli Oshi
-: 1724470511:0;neofetch
-: 1724470579:0;sudo ani-cli -U
-: 1724470601:0;ani-cli -V
-: 1724470630:0;ani-cli Oshi
-: 1724470646:0;ani-cli One Piece
-: 1724470652:0;ani-cli
-: 1724470769:0;ani-cli -d One
-: 1724470972:0;ani-cli --vlc cyberpunk edgerunners -q 1080p -e 4
-: 1724470989:0;which ani-cli
-: 1724470997:0;ani-cli --rofi
-: 1724471174:0;cd Downloads
-: 1724471179:0;./ani-cli
-: 1724471188:0;chmod +X ./ani-cli
-: 1724471191:0;./ani-cli
-: 1724471210:0;chmod +x ./ani-cli
-: 1724471212:0;./ani-cli
-: 1724471235:0;rm ./ani-cli
-: 1724477104:0;ani-cli
-: 1724478623:0;sudo pacman -Syu firefox-developer-edition
-: 1724478914:0;sudo pacman -Rns firefox-developer-edition
-: 1724478919:0;yuck
-: 1724478995:0;flatpak uninstall io.github.tdesktop_x64.TDesktop
-: 1724481035:0;ani-cli
-: 1724481253:0;curl https://allmanga.to/bangumi/KB5XDvwPdtLFEkoQZ/tensei-shitara-slime-datta-ken-season-3/p-19-sub
-: 1724481264:0;ani-cli
-: 1724482086:0;vim /usr/bin/ani-cli
-: 1724482137:0;code /usr/bin/ani-cli
-: 1724490137:0;ls
-: 1724490141:0;neofetch
-: 1724490192:0;clear;fastfetch
-: 1724490201:0;c;catnap
-: 1724490282:0;ani-cli
-: 1724490303:0;rl
-: 1724490326:0;c;rl
-: 1724490630:0;vim /usr/bin/ani-cli
-: 1724490780:0;ani-cli
-: 1724490795:0;ani-cli --history
-: 1724490800:0;ani-cli --help
-: 1724490823:0;ani-cli -2
-: 1724490833:0;ani-cli -S
-: 1724490835:0;ani-cli -S 2
-: 1724490860:0;ani-cli -c
-: 1724491016:0;.local/state/ani-cli/
-: 1724491017:0;ls
-: 1724491021:0;vim ani-hsts
-: 1724491948:0;loginn
-: 1724495528:0;yarn dev
-: 1724507021:0;loginn
-: 1724509138:0;npx shadcn-ui@latest add alert\
-
-: 1724510077:0;loginn
-: 1724510388:0;ani-cli
-: 1724510403:0;ani-cli flcl
-: 1724514517:0;loginn
-: 1724514630:0;cd 100x-Dev-Course/COHORT3/Web-Dev\&Devops/
-: 1724514648:0;mkdir Week-3
-: 1724514659:0;cd Week-3
-: 1724514660:0;ls
-: 1724514717:0;cd 100x-Dev-Course/COHORT3/Web-Dev\&Devops/
-: 1724514722:0;cd Week-3
-: 1724514744:0;mkdir ClassAssignment
-: 1724514747:0;cd ClassAssignment
-: 1724514751:0;npm init -y\
-npx tsc --init
-: 1724514760:0;ls
-: 1724514767:0;rm package.json tsconfig.json
-: 1724514774:0;npm init -y
-: 1724514782:0;ls
-: 1724514800:0;code index.js
-: 1724514832:0;code .
-: 1724514973:0;npm i commander
-: 1724515047:0;node index.js
-: 1724515074:0;node index.js -h
-: 1724515088:0;node index.js abc.txt
-: 1724515295:0;node index.js
-: 1724515325:0;node index.js ./abc.txt
-: 1724515378:0;node index.js $pwd/abc.txt
-: 1724515405:0;node index.js count abc.txt
-: 1724516003:0;node index.js abc.txt
-: 1724516009:0;node index.js ./abc.txt
-: 1724516721:0;pnpm
-: 1724521458:0;ani-cli flcl
-: 1724521466:0;ani-cli One Piece
-: 1724521469:0;ani-cli
-: 1724521528:0;ani-cli -U
-: 1724521532:0;sudo ani-cli -U
-: 1724521539:0;ani-cli 
-: 1724521587:0;vim .zshrc
-: 1724521607:0;rl
-: 1724521610:0;aw
-: 1724521613:0;ani-cli 
-: 1724521616:0;ani-cli
-: 1724521768:0;ani-cli one piece
-: 1724524232:0;vim /usr/bin/ani-cli
-: 1724524899:0;loginn
-: 1724525198:0;sh -x $(which ani-cli) serial lain -e 5
-: 1724525382:0;curl -e https://allanime.to -s -G https://api.allanime.day/api --data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' --data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' -A 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
-: 1724525599:0;sh -x $(which ani-cli) serial lain -e 5
-: 1724525688:0;ani-cli one piece
-: 1724525693:0;curl -e https://allanime.to -s -G https://api.allanime.day/api --data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' --data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' -A 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
-: 1724525729:0;curl -e https://allanime.to -s -G https://api.allanime.day/api --data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' --data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' -A '5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
-: 1724525869:0;ani-cli one piece
-: 1724526069:0;curl -e https://allanime.to -s -G https://api.allanime.day/api --data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' --data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' -A '5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
-: 1724526071:0;ani-cli one piece
-: 1724526132:0;downgrade firefox
-: 1724526155:0;sudo downgrade firefox
-: 1724526706:0;yuck
-: 1724526787:0;sudo pacman -Syu
-: 1724526997:0;killall firefox
-: 1724527943:0;vim /usr/bin/ani-cli
-: 1724528021:0;curl -e https://allanime.to -s -G https://api.allanime.day/api --data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' --data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' -A '5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
-: 1724528055:0;curl -e https://allanime.to -s -G https://api.allanime.day/api --data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' --data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' -A '5.0 537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
-: 1724528072:0;sudo -e /usr/bin/ani-cli
-: 1724528130:0;ani-cli one piece
-: 1724528135:0;vim /usr/bin/ani-cli
-: 1724528155:0;sudo vim /usr/bin/ani-cli
-: 1724528209:0;sudo ani-cli -U
-: 1724528217:0;rl
-: 1724528219:0;ani-cli one piece
-: 1724528231:0;curl -e https://allanime.to -s -G https://api.allanime.day/api --data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' --data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' -A '5.0 537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
-: 1724528247:0;sh -x $(which ani-cli) serial lain -e 5
-: 1724528518:0;yuck
-: 1724528596:0;pip install animdl
-: 1724528632:0;sudo pacman -S python-animdl
-: 1724528668:0;sudo pacman -S python-pip
-: 1724528686:0;pip install animdl
-: 1724528688:0;sudo pip install animdl
-: 1724528715:0;pipx 
-: 1724528740:0;pip3 install animdl 
-: 1724528757:0;sudo pacman -S python-pipx
-: 1724528774:0;pipx install animdl
-: 1724528794:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36'\
-
-: 1724528959:0;google-chrome-stable --version
-: 1724528979:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36'\
-
-: 1724528995:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)Google Chrome/92.0.4515.107 Safari/537.36'\
-
-: 1724528999:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36'\
-
-: 1724529020:0;sudo vim /usr/bin/ani-cli
-: 1724529162:0;rl
-: 1724529165:0;ani-cli one piece
-: 1724529192:0;sudo pacman -S python-pipx
-: 1724529626:0;prime-run google-chrome-stable --disable-gpu-sandbox
-: 1724529666:0;nfox
-: 1724529719:0;firefox --version
-: 1724529722:0;firefox
-: 1724529758:0;google-chrome-stable --version
-: 1724529762:0;vim /usr/bin/ani-cli
-: 1724529772:0;ani-cli one piece
-: 1724529779:0;vim /usr/bin/ani-cli
-: 1724529903:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Google Chrome/128.0.6613.14 Safari/537.36'\
-
-: 1724529918:0;sh -x $(which ani-cli) serial lain -e 5
-: 1724529923:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Google Chrome/128.0.6613.14 Safari/537.36'\
-
-: 1724529941:0;loginn
-: 1724529944:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36'\
-
-: 1724530229:0;sudo pacman -Syu firefox
-: 1724531000:0;loginn
-: 1724531287:0;mkdir ClassAssignment
-: 1724531322:0;rm ClassAssignment
-: 1724531330:0;rm -r ClassAssignment
-: 1724531335:0;neofetch
-: 1724559246:0;ani-cli one piece
-: 1724559257:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36'\
-
-: 1724559266:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Google Chrome/128.0.6613.14 Safari/537.36'\
-
-: 1724559289:0;hq curl
-: 1724559326:0;vim  .zshrc
-: 1724559636:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'\
-\
-
-: 1724559697:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":true,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'\
-\
-
-: 1724559844:0;pacman -Syu vpn
-: 1724559849:0;sudo pacman -Syu vpn
-: 1724560039:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}'\
-\
-
-: 1724560161:0;sudo pacman -Syu OpenVpn
-: 1724560249:0;sudo rm -r /var/lib/pacman/sync\
-
-: 1724560252:0;sudo pacman -Syu OpenVpn
-: 1724560274:0;sudo pacman -Syu OpenVPN
-: 1724560361:0;sudo pacman -Syu networkmanager-openvpn
-: 1724560418:0;prompt_nordvpn
-: 1724560450:0;sudo pacman -Syu 
-: 1724560993:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":true,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'\
-\
-
-: 1724561013:0;curl -e https://allanime.to -s -G https://api.allanime.day/api \\
---data-urlencode 'variables={"search":{"allowAdult":false,"allowUnknown":false,"query":"serial+lain"},"limit":40,"page":1,"translationType":"sub","countryOrigin":"ALL"}' \\
---data-urlencode 'query=query(        $search: SearchInput        $limit: Int        $page: Int        $translationType: VaildTranslationTypeEnumType        $countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: $search        limit: $limit        page: $page        translationType: $translationType        countryOrigin: $countryOrigin    ) {        edges {            _id name availableEpisodes __typename       }    }}' \\
--A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36'\
-
-: 1724562831:0;neofetch
-: 1724562841:0;clear;fastfetch
-: 1724563331:0;c;catnap
-: 1724565055:0;ani-cli one piece
-: 1724576447:0;loginn
-: 1724579054:0;nvtop
-: 1724583360:0;nfox
-: 1724583518:0;sudo pacman -Syu firefox-developer-edition
-: 1724584271:0;nfox
-: 1724584301:0;prime-run firefox-developer-edition
-: 1724584355:0;firefox
-: 1724584402:0;sudo pacman -Rns firefox
-: 1724584409:0;firefox
-: 1724584415:0;rl
-: 1724584426:0;sudo pacman -Syu firefox
-: 1724584431:0;rl
-: 1724584445:0;prime-run firefox-developer-edition
-: 1724584501:0;alias nfoxd="prime-run firefox-developer-edition"
-: 1724584505:0;rl
-: 1724584509:0;nfoxd
-: 1724584518:0;vim  .zshrc
-: 1724584577:0;rl
-: 1724584580:0;alias 
-: 1724584752:0;vim .config/hypr/userprefs.conf
-: 1724584930:0;rl
-: 1724584938:0;hyprctl clients
-: 1724584959:0;vim .config/hypr/userprefs.conf
-: 1724585193:0;nfoxd
-: 1724585224:0;nfox
-: 1724585640:0;prime-run google-chrome-stable --disable-gpu-sandbox
-: 1724588849:0;nfox
-: 1724588853:0;nfoxd
-: 1724589614:0;which firefox-developer-edition
-: 1724589651:0;/usr/lib/firefox-developer-edition
-: 1724589652:0;ls
-: 1724589655:0;ll
-: 1724590070:0;.,
-: 1724590099:0;cd temp/Firefox-Newtab
-: 1724590149:0;sudo cp firefoxScripts/config.js /usr/lib/firefox-developer-edition/
-: 1724590234:0;sudo cp firefoxScripts/newtab-aboutconfig.uc.js /usr/lib/firefox-developer-edition/
-: 1724590304:0;sudo rm /usr/lib/firefox-developer-edition/newtab-aboutconfig.uc.js
-: 1724590480:0;gp
-: 1724590492:0;gitp
-: 1724590639:0;sudo cp firefoxScripts/config.js /usr/lib/firefox-developer-edition/
-: 1724590733:0;sudo cp firefoxScripts/config-prefs.js /usr/lib/firefox-developer-edition/browser/defaults/preferences/
-: 1724590815:0;nfoxd
-: 1724591026:0;loginn
-: 1724591375:0;nfoxd
-: 1724591409:0;nvtop
-: 1724591473:0;nfoxd
-: 1724592045:0;pnpm dev
-: 1724592086:0;xdg-settings set default-web-browser firefox-developer-edition.desktop
-: 1724594726:0;npm i @solana/web3.js buffer bip39 tweetnacl
-: 1724594896:0;npm i ed25519-hd-key
-: 1724595200:0;node ./src/components/scripts/solana.js
-: 1724595368:0;npm i ed25519-hd-key
-: 1724595372:0;node ./src/components/scripts/solana.js
-: 1724600679:0;loginn
-: 1724611593:0;npm install buffer
-: 1724611810:0;npm install vite-plugin-node-polyfills --save-dev
-: 1724616609:0;npm install ethers
-: 1724621911:0;nfoxd
-: 1724621950:0;sudo rm /usr/lib/firefox-developer-edition/config.js
-: 1724621959:0;nfoxd
-: 1724622056:0;sudo cp temp/Firefox-Newtab/firefoxScripts/config.js /usr/lib/firefox-developer-edition
-: 1724622061:0;rl
-: 1724622065:0;nfoxd
-: 1724622206:0;alias pacpac='sudo pacman -Syu'
-: 1724622208:0;rl
-: 1724622213:0;pacpac
-: 1724622259:0;alias pacpac='sudo pacman -Syu'
-: 1724622263:0;pacpac
-: 1724622294:0;pacpac firefox
-: 1724622361:0;echo "alias pacpac='sudo pacman -Syu'" >> .zshrc
-: 1724622376:0;source .zshrc
-: 1724622382:0;pacpac firefox
-: 1724622438:0;sudo vim /usr/lib/firefox-developer-edition/config.js
-: 1724622939:0;nfoxd
-: 1724627361:0;loginn
-: 1724650978:0;neofetch
-: 1724650984:0;clear;fastfetch
-: 1724650991:0;c;catnap
-: 1724651053:0;nfoxd
-: 1724651061:0;loginn
-: 1724651120:0;pnpm dev
-: 1724652368:0;vite --host
-: 1724652386:0;pnpm dev
-: 1724652399:0;pnpm dev --host 
-: 1724652663:0;cat .config/hypr/userprefs.conf
-: 1724653186:0;pnpm dev 
-: 1724660443:0;nfoxd
-: 1724660466:0;pnpm dev 
-: 1724662190:0;nfoxd
-: 1724667442:0;reboot
-: 1724673594:0;loginn
-: 1724673597:0;rl
-: 1724673600:0;neofetch
-: 1724673680:0;c;catnap
-: 1724673682:0;clear;fastfetch
-: 1724673708:0;c;catnap
-: 1724673873:0;ani-cli one piece
-: 1724673953:0;pacpac
-: 1724674005:0;nfoxd
-: 1724674034:0;yarn dev
-: 1724676410:0;nfoxd
-: 1724677799:0;pnpm dev 
-: 1724685792:0;docker os
-: 1724685796:0;docker ps -a
+: 1722516150:0;hi there
+: 1722516209:0;cp .zsh_history .zsh_history_backup
